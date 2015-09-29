@@ -1,6 +1,9 @@
 {
 :lang :yaaku
 :sgpref "yak"
+:datasource "Heine1975"
+:geodemoURL "http://www.ethnologue.com/language/muu"
+:geodemoTXT "Varieties and subdialects of Yaaku are spoken in "
 :schemata {
 :aspect [:Definite, :Indefinite, :U]
 	  :case [:Indirect, :ObjectGeneral, :ObjectWInitial, :Subject]
