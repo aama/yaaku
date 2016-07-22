@@ -13,6 +13,7 @@
 
 aama:Yaaku a aamas:Language .
 aama:Yaaku rdfs:label "Yaaku" .
+aama:Yaaku aamas:lpref "yak" .
 aama:Yaaku aamas:dataSource "Heine1975" .
 aama:Yaaku aamas:geodemoURL "http://www.ethnologue.com/language/muu" .
 aama:Yaaku aamas:geodemoTXT "Varieties and subdialects of Yaaku are spoken in " .
@@ -578,7 +579,7 @@ yak:yaaku-VAffDefinitePast-eq a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID10b57f91-0130-416d-a207-674c8526f304 a aamas:Term ;
+aama:IDa8c43bc1-1f22-4847-a665-c9de96f552a0 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-eq ;
 	yak:aspect yak:Definite ;
@@ -593,7 +594,7 @@ aama:ID10b57f91-0130-416d-a207-674c8526f304 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID7a3d3f9f-139d-4264-9796-9759ff09937c a aamas:Term ;
+aama:ID97c98381-6526-4fa1-ab1d-96660b7a8c7f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-eq ;
 	yak:aspect yak:Definite ;
@@ -608,7 +609,7 @@ aama:ID7a3d3f9f-139d-4264-9796-9759ff09937c a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID9a776462-de42-4bea-ab68-cf378c71e118 a aamas:Term ;
+aama:ID9d4798ec-cbb5-41bb-b55e-f4bd5c9f8c3a a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-eq ;
 	yak:aspect yak:Definite ;
@@ -623,7 +624,7 @@ aama:ID9a776462-de42-4bea-ab68-cf378c71e118 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDe6c0463f-811f-411f-8676-9c99d386f4b6 a aamas:Term ;
+aama:ID41278003-a3fb-4425-b38b-7468e4cd1f06 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-eq ;
 	yak:aspect yak:Definite ;
@@ -638,7 +639,7 @@ aama:IDe6c0463f-811f-411f-8676-9c99d386f4b6 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID2d7f1220-1f18-4c78-9a1d-04c73d4a12f5 a aamas:Term ;
+aama:IDe3d943c8-f90f-48bb-a598-19eed928683b a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-eq ;
 	yak:aspect yak:Definite ;
@@ -653,7 +654,7 @@ aama:ID2d7f1220-1f18-4c78-9a1d-04c73d4a12f5 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDf057edb0-d4e8-40d4-b6fc-533bfc4ba464 a aamas:Term ;
+aama:ID21baf424-b208-4afa-a271-9b8959e020c3 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-eq ;
 	yak:aspect yak:Definite ;
@@ -668,7 +669,7 @@ aama:IDf057edb0-d4e8-40d4-b6fc-533bfc4ba464 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID44e75e58-a43b-4718-b8a0-372030aff64e a aamas:Term ;
+aama:ID5094a47c-9c9f-42d8-8b32-98916fdf0618 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-eq ;
 	yak:aspect yak:Definite ;
@@ -690,7 +691,7 @@ yak:yaaku-VAffDefinitePast-wax a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID9aa44600-75ed-4786-8c5f-9d266b256c84 a aamas:Term ;
+aama:IDce027034-7f44-44b9-81f1-fcd5569f113e a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -705,7 +706,7 @@ aama:ID9aa44600-75ed-4786-8c5f-9d266b256c84 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID29fec66d-4f44-4ffd-acd0-44d56d035120 a aamas:Term ;
+aama:ID475197a5-892d-4255-a27e-c73f10fdcca9 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -720,7 +721,7 @@ aama:ID29fec66d-4f44-4ffd-acd0-44d56d035120 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID3d6ce05a-5b7e-463a-8b8c-17f4c3bf21d0 a aamas:Term ;
+aama:ID945c95da-fe71-43d6-81a6-7684476251b1 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -735,7 +736,7 @@ aama:ID3d6ce05a-5b7e-463a-8b8c-17f4c3bf21d0 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID4e18988d-5c0b-40f3-a9b7-3b405ef6dc85 a aamas:Term ;
+aama:IDa96c280e-d189-46ff-b6b6-6442aa866c1f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -750,7 +751,7 @@ aama:ID4e18988d-5c0b-40f3-a9b7-3b405ef6dc85 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID94ffe30d-3961-4e68-82ad-60b8987953eb a aamas:Term ;
+aama:ID6faef8cc-86d1-4d44-8ae3-d95cf7007e75 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -765,7 +766,7 @@ aama:ID94ffe30d-3961-4e68-82ad-60b8987953eb a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID5202d28f-587c-492e-88af-b528bb9214e4 a aamas:Term ;
+aama:ID9011f420-fbf0-45ac-9b1a-e6042c0771b7 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -780,7 +781,7 @@ aama:ID5202d28f-587c-492e-88af-b528bb9214e4 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID32c7adf1-10e8-4f09-8187-9a67affce96a a aamas:Term ;
+aama:IDbbf1520f-6b6b-4a93-9b9d-5d2372de0173 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -802,7 +803,7 @@ yak:yaaku-VAffDefinitePastComp-kus a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject%%then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions%%intrerrogative words%%or object nouns. … The presence of me- usually implies a progressive action" 
 	.
 
-aama:IDfb71eefc-f2b3-4de0-8506-e62ea2254fb1 a aamas:Term ;
+aama:ID0f53a2c2-0b42-4d39-87bc-11006c20c314 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastComp-kus ;
 	yak:aspect yak:Definite ;
@@ -817,7 +818,7 @@ aama:IDfb71eefc-f2b3-4de0-8506-e62ea2254fb1 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDdab61481-ae13-4786-b0d2-7d5d2bea5436 a aamas:Term ;
+aama:IDeb010cd0-874b-4aa9-ae35-ec675b731d14 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastComp-kus ;
 	yak:aspect yak:Definite ;
@@ -832,7 +833,7 @@ aama:IDdab61481-ae13-4786-b0d2-7d5d2bea5436 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDdfea65ef-56ad-4bb8-8234-82ff30f0fb23 a aamas:Term ;
+aama:ID3b26981a-53fc-4715-b0ca-e65ec739e2e1 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastComp-kus ;
 	yak:aspect yak:Definite ;
@@ -847,7 +848,7 @@ aama:IDdfea65ef-56ad-4bb8-8234-82ff30f0fb23 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDa8aeb6ab-14e6-4d03-a260-97fb1234465e a aamas:Term ;
+aama:ID468ac541-b394-4c1c-9491-081d2d0f6e60 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastComp-kus ;
 	yak:aspect yak:Definite ;
@@ -862,7 +863,7 @@ aama:IDa8aeb6ab-14e6-4d03-a260-97fb1234465e a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDeb31bf4a-5716-4e9c-91ec-c7548dde794c a aamas:Term ;
+aama:ID5f27c516-8acf-41f0-9523-e0d98c215101 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastComp-kus ;
 	yak:aspect yak:Definite ;
@@ -877,7 +878,7 @@ aama:IDeb31bf4a-5716-4e9c-91ec-c7548dde794c a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID1ce590a0-3889-435b-9419-8de42d671418 a aamas:Term ;
+aama:ID2df48a70-1d14-4977-b25a-0ea1a2b8a9ba a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastComp-kus ;
 	yak:aspect yak:Definite ;
@@ -892,7 +893,7 @@ aama:ID1ce590a0-3889-435b-9419-8de42d671418 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID8bf17943-ee29-4035-9abc-efa91a8e7aed a aamas:Term ;
+aama:ID0622fe0e-ead2-4bf5-9fd9-5b71c9638d73 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastComp-kus ;
 	yak:aspect yak:Definite ;
@@ -914,7 +915,7 @@ yak:yaaku-VAffDefinitePastProg-wax a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:IDc7acf355-01f9-4ca7-88f7-973a3548054c a aamas:Term ;
+aama:ID4c97c223-a746-4ad9-aaac-dece38d81b66 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProg-wax ;
 	yak:aspect yak:Definite ;
@@ -929,7 +930,7 @@ aama:IDc7acf355-01f9-4ca7-88f7-973a3548054c a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID3df89fe0-e28f-4985-bd12-d861afb7475e a aamas:Term ;
+aama:IDc0092b61-c4b0-40b0-ba8c-f939e4f8ce89 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProg-wax ;
 	yak:aspect yak:Definite ;
@@ -944,7 +945,7 @@ aama:ID3df89fe0-e28f-4985-bd12-d861afb7475e a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID93dc4ecf-3337-457e-8c38-0650ca6505cc a aamas:Term ;
+aama:IDc4996527-4ade-4b0b-a3dc-66c1ac0577f2 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProg-wax ;
 	yak:aspect yak:Definite ;
@@ -959,7 +960,7 @@ aama:ID93dc4ecf-3337-457e-8c38-0650ca6505cc a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDd156eba9-d2bb-498f-a6e9-467e08a77585 a aamas:Term ;
+aama:ID1eeb690e-e8df-45ea-86cf-591a1dbf4065 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProg-wax ;
 	yak:aspect yak:Definite ;
@@ -974,7 +975,7 @@ aama:IDd156eba9-d2bb-498f-a6e9-467e08a77585 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID7f913c6e-50d6-4ab5-85c2-e0e659b54c06 a aamas:Term ;
+aama:ID9ed758b4-bae1-4bb8-a4ff-a7b5028f09ad a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProg-wax ;
 	yak:aspect yak:Definite ;
@@ -989,7 +990,7 @@ aama:ID7f913c6e-50d6-4ab5-85c2-e0e659b54c06 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID5a6f70bf-c67e-4171-998b-da1483891d9b a aamas:Term ;
+aama:IDa935c161-d45f-40e8-ae57-2001494db689 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProg-wax ;
 	yak:aspect yak:Definite ;
@@ -1004,7 +1005,7 @@ aama:ID5a6f70bf-c67e-4171-998b-da1483891d9b a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDc9a1ef78-2e2c-47ba-9c03-56691d248931 a aamas:Term ;
+aama:ID06604cc1-6f77-4d01-97e2-864d214a7007 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProg-wax ;
 	yak:aspect yak:Definite ;
@@ -1026,7 +1027,7 @@ yak:yaaku-VAffDefinitePastProgComp-kus a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject%%then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions%%intrerrogative words%%or object nouns. … The presence of me- usually implies a progressive action" 
 	.
 
-aama:ID2d597f25-74b3-4fed-b4a9-f4644d51bd8d a aamas:Term ;
+aama:ID817066bf-5a4e-46cc-bae1-901cdd35fce5 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProgComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1041,7 +1042,7 @@ aama:ID2d597f25-74b3-4fed-b4a9-f4644d51bd8d a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDe5ec868d-8161-4a4f-8ee1-c53a3d9f6933 a aamas:Term ;
+aama:IDe38fdc06-f0af-475c-b123-c217899ce717 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProgComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1056,7 +1057,7 @@ aama:IDe5ec868d-8161-4a4f-8ee1-c53a3d9f6933 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID2d6d9288-d03b-408c-990e-9847c7da677f a aamas:Term ;
+aama:ID97533f3b-4905-4b0b-8102-4f24472ab593 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProgComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1071,7 +1072,7 @@ aama:ID2d6d9288-d03b-408c-990e-9847c7da677f a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID589d898b-43ba-4b29-a294-ff3e5f1393e9 a aamas:Term ;
+aama:ID72007f77-5d38-452b-a255-6cae3e349b5b a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProgComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1086,7 +1087,7 @@ aama:ID589d898b-43ba-4b29-a294-ff3e5f1393e9 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb23512a9-cc2c-449a-9812-bd3709514028 a aamas:Term ;
+aama:IDf3369897-0c12-4b70-8363-df6cf112a35e a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProgComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1101,7 +1102,7 @@ aama:IDb23512a9-cc2c-449a-9812-bd3709514028 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDcd3a3ceb-1a02-4f0b-b119-0714fdd3816c a aamas:Term ;
+aama:ID03227b6e-4fa3-4409-9bda-c3f73237c86b a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProgComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1116,7 +1117,7 @@ aama:IDcd3a3ceb-1a02-4f0b-b119-0714fdd3816c a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDd7b07482-657a-4bc7-9632-263b0f3df89b a aamas:Term ;
+aama:ID230bf60c-7077-4019-a0b8-b5d04032b3a2 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePastProgComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1138,7 +1139,7 @@ yak:yaaku-VAffDefinitePerf-wax a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID6d667299-9e98-48c0-81fa-d46f8ee2f812 a aamas:Term ;
+aama:ID890c29d1-c0df-4465-b0df-816bb5dae44c a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -1153,7 +1154,7 @@ aama:ID6d667299-9e98-48c0-81fa-d46f8ee2f812 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID39937e23-d1de-4a90-bde4-31a53028d008 a aamas:Term ;
+aama:IDe203b2ee-a8ec-4e8c-8a89-432d97e160ea a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -1168,7 +1169,7 @@ aama:ID39937e23-d1de-4a90-bde4-31a53028d008 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb188e80d-34b1-4198-97b3-9e0514a37186 a aamas:Term ;
+aama:IDd4e523b1-3416-4717-b608-c806c3704726 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -1183,7 +1184,7 @@ aama:IDb188e80d-34b1-4198-97b3-9e0514a37186 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID3fe88329-5f7f-4d38-b65e-652ddf4ec770 a aamas:Term ;
+aama:ID2d6032c6-5d9b-4466-a380-a4b50242ce82 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -1198,7 +1199,7 @@ aama:ID3fe88329-5f7f-4d38-b65e-652ddf4ec770 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID6c63bda8-647d-415c-ae1b-498dc25273bc a aamas:Term ;
+aama:IDf1fe3128-47d5-48e2-836e-2edba24cd70b a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -1213,7 +1214,7 @@ aama:ID6c63bda8-647d-415c-ae1b-498dc25273bc a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID66660043-4015-4a63-8849-e91d73d41057 a aamas:Term ;
+aama:IDf3909ae7-3852-4605-b6aa-5a8e07308854 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -1228,7 +1229,7 @@ aama:ID66660043-4015-4a63-8849-e91d73d41057 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID63638df6-5dba-4c5c-8fe1-559e0f2b5ffc a aamas:Term ;
+aama:IDc79bf647-163d-4342-aa0e-ed77a81ff993 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -1250,7 +1251,7 @@ yak:yaaku-VAffDefinitePerfComp-kus a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject%%then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions%%intrerrogative words%%or object nouns. … The presence of me- usually implies a progressive action" 
 	.
 
-aama:ID9ef7d475-b7c3-4ef9-b806-e81950ea7c4b a aamas:Term ;
+aama:ID0a572e82-e5c0-4b1c-ba06-e312ee68a574 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerfComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1265,7 +1266,7 @@ aama:ID9ef7d475-b7c3-4ef9-b806-e81950ea7c4b a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID645c34ec-f4f2-4eb4-9352-ed764f5d4f55 a aamas:Term ;
+aama:IDa3d6941a-5dca-44b8-9151-401dc16702a6 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerfComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1280,7 +1281,7 @@ aama:ID645c34ec-f4f2-4eb4-9352-ed764f5d4f55 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDd42677ef-c32b-4800-a70b-2723fca2d5f4 a aamas:Term ;
+aama:ID4cf003c7-5f30-4447-85e3-98819fb4e7c5 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerfComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1295,7 +1296,7 @@ aama:IDd42677ef-c32b-4800-a70b-2723fca2d5f4 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID92563895-0f03-413f-9deb-040b41900e73 a aamas:Term ;
+aama:ID9fc675e9-b871-4585-b6a5-4aedd2ca518b a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerfComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1310,7 +1311,7 @@ aama:ID92563895-0f03-413f-9deb-040b41900e73 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID07522e53-1bef-4df9-a41d-c0cda5c79d13 a aamas:Term ;
+aama:IDd067377f-3af5-43be-9eae-6c390eecc6b9 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerfComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1325,7 +1326,7 @@ aama:ID07522e53-1bef-4df9-a41d-c0cda5c79d13 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID490e7ed8-b707-41c5-850c-97caf7d30c87 a aamas:Term ;
+aama:IDb8a40413-ab01-457d-a800-883da6c218ba a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePerfComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1347,7 +1348,7 @@ yak:yaaku-VAffDefinitePres-eq a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:IDf96144cc-8864-411e-b65c-fb6b6bcddc6d a aamas:Term ;
+aama:ID8e5ebe46-e93b-405b-9711-5abb33588dd5 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -1362,7 +1363,7 @@ aama:IDf96144cc-8864-411e-b65c-fb6b6bcddc6d a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDff174de9-37f2-424a-ab35-2d153233e5ca a aamas:Term ;
+aama:ID8b3bc23d-0979-4137-b5e0-d1378658f5d9 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -1377,7 +1378,7 @@ aama:IDff174de9-37f2-424a-ab35-2d153233e5ca a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDcd7119b2-89f5-4a39-94e2-19da05627bba a aamas:Term ;
+aama:ID196dbf49-4407-4ce5-93a4-d8ff040fa68e a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -1392,7 +1393,7 @@ aama:IDcd7119b2-89f5-4a39-94e2-19da05627bba a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID6582acd9-6ecb-45d2-a334-339a6430bd84 a aamas:Term ;
+aama:ID1aba8fa9-d8fe-4ad3-8469-e17e7a1b92d6 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -1407,7 +1408,7 @@ aama:ID6582acd9-6ecb-45d2-a334-339a6430bd84 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDa3227eb3-da40-4b44-be35-fd2dab621afe a aamas:Term ;
+aama:IDa2630ce1-4adc-4599-8708-962168cd03d7 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -1422,7 +1423,7 @@ aama:IDa3227eb3-da40-4b44-be35-fd2dab621afe a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID5b9a15e5-c49c-497c-ab45-6ad5f6ccd634 a aamas:Term ;
+aama:ID32c860d2-e52c-4f2b-8dbe-a384856a9999 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -1437,7 +1438,7 @@ aama:ID5b9a15e5-c49c-497c-ab45-6ad5f6ccd634 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID1b5f3f86-6b9d-491e-ad79-2a5c53b6c26c a aamas:Term ;
+aama:ID200b6e5a-e8b0-4c4a-a4cd-6cc5f529b8cb a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -1459,7 +1460,7 @@ yak:yaaku-VAffDefinitePres-wax a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:IDfe28d78b-b050-43a4-8f2f-7a219e9865d2 a aamas:Term ;
+aama:ID7a8aff5f-7d24-4abe-99d2-2fd359bea855 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -1474,7 +1475,7 @@ aama:IDfe28d78b-b050-43a4-8f2f-7a219e9865d2 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID54b45b4b-c663-4ed6-a386-cc72bf0d9f39 a aamas:Term ;
+aama:ID7e454d29-914a-4dc6-979e-c4b178b46cc0 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -1489,7 +1490,7 @@ aama:ID54b45b4b-c663-4ed6-a386-cc72bf0d9f39 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID75b8319d-e2ae-4575-9364-f9ce69895139 a aamas:Term ;
+aama:IDc2771fe8-ccbf-4a7e-88f2-008b16ccd99d a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -1504,7 +1505,7 @@ aama:ID75b8319d-e2ae-4575-9364-f9ce69895139 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID64d2868e-33e7-4c38-99a4-dcbb0b04bfda a aamas:Term ;
+aama:ID281c2f86-5abb-487d-9e92-abd4a3727c84 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -1519,7 +1520,7 @@ aama:ID64d2868e-33e7-4c38-99a4-dcbb0b04bfda a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDdd68e5f6-b1c5-4fe5-8bae-c1b50531eb2d a aamas:Term ;
+aama:IDdeeb76db-c52a-4f91-9750-1a14f11a7399 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -1534,7 +1535,7 @@ aama:IDdd68e5f6-b1c5-4fe5-8bae-c1b50531eb2d a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDff3013e5-b63e-43c7-8e98-731fd4e88d8c a aamas:Term ;
+aama:IDaf520cbf-7347-44d2-a9e4-8f09051acb38 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -1549,7 +1550,7 @@ aama:IDff3013e5-b63e-43c7-8e98-731fd4e88d8c a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDff1bd6e5-7c51-459a-b219-0fee6da73eee a aamas:Term ;
+aama:ID5bf8a865-9b66-4e7f-a50b-1ff8d4340a54 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -1571,7 +1572,7 @@ yak:yaaku-VAffDefinitePresComp-kus a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject%%then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions%%intrerrogative words%%or object nouns. … The presence of me- usually implies a progressive action" 
 	.
 
-aama:ID2e3df7df-39fc-41e6-951a-708c42cb91e5 a aamas:Term ;
+aama:IDa186b2d6-0d76-4634-9d98-30963747cbd4 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePresComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1586,7 +1587,7 @@ aama:ID2e3df7df-39fc-41e6-951a-708c42cb91e5 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDdd4b2e4f-f9d8-453c-b16d-3a93bea4dcfd a aamas:Term ;
+aama:ID48358459-39bd-4ed1-9302-a05f421d9941 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePresComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1601,7 +1602,7 @@ aama:IDdd4b2e4f-f9d8-453c-b16d-3a93bea4dcfd a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID1e7fc85e-65e8-405a-a2cb-b8885d6cbcbf a aamas:Term ;
+aama:IDfad51984-f5d5-4cc2-8247-a987ac561fea a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePresComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1616,7 +1617,7 @@ aama:ID1e7fc85e-65e8-405a-a2cb-b8885d6cbcbf a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID4e7ecefc-9c72-4d19-9c2d-9cb07299036c a aamas:Term ;
+aama:IDf386e131-443e-45ed-b44a-6a1c0185b3ba a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePresComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1631,7 +1632,7 @@ aama:ID4e7ecefc-9c72-4d19-9c2d-9cb07299036c a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID077a0b0f-edd1-42d8-852a-ae1b05738768 a aamas:Term ;
+aama:ID3bf52017-8651-4efe-9e19-ee8337905296 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePresComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1646,7 +1647,7 @@ aama:ID077a0b0f-edd1-42d8-852a-ae1b05738768 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID186361c0-1cbd-4dd5-b47e-9f85fe5f5c3d a aamas:Term ;
+aama:IDe5a39774-d7d1-48dd-b73e-1a8859df296f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePresComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1661,7 +1662,7 @@ aama:ID186361c0-1cbd-4dd5-b47e-9f85fe5f5c3d a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID392fbf9a-6ecf-4b20-ade5-c6f28205f1c3 a aamas:Term ;
+aama:ID3f88c0d0-7516-4d07-b04e-ac70d18d9ff1 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffDefinitePresComp-kus ;
 	yak:aspect yak:Definite ;
@@ -1683,7 +1684,7 @@ yak:yaaku-VAffIndefinitePres-eq a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID4ce6faa0-ffff-47ce-8391-80d22b2a1b30 a aamas:Term ;
+aama:ID505b1a40-0528-4499-b549-90bc00616013 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -1698,7 +1699,7 @@ aama:ID4ce6faa0-ffff-47ce-8391-80d22b2a1b30 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID1fe8e34f-ab52-445d-8096-542c417a2dbe a aamas:Term ;
+aama:ID44480585-3f16-45cf-b71e-3be16d33a734 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -1713,7 +1714,7 @@ aama:ID1fe8e34f-ab52-445d-8096-542c417a2dbe a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID232d055e-4f37-4d2a-8d47-3c7a9da5b857 a aamas:Term ;
+aama:IDfd9222f5-7314-475b-971c-061180bbc6d3 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -1728,7 +1729,7 @@ aama:ID232d055e-4f37-4d2a-8d47-3c7a9da5b857 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID7a4baade-29b0-445e-84a4-8a7edde8754c a aamas:Term ;
+aama:ID6b667cb2-bf8d-4147-b8d6-f0a0c4051905 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -1743,7 +1744,7 @@ aama:ID7a4baade-29b0-445e-84a4-8a7edde8754c a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID5dfec7df-9f60-42b7-a560-00c580a67e5d a aamas:Term ;
+aama:ID8e6098ad-30a6-48d9-beff-56b8ac597b5c a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -1758,7 +1759,7 @@ aama:ID5dfec7df-9f60-42b7-a560-00c580a67e5d a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDfd8523af-e9da-4d33-a9ed-db2280e1ff59 a aamas:Term ;
+aama:ID36d6ad28-9d51-4a1f-af8e-ca431c011ca4 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -1773,7 +1774,7 @@ aama:IDfd8523af-e9da-4d33-a9ed-db2280e1ff59 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDeb7f7009-cbc9-4d10-ab0e-17f92417557c a aamas:Term ;
+aama:IDf42c366b-bdc2-409a-82f8-f63a1e561e35 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -1795,7 +1796,7 @@ yak:yaaku-VAffIndefinitePresComp-kus a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject%%then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions%%intrerrogative words%%or object nouns. … The presence of me- usually implies a progressive action" 
 	.
 
-aama:ID56479f49-87b4-4a2f-9a41-33ba296bd799 a aamas:Term ;
+aama:ID5bb06d68-043b-4b89-b468-b8180396e45d a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePresComp-kus ;
 	yak:aspect yak:Indefinite ;
@@ -1810,7 +1811,7 @@ aama:ID56479f49-87b4-4a2f-9a41-33ba296bd799 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID27b48f60-2226-4c58-af6d-08cf2ebbc4e2 a aamas:Term ;
+aama:ID7c520486-bff9-4790-a591-5f6ed09167e0 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePresComp-kus ;
 	yak:aspect yak:Indefinite ;
@@ -1825,7 +1826,7 @@ aama:ID27b48f60-2226-4c58-af6d-08cf2ebbc4e2 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID33e60a75-b383-4eff-b7fd-02b4e1768b88 a aamas:Term ;
+aama:IDf0422091-9e62-4edd-a59d-55a255801e7f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePresComp-kus ;
 	yak:aspect yak:Indefinite ;
@@ -1840,7 +1841,7 @@ aama:ID33e60a75-b383-4eff-b7fd-02b4e1768b88 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDd144a212-2e85-482c-b6fa-2036fe3fc60c a aamas:Term ;
+aama:IDe1652a3c-d788-4fb8-b5b7-53e2b034f667 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePresComp-kus ;
 	yak:aspect yak:Indefinite ;
@@ -1855,7 +1856,7 @@ aama:IDd144a212-2e85-482c-b6fa-2036fe3fc60c a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID2b3659a3-e318-4a3d-b880-1da993602dd2 a aamas:Term ;
+aama:ID366e4ec9-5feb-4e65-adaf-acbd323b7c94 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePresComp-kus ;
 	yak:aspect yak:Indefinite ;
@@ -1870,7 +1871,7 @@ aama:ID2b3659a3-e318-4a3d-b880-1da993602dd2 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID6db94e19-32b2-45fa-b4f4-68e5c31e2b2d a aamas:Term ;
+aama:ID7234534f-e3c1-4aff-908d-372e60106055 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePresComp-kus ;
 	yak:aspect yak:Indefinite ;
@@ -1885,7 +1886,7 @@ aama:ID6db94e19-32b2-45fa-b4f4-68e5c31e2b2d a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDae2902b4-e0ea-43d2-9303-e92c23d71b1f a aamas:Term ;
+aama:ID2c671055-3640-4cae-b907-14fdba332f8f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinitePresComp-kus ;
 	yak:aspect yak:Indefinite ;
@@ -1907,7 +1908,7 @@ yak:yaaku-VAffIndefinteFut-wax a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:IDc1aaa80a-747f-4a92-bb1a-ff5218424060 a aamas:Term ;
+aama:ID073a9b33-3fc7-42c2-a128-3b8b10786dff a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinteFut-wax ;
 	yak:aspect yak:Indefinite ;
@@ -1922,7 +1923,7 @@ aama:IDc1aaa80a-747f-4a92-bb1a-ff5218424060 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID1d4d1386-265f-42b6-b500-3b0f97c9019d a aamas:Term ;
+aama:ID65af99c3-a24b-439c-a6f6-ac6d1cd6ff8f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinteFut-wax ;
 	yak:aspect yak:Indefinite ;
@@ -1937,7 +1938,7 @@ aama:ID1d4d1386-265f-42b6-b500-3b0f97c9019d a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDd6a30949-af03-4ecc-a864-4408a78a6a2d a aamas:Term ;
+aama:ID068686bc-f51a-41e0-86bd-d75ae6cc321d a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinteFut-wax ;
 	yak:aspect yak:Indefinite ;
@@ -1952,7 +1953,7 @@ aama:IDd6a30949-af03-4ecc-a864-4408a78a6a2d a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb7a38e3c-dbc2-4027-9c80-050c1acaa4af a aamas:Term ;
+aama:ID8e6917ea-0428-40c4-bdb6-f8b8260bd94a a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinteFut-wax ;
 	yak:aspect yak:Indefinite ;
@@ -1967,7 +1968,7 @@ aama:IDb7a38e3c-dbc2-4027-9c80-050c1acaa4af a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID3080423f-26d3-4c52-a58f-3251f5cb3500 a aamas:Term ;
+aama:ID2fc9f462-bc6c-473f-bbe4-d42c295ba5e0 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinteFut-wax ;
 	yak:aspect yak:Indefinite ;
@@ -1982,7 +1983,7 @@ aama:ID3080423f-26d3-4c52-a58f-3251f5cb3500 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID3ddb1dfb-d915-4404-b9d5-1d13023e71e7 a aamas:Term ;
+aama:IDbe633124-c1c0-499d-a657-e19710025535 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinteFut-wax ;
 	yak:aspect yak:Indefinite ;
@@ -1997,7 +1998,7 @@ aama:ID3ddb1dfb-d915-4404-b9d5-1d13023e71e7 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDccf6a742-8d26-4da1-bba2-303bd558cc50 a aamas:Term ;
+aama:ID0fe12485-1229-4f20-8f2b-5e37da9279c8 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefinteFut-wax ;
 	yak:aspect yak:Indefinite ;
@@ -2019,7 +2020,7 @@ yak:yaaku-VAffIndefintePres-wax a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:IDbd1ebc1e-e452-494d-a25c-66c48df7d578 a aamas:Term ;
+aama:IDd61eb3ff-7878-46bb-a252-9814a4769ba1 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefintePres-wax ;
 	yak:aspect yak:Indefinite ;
@@ -2034,7 +2035,7 @@ aama:IDbd1ebc1e-e452-494d-a25c-66c48df7d578 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID14f08272-6af2-43f3-a29d-4e68af33092e a aamas:Term ;
+aama:ID6f669393-a12f-4518-bef5-d0b252d90063 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefintePres-wax ;
 	yak:aspect yak:Indefinite ;
@@ -2049,7 +2050,7 @@ aama:ID14f08272-6af2-43f3-a29d-4e68af33092e a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDcd94c3d4-5b04-4cf2-bc8e-b2a0c0ed1449 a aamas:Term ;
+aama:ID5b600d84-d622-4968-b0f2-c7f8e8c37fd9 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefintePres-wax ;
 	yak:aspect yak:Indefinite ;
@@ -2064,7 +2065,7 @@ aama:IDcd94c3d4-5b04-4cf2-bc8e-b2a0c0ed1449 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID90d41715-ed2f-4f34-b137-a1919a154e0e a aamas:Term ;
+aama:ID0b3ee9fd-f3c3-49d8-8c6b-a2251faed043 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefintePres-wax ;
 	yak:aspect yak:Indefinite ;
@@ -2079,7 +2080,7 @@ aama:ID90d41715-ed2f-4f34-b137-a1919a154e0e a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID5b8644eb-697c-45e7-88e2-5437aaf1d168 a aamas:Term ;
+aama:IDf0de902e-513e-4ce8-87c1-aa69dd33c525 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefintePres-wax ;
 	yak:aspect yak:Indefinite ;
@@ -2094,7 +2095,7 @@ aama:ID5b8644eb-697c-45e7-88e2-5437aaf1d168 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID08fd00d3-23fe-4d78-a533-0ceca2354590 a aamas:Term ;
+aama:IDc912a377-1783-45e7-9343-15a1f4bdfc39 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefintePres-wax ;
 	yak:aspect yak:Indefinite ;
@@ -2109,7 +2110,7 @@ aama:ID08fd00d3-23fe-4d78-a533-0ceca2354590 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID546f525d-00b7-4b3d-9822-2d90156552a7 a aamas:Term ;
+aama:ID94fe5ccb-bf24-40c2-bdd6-116a4d2a768f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VAffIndefintePres-wax ;
 	yak:aspect yak:Indefinite ;
@@ -2131,7 +2132,7 @@ yak:yaaku-VCopAAffDefinitePastCopulaVerb-ke a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 54f. “Instead of ke%%two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral%%B if followed by adj." 
 	.
 
-aama:ID17b34e50-5f92-4a28-a862-388b71a94792 a aamas:Term ;
+aama:ID0cf35b60-3089-4010-acc1-057c59b0ca25 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePastCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2146,7 +2147,7 @@ aama:ID17b34e50-5f92-4a28-a862-388b71a94792 a aamas:Term ;
 	yak:person yak:Person1 ;
 	.
 
-aama:ID22cb5b63-7ac2-4894-a4fc-3c234d929a90 a aamas:Term ;
+aama:IDe70024dc-25e3-4306-8ad0-3e682a840653 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePastCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2161,7 +2162,7 @@ aama:ID22cb5b63-7ac2-4894-a4fc-3c234d929a90 a aamas:Term ;
 	yak:person yak:Person2 ;
 	.
 
-aama:IDdd9dd4c9-c4c0-4e0c-adc1-2635a23e2531 a aamas:Term ;
+aama:ID66a3c924-fcaf-4646-8624-870573437201 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePastCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2183,7 +2184,7 @@ yak:yaaku-VCopAAffDefinitePerfCopulaVerb-ke a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 54f. “Instead of ke%%two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral%%B if followed by adj." 
 	.
 
-aama:IDc1a92ece-b496-4105-a67e-9dbada9d2794 a aamas:Term ;
+aama:IDa69323f1-6483-45af-a341-31641f831a48 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePerfCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2198,7 +2199,7 @@ aama:IDc1a92ece-b496-4105-a67e-9dbada9d2794 a aamas:Term ;
 	yak:person yak:Person1 ;
 	.
 
-aama:ID7171007c-da83-420b-9a59-557e772b4a48 a aamas:Term ;
+aama:ID3389519e-8681-46e2-a442-7beb5e6d6d61 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePerfCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2213,7 +2214,7 @@ aama:ID7171007c-da83-420b-9a59-557e772b4a48 a aamas:Term ;
 	yak:person yak:Person2 ;
 	.
 
-aama:ID14121aa3-e3d2-49a7-92a2-b774e3b54df3 a aamas:Term ;
+aama:IDa7920c2e-656e-4c9b-9bb8-82fc44bbd6d4 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePerfCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2235,7 +2236,7 @@ yak:yaaku-VCopAAffDefinitePresCopulaVerb-ke a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 54f. “Instead of ke%%two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral%%B if followed by adj." 
 	.
 
-aama:ID366ac692-97fa-418a-8d2b-a8b4e62eca4c a aamas:Term ;
+aama:IDf2bf8ea0-3bf0-4aef-b8ba-c10f8589e0a5 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2250,7 +2251,7 @@ aama:ID366ac692-97fa-418a-8d2b-a8b4e62eca4c a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDa448c633-49ac-4860-b002-ee8e57343022 a aamas:Term ;
+aama:IDb6b09dc2-5091-4f50-9799-0d56bba81947 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2265,7 +2266,7 @@ aama:IDa448c633-49ac-4860-b002-ee8e57343022 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID9d39ab1a-3e13-4f27-8aed-d8cd8e316885 a aamas:Term ;
+aama:ID1d2cf7c6-2911-424a-babd-514cbaebfd0a a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2280,7 +2281,7 @@ aama:ID9d39ab1a-3e13-4f27-8aed-d8cd8e316885 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID171baf1a-69f8-4e7e-bb13-e2760be1be85 a aamas:Term ;
+aama:ID23eb6083-0056-4dbf-8ac0-f1764df2bcb8 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2295,7 +2296,7 @@ aama:ID171baf1a-69f8-4e7e-bb13-e2760be1be85 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDff8375bb-9437-422c-b095-83d5b67791c9 a aamas:Term ;
+aama:IDf8604ab0-836c-46f3-9295-aba0ed8f3464 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2310,7 +2311,7 @@ aama:IDff8375bb-9437-422c-b095-83d5b67791c9 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID3251cfbb-e2d0-4405-87cc-c2c7f49ca311 a aamas:Term ;
+aama:ID08b657d9-ad12-4e02-b7c3-f0eb8f2aa1bc a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffDefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Definite ;
@@ -2332,7 +2333,7 @@ yak:yaaku-VCopAAffIndefinitePastCopulaVerb-ke a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 54f. “Instead of ke%%two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral%%B if followed by adj." 
 	.
 
-aama:ID52c37a7a-6e3e-4eb5-bdd6-ca9a73d89437 a aamas:Term ;
+aama:IDcc5cde28-4b84-41bb-a716-79089ae1e2e0 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePastCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2347,7 +2348,7 @@ aama:ID52c37a7a-6e3e-4eb5-bdd6-ca9a73d89437 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID44538d1c-a2e5-4bb2-bdc5-fe1228eb2f1d a aamas:Term ;
+aama:ID512e77cc-61c2-466d-8e27-35475f30fba6 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePastCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2362,7 +2363,7 @@ aama:ID44538d1c-a2e5-4bb2-bdc5-fe1228eb2f1d a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDcb08d70d-3975-441e-84a8-9955bc4058b8 a aamas:Term ;
+aama:ID9a809af5-dd32-466b-9fc4-5f8ca8926c1b a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePastCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2377,7 +2378,7 @@ aama:IDcb08d70d-3975-441e-84a8-9955bc4058b8 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID45d7a7c2-eebb-4f8c-8edc-880dfe2630fa a aamas:Term ;
+aama:IDda5d391c-f4c2-4d69-9362-25945b5741ea a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePastCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2392,7 +2393,7 @@ aama:ID45d7a7c2-eebb-4f8c-8edc-880dfe2630fa a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDe7d4386c-90be-4f6a-8904-e668a4f4de2c a aamas:Term ;
+aama:IDf9ca4bce-a48b-407d-bac5-9834ec0c173b a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePastCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2407,7 +2408,7 @@ aama:IDe7d4386c-90be-4f6a-8904-e668a4f4de2c a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDf049c4ac-ce89-4e2e-bcaf-5836e3a02cca a aamas:Term ;
+aama:ID62fdef87-7e2b-4ad5-bfe0-ddd565a3f8d5 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePastCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2429,7 +2430,7 @@ yak:yaaku-VCopAAffIndefinitePerfCopulaVerb-ke a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 54f. “Instead of ke%%two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral%%B if followed by adj." 
 	.
 
-aama:IDde0e39a5-9e51-4525-bd1f-b0bbb773303f a aamas:Term ;
+aama:IDecd94656-056f-41ea-8545-eb347ab6b25a a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePerfCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2444,7 +2445,7 @@ aama:IDde0e39a5-9e51-4525-bd1f-b0bbb773303f a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID01629d30-caa9-4e74-860e-00271662abef a aamas:Term ;
+aama:IDb7e05e41-ebbe-47e4-9c3d-0b5045c33423 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePerfCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2459,7 +2460,7 @@ aama:ID01629d30-caa9-4e74-860e-00271662abef a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb431aab5-0a41-4f00-84b5-4cffebca2e4b a aamas:Term ;
+aama:ID64376847-312c-4b85-ac3a-3cf6d4089e99 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePerfCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2474,7 +2475,7 @@ aama:IDb431aab5-0a41-4f00-84b5-4cffebca2e4b a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID6c41c8b0-371a-44a0-8a00-74ff95781245 a aamas:Term ;
+aama:IDf017034b-7f7b-430d-825b-3c4253f1abcf a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePerfCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2489,7 +2490,7 @@ aama:ID6c41c8b0-371a-44a0-8a00-74ff95781245 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID9684fea1-302a-4d77-8aa7-68032ee808b8 a aamas:Term ;
+aama:IDd0466c95-bafa-4018-97dc-2958ed9107bd a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePerfCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2504,7 +2505,7 @@ aama:ID9684fea1-302a-4d77-8aa7-68032ee808b8 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID07c1512b-7452-4f8d-977d-3870992ffd82 a aamas:Term ;
+aama:IDa80a2a4b-59ed-4657-85e4-24a29e156948 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePerfCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2526,7 +2527,7 @@ yak:yaaku-VCopAAffIndefinitePresCopulaVerb-ke a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 54f. “Instead of ke%%two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral%%B if followed by adj." 
 	.
 
-aama:ID58f0f40c-e950-4c7b-97fd-3ee835bdaad3 a aamas:Term ;
+aama:ID21a8e575-f9b8-47e3-a7b6-e7624e10e894 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2541,7 +2542,7 @@ aama:ID58f0f40c-e950-4c7b-97fd-3ee835bdaad3 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID674ed4cb-cddc-4c02-898a-305b28983df5 a aamas:Term ;
+aama:IDe49b3c87-cb35-4cec-8985-dee1207f177a a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2556,7 +2557,7 @@ aama:ID674ed4cb-cddc-4c02-898a-305b28983df5 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID66b38702-5580-49e4-bada-0687b7b21a70 a aamas:Term ;
+aama:ID2186d08d-f76f-4290-8ff9-9a8fbae31da5 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2571,7 +2572,7 @@ aama:ID66b38702-5580-49e4-bada-0687b7b21a70 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID1da0d7ed-3a46-40cb-ba05-09875b7c49d7 a aamas:Term ;
+aama:IDd6749bc0-ecde-4c98-b714-363e1a925f28 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2586,7 +2587,7 @@ aama:ID1da0d7ed-3a46-40cb-ba05-09875b7c49d7 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID63a81470-01f1-4c5d-a948-f5372d4a99da a aamas:Term ;
+aama:IDc2b05351-6a04-4c3e-b7aa-18bb9958d0f1 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2601,7 +2602,7 @@ aama:ID63a81470-01f1-4c5d-a948-f5372d4a99da a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID134b3df4-88af-4611-a4e7-5d5685905afe a aamas:Term ;
+aama:ID98900f8a-c7b4-4a07-97eb-8e0dcfb6295f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopAAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2623,7 +2624,7 @@ yak:yaaku-VCopANegIndefinitePresCopulaVerb-ke a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 54f. “Instead of ke%%two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral%%B if followed by adj." 
 	.
 
-aama:IDa1eaa0b3-ecd0-419a-bde5-36dc7ff3168f a aamas:Term ;
+aama:IDf7962d04-06aa-4b5d-bdca-9d99a8d46651 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopANegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2638,7 +2639,7 @@ aama:IDa1eaa0b3-ecd0-419a-bde5-36dc7ff3168f a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID2117d0d5-fd9d-4dd7-a288-3c39dc6163bf a aamas:Term ;
+aama:IDca7d510b-3f9e-46b8-9919-507bcea784c6 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopANegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2653,7 +2654,7 @@ aama:ID2117d0d5-fd9d-4dd7-a288-3c39dc6163bf a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID7f6328a4-b596-4bf2-bc9e-7181a6a5a827 a aamas:Term ;
+aama:IDf26ad144-372f-46b4-9ca5-0000c65d1707 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopANegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2668,7 +2669,7 @@ aama:ID7f6328a4-b596-4bf2-bc9e-7181a6a5a827 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID73381f93-49ad-4208-99a9-98960bd9e405 a aamas:Term ;
+aama:IDa216f924-bd70-4538-a32f-2929d477459c a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopANegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2683,7 +2684,7 @@ aama:ID73381f93-49ad-4208-99a9-98960bd9e405 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDee124e85-5e7a-476c-87bf-1a2ecda68af7 a aamas:Term ;
+aama:ID9702a382-d34b-4bb5-b010-b1f23e29ffa6 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopANegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2698,7 +2699,7 @@ aama:IDee124e85-5e7a-476c-87bf-1a2ecda68af7 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID885b31ec-3179-483e-8820-d7743de1a895 a aamas:Term ;
+aama:IDe6a7328b-3cf4-4783-af68-fc4186809eb3 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopANegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2720,7 +2721,7 @@ yak:yaaku-VCopBAffIndefinitePresCopulaVerb-ke a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 54f. “Instead of ke%%two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral%%B if followed by adj." 
 	.
 
-aama:IDcff1a844-ac49-4186-ace5-3a92cd267cbe a aamas:Term ;
+aama:ID5a090b18-d0b1-45c4-9fc8-1e7d2abada60 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2735,7 +2736,7 @@ aama:IDcff1a844-ac49-4186-ace5-3a92cd267cbe a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDbd3677c3-a025-4dbf-90c3-71dfe202ae2b a aamas:Term ;
+aama:ID4614723d-4f36-4678-ac1c-2c608580dccc a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2750,7 +2751,7 @@ aama:IDbd3677c3-a025-4dbf-90c3-71dfe202ae2b a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID7340f846-77f6-4d91-ac58-1aa63f683bec a aamas:Term ;
+aama:IDec6e7005-bb32-4fe8-82d9-c0d8be943d8a a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2765,7 +2766,7 @@ aama:ID7340f846-77f6-4d91-ac58-1aa63f683bec a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID02756199-6019-48d8-be8f-7781775de692 a aamas:Term ;
+aama:ID8ab72671-e9fe-47d1-bcd7-b4c2b363d64a a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2780,7 +2781,7 @@ aama:ID02756199-6019-48d8-be8f-7781775de692 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID4f33cb06-7245-485a-bb23-4a09f954a77e a aamas:Term ;
+aama:ID2f68c84c-d0f3-4f97-9a39-f2980b8244ab a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2795,7 +2796,7 @@ aama:ID4f33cb06-7245-485a-bb23-4a09f954a77e a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID904ac53b-4e3a-4d8d-bd8c-9657e1b2c06d a aamas:Term ;
+aama:ID92654a89-fc23-4a9f-b0f4-459713723478 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBAffIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2817,7 +2818,7 @@ yak:yaaku-VCopBNegIndefinitePresCopulaVerb-ke a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 54f. “Instead of ke%%two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral%%B if followed by adj." 
 	.
 
-aama:IDe4248208-e0c9-4db1-afd4-b3b34bb3bf1f a aamas:Term ;
+aama:ID871c4051-eaae-4b18-8c68-e491639292fc a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBNegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2832,7 +2833,7 @@ aama:IDe4248208-e0c9-4db1-afd4-b3b34bb3bf1f a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID76c07957-2331-4aef-a3fa-8e82b302493c a aamas:Term ;
+aama:ID804ca9d2-d4be-4cb0-9f03-90da595cbd64 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBNegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2847,7 +2848,7 @@ aama:ID76c07957-2331-4aef-a3fa-8e82b302493c a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID3090d6ea-0b16-44a1-9170-8910fe4a6af8 a aamas:Term ;
+aama:ID9f54ea6d-3d4d-499f-885c-b17f89c3b50d a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBNegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2862,7 +2863,7 @@ aama:ID3090d6ea-0b16-44a1-9170-8910fe4a6af8 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID8e36084c-fec5-409f-82cf-b92578aeea2a a aamas:Term ;
+aama:ID2ad5c48f-fac6-48f4-969a-3343e460496f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBNegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2877,7 +2878,7 @@ aama:ID8e36084c-fec5-409f-82cf-b92578aeea2a a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDd2c52274-2ee1-4251-a302-d3323fdface3 a aamas:Term ;
+aama:IDafaeffac-a06a-43ba-8a0f-3007585e982e a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBNegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2892,7 +2893,7 @@ aama:IDd2c52274-2ee1-4251-a302-d3323fdface3 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID068355a8-0ee9-46f5-986d-efa52081bcd4 a aamas:Term ;
+aama:IDd8e362dc-2531-477e-84d5-fef671782623 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VCopBNegIndefinitePresCopulaVerb-ke ;
 	yak:aspect yak:Indefinite ;
@@ -2914,7 +2915,7 @@ yak:yaaku-VDefinitePast-deet a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:IDc9b9a687-eacb-4159-9868-3d212d05cbe9 a aamas:Term ;
+aama:ID4751a83d-aa49-41be-83b7-880c00a4b8ca a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePast-deet ;
 	yak:aspect yak:Definite ;
@@ -2928,7 +2929,7 @@ aama:IDc9b9a687-eacb-4159-9868-3d212d05cbe9 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID967fc382-5dd1-4d24-bdf9-945e0267b03b a aamas:Term ;
+aama:ID86665194-33ec-4f2f-8ca4-5fe4e825f868 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePast-deet ;
 	yak:aspect yak:Definite ;
@@ -2942,7 +2943,7 @@ aama:ID967fc382-5dd1-4d24-bdf9-945e0267b03b a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID615bdc09-5ad1-435e-a82f-c7357e76714c a aamas:Term ;
+aama:ID6f444da4-7c86-4627-8411-a3431c9179f5 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePast-deet ;
 	yak:aspect yak:Definite ;
@@ -2956,7 +2957,7 @@ aama:ID615bdc09-5ad1-435e-a82f-c7357e76714c a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID5871ed5a-31db-445b-b756-96194a8b9163 a aamas:Term ;
+aama:IDc5d87076-d2b7-4d57-9414-0235852b7a96 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePast-deet ;
 	yak:aspect yak:Definite ;
@@ -2970,7 +2971,7 @@ aama:ID5871ed5a-31db-445b-b756-96194a8b9163 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDcd433f96-4703-4e35-87c5-0056729971e9 a aamas:Term ;
+aama:IDc9ca4dcb-4307-4405-8a85-4a489a7cb2d2 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePast-deet ;
 	yak:aspect yak:Definite ;
@@ -2984,7 +2985,7 @@ aama:IDcd433f96-4703-4e35-87c5-0056729971e9 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID8cbcbc09-9ec7-4fa9-87cb-73fb0503a121 a aamas:Term ;
+aama:ID95a7a05b-6900-4c50-b52c-5b080f669ef9 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePast-deet ;
 	yak:aspect yak:Definite ;
@@ -2998,7 +2999,7 @@ aama:ID8cbcbc09-9ec7-4fa9-87cb-73fb0503a121 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID45b48d8e-cc18-413a-9a7c-7e0a3273a120 a aamas:Term ;
+aama:IDe5f1b82a-1950-47af-aabf-6c3ab88af4a8 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePast-deet ;
 	yak:aspect yak:Definite ;
@@ -3019,7 +3020,7 @@ yak:yaaku-VDefinitePastProg-deet a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:IDb3575960-3be6-48b6-b6cf-4be69676b0ed a aamas:Term ;
+aama:IDd3a1b3f2-bef4-4a0e-9d72-ec973896af4d a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePastProg-deet ;
 	yak:aspect yak:Definite ;
@@ -3033,7 +3034,7 @@ aama:IDb3575960-3be6-48b6-b6cf-4be69676b0ed a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID4012c1e3-242e-41d7-928b-2e93f86806b0 a aamas:Term ;
+aama:IDb2f38943-8fdf-4faf-9a22-8bc623f6d3da a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePastProg-deet ;
 	yak:aspect yak:Definite ;
@@ -3047,7 +3048,7 @@ aama:ID4012c1e3-242e-41d7-928b-2e93f86806b0 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb337ed1a-2a67-405a-9edb-0ef6ede7338a a aamas:Term ;
+aama:ID6c47fa76-6b55-46a4-8c9b-d0292cb3bb63 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePastProg-deet ;
 	yak:aspect yak:Definite ;
@@ -3061,7 +3062,7 @@ aama:IDb337ed1a-2a67-405a-9edb-0ef6ede7338a a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID8b094ecc-a7e9-4b1e-9199-d30666c4b316 a aamas:Term ;
+aama:IDec465473-9cc7-41ed-98d6-7d6cdcbf5611 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePastProg-deet ;
 	yak:aspect yak:Definite ;
@@ -3075,7 +3076,7 @@ aama:ID8b094ecc-a7e9-4b1e-9199-d30666c4b316 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDf8af85be-dfd5-42e7-ae99-12d4e3ca971d a aamas:Term ;
+aama:ID2f6c1f37-9f5e-4f5f-bccb-2262823485ea a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePastProg-deet ;
 	yak:aspect yak:Definite ;
@@ -3089,7 +3090,7 @@ aama:IDf8af85be-dfd5-42e7-ae99-12d4e3ca971d a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID571245ae-e703-4da4-a460-903404648a91 a aamas:Term ;
+aama:ID606995f5-47db-4b4d-b676-4d115207fd59 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePastProg-deet ;
 	yak:aspect yak:Definite ;
@@ -3103,7 +3104,7 @@ aama:ID571245ae-e703-4da4-a460-903404648a91 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID78edaa85-be55-45c9-9e6e-f2377844feb3 a aamas:Term ;
+aama:IDc80b5158-83b9-4b85-a90a-ef2b72bd0490 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePastProg-deet ;
 	yak:aspect yak:Definite ;
@@ -3124,7 +3125,7 @@ yak:yaaku-VDefinitePerf-deet a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID091ee42a-0bb0-4fdb-b2df-10ab9df2fe50 a aamas:Term ;
+aama:ID35d5f098-99d3-48e9-9e9d-e3dae49a87e4 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePerf-deet ;
 	yak:aspect yak:Definite ;
@@ -3138,7 +3139,7 @@ aama:ID091ee42a-0bb0-4fdb-b2df-10ab9df2fe50 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb51f03e7-5588-478d-84f5-e4bd04255d25 a aamas:Term ;
+aama:ID751da7ca-abc2-4b15-8ed7-a7ccf8dd6242 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePerf-deet ;
 	yak:aspect yak:Definite ;
@@ -3152,7 +3153,7 @@ aama:IDb51f03e7-5588-478d-84f5-e4bd04255d25 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID9e952659-01d3-439a-a9a8-57f1f9a2e731 a aamas:Term ;
+aama:ID337c47bf-67a2-45df-8132-6635f87e2d2d a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePerf-deet ;
 	yak:aspect yak:Definite ;
@@ -3166,7 +3167,7 @@ aama:ID9e952659-01d3-439a-a9a8-57f1f9a2e731 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID7071e484-f324-423b-a0a2-64090b72e6c2 a aamas:Term ;
+aama:ID8215e8c8-c87d-4119-8d6a-c3e9d027a637 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePerf-deet ;
 	yak:aspect yak:Definite ;
@@ -3180,7 +3181,7 @@ aama:ID7071e484-f324-423b-a0a2-64090b72e6c2 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb02a0d73-bcf8-4502-984f-2f10f6fd249f a aamas:Term ;
+aama:ID0318c3c6-6f00-4a4f-8757-ef611982d275 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePerf-deet ;
 	yak:aspect yak:Definite ;
@@ -3194,7 +3195,7 @@ aama:IDb02a0d73-bcf8-4502-984f-2f10f6fd249f a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID5d0925f8-206b-4d02-9dfb-91f6b0c442e7 a aamas:Term ;
+aama:IDa8e8d130-df0e-48a5-bd8c-8cca8b849a7c a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePerf-deet ;
 	yak:aspect yak:Definite ;
@@ -3208,7 +3209,7 @@ aama:ID5d0925f8-206b-4d02-9dfb-91f6b0c442e7 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID9493db99-40ca-40a4-a8b4-16fd149976d9 a aamas:Term ;
+aama:IDbb0a950c-6098-42d8-be30-b3f036bea45c a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePerf-deet ;
 	yak:aspect yak:Definite ;
@@ -3229,7 +3230,7 @@ yak:yaaku-VDefinitePres-deet a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID3a7e3381-9b47-4dd5-879a-ea59e8469321 a aamas:Term ;
+aama:ID17d124d1-627f-41b3-a156-b390b956aa5e a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePres-deet ;
 	yak:aspect yak:Definite ;
@@ -3243,7 +3244,7 @@ aama:ID3a7e3381-9b47-4dd5-879a-ea59e8469321 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID7eb24710-6cb2-4c72-b088-75c866b34060 a aamas:Term ;
+aama:IDc8dfc64a-fbe6-4132-ad43-44033cb6d8a9 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePres-deet ;
 	yak:aspect yak:Definite ;
@@ -3257,7 +3258,7 @@ aama:ID7eb24710-6cb2-4c72-b088-75c866b34060 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID144eca3d-6966-4d87-811e-10ff11313fe4 a aamas:Term ;
+aama:ID370425bc-3157-48a8-9781-a9bf4d5d2f30 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePres-deet ;
 	yak:aspect yak:Definite ;
@@ -3271,7 +3272,7 @@ aama:ID144eca3d-6966-4d87-811e-10ff11313fe4 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb8614920-d9b1-49cd-b3f2-082fb7d2ada5 a aamas:Term ;
+aama:ID529f2178-35bd-401e-a2f8-8dfc70ef12ed a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePres-deet ;
 	yak:aspect yak:Definite ;
@@ -3285,7 +3286,7 @@ aama:IDb8614920-d9b1-49cd-b3f2-082fb7d2ada5 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID34217148-d636-460e-9ab0-281ba2d6066a a aamas:Term ;
+aama:ID327fd094-0e2c-433f-8ce2-0508cef4c2fc a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePres-deet ;
 	yak:aspect yak:Definite ;
@@ -3299,7 +3300,7 @@ aama:ID34217148-d636-460e-9ab0-281ba2d6066a a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID052cc0f1-5659-4bea-a710-1a078527a375 a aamas:Term ;
+aama:IDd92e8313-69f9-46b7-9094-3ac9f3083fb6 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePres-deet ;
 	yak:aspect yak:Definite ;
@@ -3313,7 +3314,7 @@ aama:ID052cc0f1-5659-4bea-a710-1a078527a375 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDb63ef126-5596-462e-9145-818f1d6f8238 a aamas:Term ;
+aama:IDe0e3ab3e-e520-4754-9d3b-59d603e174e2 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VDefinitePres-deet ;
 	yak:aspect yak:Definite ;
@@ -3334,7 +3335,7 @@ yak:yaaku-VImprtv a aamas:Termcluster ;
 	rdfs:comment "Heine1975 p. 50" 
 	.
 
-aama:IDc07aa6dd-b844-4b72-b15f-247daee64c7b a aamas:Term ;
+aama:ID932ec92b-3e9f-4d3c-b0c1-23cbd5d14bca a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3346,7 +3347,7 @@ aama:IDc07aa6dd-b844-4b72-b15f-247daee64c7b a aamas:Term ;
 	aamas:lexeme aama:Yaaku-deet ;
 	.
 
-aama:ID43114ce8-b2bc-4de9-a11f-ca83e4a2788b a aamas:Term ;
+aama:ID7411c345-9041-496c-8516-a6488c866c36 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3358,7 +3359,7 @@ aama:ID43114ce8-b2bc-4de9-a11f-ca83e4a2788b a aamas:Term ;
 	aamas:lexeme aama:Yaaku-deet ;
 	.
 
-aama:ID85fedf2a-b419-46a7-8df2-500353bfa6f0 a aamas:Term ;
+aama:IDcd8d2711-25e8-4431-afaa-cdf895fbadce a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3370,7 +3371,7 @@ aama:ID85fedf2a-b419-46a7-8df2-500353bfa6f0 a aamas:Term ;
 	aamas:lexeme aama:Yaaku-deet ;
 	.
 
-aama:IDecdf2ab2-7eb1-4681-b8bb-102fe3ae9096 a aamas:Term ;
+aama:IDefedb736-5062-40b8-90df-b25487954419 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3382,7 +3383,7 @@ aama:IDecdf2ab2-7eb1-4681-b8bb-102fe3ae9096 a aamas:Term ;
 	aamas:lexeme aama:Yaaku-ek ;
 	.
 
-aama:ID6c2c4469-3c62-4219-a772-8bc6e8d74f89 a aamas:Term ;
+aama:IDe9114216-44f3-4a3f-8f47-779e11f15b6a a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3394,7 +3395,7 @@ aama:ID6c2c4469-3c62-4219-a772-8bc6e8d74f89 a aamas:Term ;
 	aamas:lexeme aama:Yaaku-ek ;
 	.
 
-aama:IDe768a076-5aee-476e-be15-17ca3bfee99a a aamas:Term ;
+aama:ID0348d43c-d762-4fad-a039-edb74fd9ad59 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3406,7 +3407,7 @@ aama:IDe768a076-5aee-476e-be15-17ca3bfee99a a aamas:Term ;
 	aamas:lexeme aama:Yaaku-ek ;
 	.
 
-aama:ID7cd5bba5-35a7-4355-b197-dfd20d1340ba a aamas:Term ;
+aama:IDbb2a0926-f0a2-4ea3-93a6-c15734314d0c a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3418,7 +3419,7 @@ aama:ID7cd5bba5-35a7-4355-b197-dfd20d1340ba a aamas:Term ;
 	aamas:lexeme aama:Yaaku-eq ;
 	.
 
-aama:ID04bbf741-14cb-426c-8a24-2a4401f530bd a aamas:Term ;
+aama:IDf7cfe9d7-30a4-4f21-8a17-f8bbcec1e0fd a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3430,7 +3431,7 @@ aama:ID04bbf741-14cb-426c-8a24-2a4401f530bd a aamas:Term ;
 	aamas:lexeme aama:Yaaku-eq ;
 	.
 
-aama:IDa33b9518-92f8-4bf8-abbe-4d259d4de465 a aamas:Term ;
+aama:IDc0e1c72d-a2c6-474d-897f-785803136682 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3442,7 +3443,7 @@ aama:IDa33b9518-92f8-4bf8-abbe-4d259d4de465 a aamas:Term ;
 	aamas:lexeme aama:Yaaku-eq ;
 	.
 
-aama:IDfa6fcbfa-54d1-4de7-a886-0cdc170aaf4e a aamas:Term ;
+aama:IDbbc87999-3a49-4be4-9148-313801248aa4 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3454,7 +3455,7 @@ aama:IDfa6fcbfa-54d1-4de7-a886-0cdc170aaf4e a aamas:Term ;
 	aamas:lexeme aama:Yaaku-lee ;
 	.
 
-aama:ID0fe7b70c-6453-4115-a0f9-026ae9004562 a aamas:Term ;
+aama:IDa0c47f8f-bdfe-4511-834b-5e633135b46f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3466,7 +3467,7 @@ aama:ID0fe7b70c-6453-4115-a0f9-026ae9004562 a aamas:Term ;
 	aamas:lexeme aama:Yaaku-lee ;
 	.
 
-aama:ID411d85f9-d34e-4f7a-aa9a-114173f70243 a aamas:Term ;
+aama:IDf40835f6-4bdc-4153-ae60-1834cd9cc02e a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3478,7 +3479,7 @@ aama:ID411d85f9-d34e-4f7a-aa9a-114173f70243 a aamas:Term ;
 	aamas:lexeme aama:Yaaku-xan ;
 	.
 
-aama:ID5b1e041d-daf7-4457-9659-7ca1c25b1db5 a aamas:Term ;
+aama:IDd5790928-171f-4ad4-b606-be1446623c11 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VImprtv ;
 	yak:morphClass yak:IMPRTV ;
@@ -3497,7 +3498,7 @@ yak:yaaku-VIndefiniteFut-deet a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID3d094f1b-be06-4822-ae24-139cea9ea4d3 a aamas:Term ;
+aama:IDa65c6665-3645-456f-bfdc-4edf5f077a0b a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefiniteFut-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3511,7 +3512,7 @@ aama:ID3d094f1b-be06-4822-ae24-139cea9ea4d3 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDf93eb965-80d5-4149-bb60-a09a4d3e98ca a aamas:Term ;
+aama:IDa2e09760-6114-44e9-a8a3-8fe0ddb92b47 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefiniteFut-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3525,7 +3526,7 @@ aama:IDf93eb965-80d5-4149-bb60-a09a4d3e98ca a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDf0affdc1-80a5-44e9-bcde-eb517065e07a a aamas:Term ;
+aama:ID2336bb94-03c4-43e0-8591-65819c5add34 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefiniteFut-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3539,7 +3540,7 @@ aama:IDf0affdc1-80a5-44e9-bcde-eb517065e07a a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb135eb36-f8e8-44bd-9d9c-0eb47ac6d3d5 a aamas:Term ;
+aama:IDd7440f06-b12a-4992-b0c5-92f6a4eb3741 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefiniteFut-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3553,7 +3554,7 @@ aama:IDb135eb36-f8e8-44bd-9d9c-0eb47ac6d3d5 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID81a7a3b4-2798-46d9-b765-27d43777dcf8 a aamas:Term ;
+aama:ID67b7a564-f74f-4f04-87d7-a5f1335edc7b a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefiniteFut-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3567,7 +3568,7 @@ aama:ID81a7a3b4-2798-46d9-b765-27d43777dcf8 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID5bcbb8c3-a142-4dd3-8723-df76779a50cd a aamas:Term ;
+aama:IDf943028c-2304-491f-aaac-ae6347dc0c42 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefiniteFut-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3581,7 +3582,7 @@ aama:ID5bcbb8c3-a142-4dd3-8723-df76779a50cd a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDbf206d90-2321-4b5a-a493-c00084af2dc1 a aamas:Term ;
+aama:IDb1c95a56-bc8d-49e9-bf61-a9b933d25321 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefiniteFut-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3602,7 +3603,7 @@ yak:yaaku-VIndefinitePres-deet a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID77699300-b98a-4cad-8398-46999fd2332f a aamas:Term ;
+aama:IDd8709314-cb19-4584-b29c-7a7cfafc324d a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefinitePres-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3616,7 +3617,7 @@ aama:ID77699300-b98a-4cad-8398-46999fd2332f a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID9e32373f-e215-4020-a664-29cbccb0730a a aamas:Term ;
+aama:ID8a23d848-985f-4a3f-a8d4-d61e79d57e66 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefinitePres-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3630,7 +3631,7 @@ aama:ID9e32373f-e215-4020-a664-29cbccb0730a a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID5ce00fad-d75f-4390-b27c-bee85b41b972 a aamas:Term ;
+aama:ID82a8fa1a-7702-4c45-89bc-540bc4b93f90 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefinitePres-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3644,7 +3645,7 @@ aama:ID5ce00fad-d75f-4390-b27c-bee85b41b972 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDa3ef9f4f-382f-4a3f-9950-c9ef3a3a53aa a aamas:Term ;
+aama:ID3d4b149f-a7eb-40ed-a299-42c93e2210ce a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefinitePres-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3658,7 +3659,7 @@ aama:IDa3ef9f4f-382f-4a3f-9950-c9ef3a3a53aa a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDff1d2b17-7c87-4ede-85d2-59b8ef4f2b48 a aamas:Term ;
+aama:ID00c1f733-2d45-4e06-a617-1e105b5700f8 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefinitePres-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3672,7 +3673,7 @@ aama:IDff1d2b17-7c87-4ede-85d2-59b8ef4f2b48 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID92df07c6-e34f-46ee-98bf-aa21e4d94b1d a aamas:Term ;
+aama:ID63813bc2-97a8-48f0-9ffb-9c912be4ed0c a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefinitePres-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3686,7 +3687,7 @@ aama:ID92df07c6-e34f-46ee-98bf-aa21e4d94b1d a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID0cdfe5d4-f4ec-490d-8c5c-25874d652796 a aamas:Term ;
+aama:IDbdf19c78-544f-4d41-8ac3-4216cabf967f a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VIndefinitePres-deet ;
 	yak:aspect yak:Indefinite ;
@@ -3707,7 +3708,7 @@ yak:yaaku-VNegDefinitePast-wax a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:IDa7d811c8-5d8d-4e73-af38-5700e7e6d8a7 a aamas:Term ;
+aama:IDebe4fbe8-0b37-4084-a7b0-4de3e0594a41 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -3722,7 +3723,7 @@ aama:IDa7d811c8-5d8d-4e73-af38-5700e7e6d8a7 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID83dc2bd2-c32b-424f-a7de-c7d7e0a0cc86 a aamas:Term ;
+aama:IDea652e6d-e8b8-4b85-bc5d-460181a60ad2 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -3737,7 +3738,7 @@ aama:ID83dc2bd2-c32b-424f-a7de-c7d7e0a0cc86 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID1baca9f9-688b-4271-8268-cdef9ce1801f a aamas:Term ;
+aama:ID34db869e-2e91-4886-98f9-08ea44260899 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -3752,7 +3753,7 @@ aama:ID1baca9f9-688b-4271-8268-cdef9ce1801f a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID25dbf64e-4551-4adf-a989-ea4d37660560 a aamas:Term ;
+aama:ID67a64b17-3996-426e-97c4-3eb71ba5b6f2 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -3767,7 +3768,7 @@ aama:ID25dbf64e-4551-4adf-a989-ea4d37660560 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID24cc83eb-a095-4c21-9124-50d9dfb10c7f a aamas:Term ;
+aama:IDf069ebc7-b2d7-401e-b837-d064bf1bb1a5 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -3782,7 +3783,7 @@ aama:ID24cc83eb-a095-4c21-9124-50d9dfb10c7f a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDe2cadc02-bbd7-4518-818e-1ee662be1c6e a aamas:Term ;
+aama:IDc1e0cc34-058a-4b1e-b608-42d86e23f868 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePast-wax ;
 	yak:aspect yak:Definite ;
@@ -3804,7 +3805,7 @@ yak:yaaku-VNegDefinitePastComp-kus a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject%%then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions%%intrerrogative words%%or object nouns. … The presence of me- usually implies a progressive action" 
 	.
 
-aama:ID3c3cd272-ebff-410d-b14c-e62d835e389c a aamas:Term ;
+aama:ID3384953e-3d90-43dc-a7ad-c297be28f0ea a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePastComp-kus ;
 	yak:aspect yak:Definite ;
@@ -3826,7 +3827,7 @@ yak:yaaku-VNegDefinitePerf-wax a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID291d14c4-0557-4e39-8d2f-b03fa2f89fa6 a aamas:Term ;
+aama:IDa4866f82-ded0-485d-8eb6-37879fdaea38 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -3841,7 +3842,7 @@ aama:ID291d14c4-0557-4e39-8d2f-b03fa2f89fa6 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDa894dd04-55e4-4709-9aca-b23e040da26e a aamas:Term ;
+aama:IDfad39507-a505-4f8a-8986-4a951570b636 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -3856,7 +3857,7 @@ aama:IDa894dd04-55e4-4709-9aca-b23e040da26e a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID9053676d-4153-49fd-8a1c-133f340c8104 a aamas:Term ;
+aama:ID788369d5-afee-4a72-af59-da874d4a1f97 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -3871,7 +3872,7 @@ aama:ID9053676d-4153-49fd-8a1c-133f340c8104 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDad75e732-de00-4539-91c7-b0605048ab0c a aamas:Term ;
+aama:ID1597bf24-f657-4075-8fb0-2b63b2095b65 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -3886,7 +3887,7 @@ aama:IDad75e732-de00-4539-91c7-b0605048ab0c a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDf09af67a-a440-4b76-88a1-adecaa67fd7c a aamas:Term ;
+aama:IDbe563146-f8c2-4237-ad56-0d5b481f2cf5 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -3901,7 +3902,7 @@ aama:IDf09af67a-a440-4b76-88a1-adecaa67fd7c a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID67b7cef8-58f6-4c00-abdb-7cc88486a941 a aamas:Term ;
+aama:ID2667efba-2cc9-4f6f-bd58-5f26aa243a40 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePerf-wax ;
 	yak:aspect yak:Definite ;
@@ -3923,7 +3924,7 @@ yak:yaaku-VNegDefinitePerfComp-kus a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject%%then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions%%intrerrogative words%%or object nouns. … The presence of me- usually implies a progressive action" 
 	.
 
-aama:ID7adf35d7-8c03-4f70-b16f-14aa19573eb6 a aamas:Term ;
+aama:IDcc07d4da-31e5-4738-b49c-cf8bf15567a6 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePerfComp-kus ;
 	yak:aspect yak:Definite ;
@@ -3945,7 +3946,7 @@ yak:yaaku-VNegDefinitePres-eq a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID590e1eec-3bd3-40b0-9776-542c62029dfc a aamas:Term ;
+aama:IDc17ce981-1902-4484-b157-a02d497898a6 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -3960,7 +3961,7 @@ aama:ID590e1eec-3bd3-40b0-9776-542c62029dfc a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID99bfd34a-f169-4d7b-8c74-7a575d0cce3b a aamas:Term ;
+aama:ID1c8b4a10-d5e1-47a8-a5cd-e5cbe8a06a11 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -3975,7 +3976,7 @@ aama:ID99bfd34a-f169-4d7b-8c74-7a575d0cce3b a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDc6654a33-5b89-4ef8-8db8-9cf260c6cf96 a aamas:Term ;
+aama:IDab04047e-b2c1-400b-8b60-80c7ce71d5e2 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -3990,7 +3991,7 @@ aama:IDc6654a33-5b89-4ef8-8db8-9cf260c6cf96 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID5bcaf965-e066-4e44-97a1-6c5c5548ca61 a aamas:Term ;
+aama:IDc7c256da-0f83-4723-9baa-96725818608d a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -4005,7 +4006,7 @@ aama:ID5bcaf965-e066-4e44-97a1-6c5c5548ca61 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID84ffa215-83b6-4c23-9ce3-267e6c3b5e99 a aamas:Term ;
+aama:ID20b3d58b-8879-43b4-89e2-4d2663c571f2 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -4020,7 +4021,7 @@ aama:ID84ffa215-83b6-4c23-9ce3-267e6c3b5e99 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDb93b21a8-8ce2-4cee-95f3-ee29d4509167 a aamas:Term ;
+aama:ID4ccc08e6-ca7e-4cbf-a4cc-2567a8f89cdb a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-eq ;
 	yak:aspect yak:Definite ;
@@ -4042,7 +4043,7 @@ yak:yaaku-VNegDefinitePres-wax a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID64063d13-4b98-4bb6-8ead-b3e87f725c2a a aamas:Term ;
+aama:IDaa5325f6-83dc-4431-b3da-314652e822b1 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -4057,7 +4058,7 @@ aama:ID64063d13-4b98-4bb6-8ead-b3e87f725c2a a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDa42ea406-25b8-44a1-87d1-6dcb02a16929 a aamas:Term ;
+aama:IDb86acb5e-2af2-40ad-adb8-140ce6ad7264 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -4072,7 +4073,7 @@ aama:IDa42ea406-25b8-44a1-87d1-6dcb02a16929 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDa3db9083-483d-4a09-8b2c-49ffcfe72d18 a aamas:Term ;
+aama:IDdfd859b9-f01d-4695-b40a-98ca2b01f4cb a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -4087,7 +4088,7 @@ aama:IDa3db9083-483d-4a09-8b2c-49ffcfe72d18 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDfffa46ca-dfb7-420b-bfd3-4573fae622f0 a aamas:Term ;
+aama:IDb459c93a-2fc5-4e5d-b0c6-9dbf61590b7d a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -4102,7 +4103,7 @@ aama:IDfffa46ca-dfb7-420b-bfd3-4573fae622f0 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID57716600-77f8-4fc0-9813-748e4f8a71cd a aamas:Term ;
+aama:ID3c3361e6-1449-4723-80a6-84578c57704d a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -4117,7 +4118,7 @@ aama:ID57716600-77f8-4fc0-9813-748e4f8a71cd a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID406ec171-3503-465e-b67c-acd915523027 a aamas:Term ;
+aama:IDb1e6a76b-5c69-47a7-bee5-4de0e1c3cf6e a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePres-wax ;
 	yak:aspect yak:Definite ;
@@ -4139,7 +4140,7 @@ yak:yaaku-VNegDefinitePresComp-kus a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject%%then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions%%intrerrogative words%%or object nouns. … The presence of me- usually implies a progressive action" 
 	.
 
-aama:IDae6a7079-8c2f-402b-a1d1-bd4856a1e8f6 a aamas:Term ;
+aama:IDf799c802-6049-492a-a467-850b3ff57ef2 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegDefinitePresComp-kus ;
 	yak:aspect yak:Definite ;
@@ -4161,7 +4162,7 @@ yak:yaaku-VNegIndefinitePres-eq a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID469c1f62-eae1-4c91-95e7-152d7cec678c a aamas:Term ;
+aama:ID32e12c69-498f-450b-b4c3-baf9c3798428 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -4176,7 +4177,7 @@ aama:ID469c1f62-eae1-4c91-95e7-152d7cec678c a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb92deb6c-ab70-4310-ba6c-2a95cb230c71 a aamas:Term ;
+aama:ID13bf4e47-853c-48fe-ab49-81aae9bad3aa a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -4191,7 +4192,7 @@ aama:IDb92deb6c-ab70-4310-ba6c-2a95cb230c71 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID80791b0b-1b51-40b8-b35f-08dc65997ac7 a aamas:Term ;
+aama:ID3878faef-1259-4b53-b317-66dfe34a6d87 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -4206,7 +4207,7 @@ aama:ID80791b0b-1b51-40b8-b35f-08dc65997ac7 a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDdd35fd35-ae94-4827-8d7f-c5921697b74a a aamas:Term ;
+aama:ID1fd25f07-1a51-42d2-b7c4-844f5140fd93 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -4221,7 +4222,7 @@ aama:IDdd35fd35-ae94-4827-8d7f-c5921697b74a a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDd17615f6-b6b4-4734-8c38-be3c56a9ba0f a aamas:Term ;
+aama:IDcde97e89-dfed-4ea4-9925-ed974e5ae1fe a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -4236,7 +4237,7 @@ aama:IDd17615f6-b6b4-4734-8c38-be3c56a9ba0f a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID565961df-b3e8-4340-a865-19b359072726 a aamas:Term ;
+aama:ID85ad0318-4feb-44b4-968b-51b1a7a8ad56 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -4251,7 +4252,7 @@ aama:ID565961df-b3e8-4340-a865-19b359072726 a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID00095b17-005e-471f-95bd-25a16d57e6dd a aamas:Term ;
+aama:IDf8f3c059-81c2-47af-9869-5e51963f74fa a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegIndefinitePres-eq ;
 	yak:aspect yak:Indefinite ;
@@ -4273,7 +4274,7 @@ yak:yaaku-VNegIndefinitePresComp-kus a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject%%then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions%%intrerrogative words%%or object nouns. … The presence of me- usually implies a progressive action" 
 	.
 
-aama:ID5fe6f7be-e3ba-41f6-8d07-513f293e1ba1 a aamas:Term ;
+aama:ID1279d736-a61a-4fb2-a92f-2317d5c148c1 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegIndefinitePresComp-kus ;
 	yak:aspect yak:Indefinite ;
@@ -4295,7 +4296,7 @@ yak:yaaku-VNegPres-wax a aamas:Termcluster ;
 	rdfs:comment "Heine1975 pp 46-50." 
 	.
 
-aama:ID96dc7dc1-92e1-430f-b4fb-ff66ac321b3f a aamas:Term ;
+aama:IDa317f9ca-0bdb-4b01-9c95-601d9dae98f3 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegPres-wax ;
 	yak:conjClass yak:FormSet5 ;
@@ -4309,7 +4310,7 @@ aama:ID96dc7dc1-92e1-430f-b4fb-ff66ac321b3f a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDe59bdcba-7bfe-47a3-9bef-4e486012456f a aamas:Term ;
+aama:ID96ae2767-2352-42e9-bfad-4a1195f505b9 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegPres-wax ;
 	yak:conjClass yak:FormSet5 ;
@@ -4323,7 +4324,7 @@ aama:IDe59bdcba-7bfe-47a3-9bef-4e486012456f a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDdbdbe790-8878-47d6-8349-1cdf1bb1e87a a aamas:Term ;
+aama:ID65f38d3b-4119-40bf-a0b4-a14f747dfe96 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegPres-wax ;
 	yak:conjClass yak:FormSet5 ;
@@ -4337,7 +4338,7 @@ aama:IDdbdbe790-8878-47d6-8349-1cdf1bb1e87a a aamas:Term ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID424dac97-9f38-471c-958d-80c203ff4ddd a aamas:Term ;
+aama:IDdb2bc39d-5a20-4863-913b-90b31de57947 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegPres-wax ;
 	yak:conjClass yak:FormSet5 ;
@@ -4351,7 +4352,7 @@ aama:ID424dac97-9f38-471c-958d-80c203ff4ddd a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDa8dfed9b-8010-42ac-b2b9-2a883dd2f03e a aamas:Term ;
+aama:IDcee226ca-0034-4ebb-b93c-4440f4184818 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegPres-wax ;
 	yak:conjClass yak:FormSet5 ;
@@ -4365,7 +4366,7 @@ aama:IDa8dfed9b-8010-42ac-b2b9-2a883dd2f03e a aamas:Term ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID4f5f87ed-5c57-4aae-9f0e-134d8ab5b57a a aamas:Term ;
+aama:IDf8d8ee2e-5568-4b24-9d55-2d29344e4376 a aamas:Term ;
 	aamas:lang aama:Yaaku ;
 	aamas:memberOf yak:yaaku-VNegPres-wax ;
 	yak:conjClass yak:FormSet5 ;
@@ -4386,7 +4387,7 @@ yak:yaaku-NAgreementMarker a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 p. 37" 
 	.
 
-aama:IDb86cda95-9c4c-45e1-89c2-6fc4a884a301 a aamas:Muterm ;
+aama:IDc61a4774-bd5b-4808-a173-206dbea94029 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4397,7 +4398,7 @@ aama:IDb86cda95-9c4c-45e1-89c2-6fc4a884a301 a aamas:Muterm ;
 	yak:proSubClass yak:AdjInterr ;
 	.
 
-aama:ID14135abf-eaf6-4ab4-aefa-bc77969f60db a aamas:Muterm ;
+aama:ID6198e4b5-e9fe-4028-8567-d9c3f93e043d a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4408,7 +4409,7 @@ aama:ID14135abf-eaf6-4ab4-aefa-bc77969f60db a aamas:Muterm ;
 	yak:proSubClass yak:AdjInterr ;
 	.
 
-aama:IDf7b3c244-9796-48ba-a373-56382704ae4b a aamas:Muterm ;
+aama:ID2cadfa54-00b3-4ad7-b172-448093b227cf a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4419,7 +4420,7 @@ aama:IDf7b3c244-9796-48ba-a373-56382704ae4b a aamas:Muterm ;
 	yak:proSubClass yak:AdjInterr ;
 	.
 
-aama:ID1fb9e6ae-bb46-46c5-be22-2b0aa08483cb a aamas:Muterm ;
+aama:IDcde5f16e-dd8d-410c-884f-0e16f435026e a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4430,7 +4431,7 @@ aama:ID1fb9e6ae-bb46-46c5-be22-2b0aa08483cb a aamas:Muterm ;
 	yak:proSubClass yak:Adjective ;
 	.
 
-aama:IDe06d02f3-6a96-408f-8778-32a33902276d a aamas:Muterm ;
+aama:IDb8572281-461f-40af-b6b4-eac6e6bbcfb7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4441,7 +4442,7 @@ aama:IDe06d02f3-6a96-408f-8778-32a33902276d a aamas:Muterm ;
 	yak:proSubClass yak:Adjective ;
 	.
 
-aama:IDa90e2a66-429d-4764-a272-903479333f05 a aamas:Muterm ;
+aama:ID3f686b4d-879c-451e-b191-5067cf52c13b a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4452,7 +4453,7 @@ aama:IDa90e2a66-429d-4764-a272-903479333f05 a aamas:Muterm ;
 	yak:proSubClass yak:Adjective ;
 	.
 
-aama:IDf8bc5e5f-e6be-424c-a1f9-e873bb3d8e2a a aamas:Muterm ;
+aama:ID1d6be8bd-3169-4914-98ef-9e8f0521045d a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4463,7 +4464,7 @@ aama:IDf8bc5e5f-e6be-424c-a1f9-e873bb3d8e2a a aamas:Muterm ;
 	yak:proSubClass yak:DemFar ;
 	.
 
-aama:IDb8d5c6dd-dfcc-4843-87b9-6cd8ccc7d424 a aamas:Muterm ;
+aama:IDc71ef128-e479-4a70-90a5-b958eb19fa0a a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4474,7 +4475,7 @@ aama:IDb8d5c6dd-dfcc-4843-87b9-6cd8ccc7d424 a aamas:Muterm ;
 	yak:proSubClass yak:DemFar ;
 	.
 
-aama:ID0fb9c817-9224-4a61-abdb-88c565f3529f a aamas:Muterm ;
+aama:ID298ccbbf-b279-4a82-ad36-94b35b7e51aa a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4485,7 +4486,7 @@ aama:ID0fb9c817-9224-4a61-abdb-88c565f3529f a aamas:Muterm ;
 	yak:proSubClass yak:DemFar ;
 	.
 
-aama:IDc567d0bf-9f34-462f-a9df-f0ada3a51477 a aamas:Muterm ;
+aama:IDc60aa0a7-4b62-412a-b9b4-ae1ab9c567a5 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4496,7 +4497,7 @@ aama:IDc567d0bf-9f34-462f-a9df-f0ada3a51477 a aamas:Muterm ;
 	yak:proSubClass yak:DemNear ;
 	.
 
-aama:IDff35ee03-6974-4e97-812c-59f63b04475a a aamas:Muterm ;
+aama:ID17c4a43e-61e5-4614-b384-3dcb3e8edc13 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4507,7 +4508,7 @@ aama:IDff35ee03-6974-4e97-812c-59f63b04475a a aamas:Muterm ;
 	yak:proSubClass yak:DemNear ;
 	.
 
-aama:IDadfedae7-03c7-4471-9f51-0e336277245e a aamas:Muterm ;
+aama:IDb526d007-dea8-48e2-9125-4820602cab3a a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4518,7 +4519,7 @@ aama:IDadfedae7-03c7-4471-9f51-0e336277245e a aamas:Muterm ;
 	yak:proSubClass yak:DemNear ;
 	.
 
-aama:IDd31fae8e-9bcd-4adb-8b2b-15217ce568b0 a aamas:Muterm ;
+aama:ID5677f807-5a8c-4d6c-913d-ab043bd0e630 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4529,7 +4530,7 @@ aama:IDd31fae8e-9bcd-4adb-8b2b-15217ce568b0 a aamas:Muterm ;
 	yak:proSubClass yak:DemRef ;
 	.
 
-aama:ID25919abb-556f-434a-841d-076d91b90f1c a aamas:Muterm ;
+aama:ID230748dd-d9be-42e2-bbf8-804291eb1d46 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4540,7 +4541,7 @@ aama:ID25919abb-556f-434a-841d-076d91b90f1c a aamas:Muterm ;
 	yak:proSubClass yak:DemRef ;
 	.
 
-aama:ID1a6abb02-4b13-4360-bb2d-6c9ca078a436 a aamas:Muterm ;
+aama:IDdae1081d-3255-4813-80f2-488d41846490 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4551,7 +4552,7 @@ aama:ID1a6abb02-4b13-4360-bb2d-6c9ca078a436 a aamas:Muterm ;
 	yak:proSubClass yak:DemRef ;
 	.
 
-aama:ID10752f21-5a14-4db1-9cc0-56697bdb085c a aamas:Muterm ;
+aama:IDea80a09d-698f-4549-a3e0-ba96ee036845 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4562,7 +4563,7 @@ aama:ID10752f21-5a14-4db1-9cc0-56697bdb085c a aamas:Muterm ;
 	yak:proSubClass yak:PossNom ;
 	.
 
-aama:IDae83e456-93c8-42e0-97bd-3023c11394be a aamas:Muterm ;
+aama:IDe99f3333-8578-48fc-9e87-5f6069337a22 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4573,7 +4574,7 @@ aama:IDae83e456-93c8-42e0-97bd-3023c11394be a aamas:Muterm ;
 	yak:proSubClass yak:PossNom ;
 	.
 
-aama:ID09b4e36a-3d4e-47be-9cfb-19a51678cbc1 a aamas:Muterm ;
+aama:ID205b76f7-fc2a-452e-9131-00acce75b5ad a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4584,7 +4585,7 @@ aama:ID09b4e36a-3d4e-47be-9cfb-19a51678cbc1 a aamas:Muterm ;
 	yak:proSubClass yak:PossNom ;
 	.
 
-aama:IDb0567a73-fdd3-4675-8ed8-e987a2daaa2d a aamas:Muterm ;
+aama:ID9852b506-43ea-4245-890b-fa4a324fea13 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4595,7 +4596,7 @@ aama:IDb0567a73-fdd3-4675-8ed8-e987a2daaa2d a aamas:Muterm ;
 	yak:proSubClass yak:PossPro ;
 	.
 
-aama:ID7c5eb531-20dc-4597-b179-399b3e524cfb a aamas:Muterm ;
+aama:ID677c9839-701c-46cc-97bd-7477100773c1 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4606,7 +4607,7 @@ aama:ID7c5eb531-20dc-4597-b179-399b3e524cfb a aamas:Muterm ;
 	yak:proSubClass yak:PossPro ;
 	.
 
-aama:ID0f1d1729-d951-4f9c-8753-29f571eee1c1 a aamas:Muterm ;
+aama:ID97a2a34d-0a99-4e51-ad0e-5c83648b2f5b a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4617,7 +4618,7 @@ aama:ID0f1d1729-d951-4f9c-8753-29f571eee1c1 a aamas:Muterm ;
 	yak:proSubClass yak:PossPro ;
 	.
 
-aama:ID57550877-a2ee-4784-846e-b03e7df81ed5 a aamas:Muterm ;
+aama:ID971b40a4-6dc1-4d75-ba76-24be1ab3b090 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4628,7 +4629,7 @@ aama:ID57550877-a2ee-4784-846e-b03e7df81ed5 a aamas:Muterm ;
 	yak:proSubClass yak:Relative ;
 	.
 
-aama:ID80cc4083-6a52-4604-8dae-2a06c18a6fef a aamas:Muterm ;
+aama:ID170832e1-18e8-42f5-9694-c5ea0ce2b740 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4639,7 +4640,7 @@ aama:ID80cc4083-6a52-4604-8dae-2a06c18a6fef a aamas:Muterm ;
 	yak:proSubClass yak:Relative ;
 	.
 
-aama:ID1a07aec4-75e1-4db4-815d-e8d48af7e852 a aamas:Muterm ;
+aama:ID53961828-e136-4dcc-92b6-8ebf2d204d5f a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4650,7 +4651,7 @@ aama:ID1a07aec4-75e1-4db4-815d-e8d48af7e852 a aamas:Muterm ;
 	yak:proSubClass yak:Relative ;
 	.
 
-aama:ID1a088026-cc4e-4387-a0f2-7cc88c835243 a aamas:Muterm ;
+aama:ID4152d3a7-b742-43d1-82f8-2cc89d800bce a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4661,7 +4662,7 @@ aama:ID1a088026-cc4e-4387-a0f2-7cc88c835243 a aamas:Muterm ;
 	yak:proSubClass yak:VAgreement ;
 	.
 
-aama:ID91186349-6ba2-43ee-9801-1c22456106c6 a aamas:Muterm ;
+aama:IDb84982b0-7e7e-497f-9f13-27efb7c721b7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4672,7 +4673,7 @@ aama:ID91186349-6ba2-43ee-9801-1c22456106c6 a aamas:Muterm ;
 	yak:proSubClass yak:VAgreement ;
 	.
 
-aama:ID2c01f785-778f-4d86-85bf-89d6c7667811 a aamas:Muterm ;
+aama:ID09d31d15-c2f0-418b-a506-f889b3a73d5c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-NAgreementMarker ;
 	aamas:morpheme aama:Yaaku-NOUNAGREEMENTMARKER ;
 	yak:pos yak:Noun ;
@@ -4690,7 +4691,7 @@ yak:yaaku-PDem a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 p. 41" 
 	.
 
-aama:IDf4d4fceb-5b63-4d25-9ed9-1c933e228162 a aamas:Muterm ;
+aama:ID25945a82-ac8d-4970-91ce-d32a805e41ca a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4702,7 +4703,7 @@ aama:IDf4d4fceb-5b63-4d25-9ed9-1c933e228162 a aamas:Muterm ;
 	yak:conjClass yak:DemFar ;
 	.
 
-aama:ID2e7a1ceb-bac9-4000-a0ae-48301cf99c34 a aamas:Muterm ;
+aama:ID9ecd3e0e-26ff-4fd0-94fc-37daf9b70ea8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4714,7 +4715,7 @@ aama:ID2e7a1ceb-bac9-4000-a0ae-48301cf99c34 a aamas:Muterm ;
 	yak:conjClass yak:DemFar ;
 	.
 
-aama:IDfd352a72-9d98-4da0-a257-afe537c69182 a aamas:Muterm ;
+aama:IDbf66183a-2b7f-4a6f-a66b-2712b795a1b0 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4726,7 +4727,7 @@ aama:IDfd352a72-9d98-4da0-a257-afe537c69182 a aamas:Muterm ;
 	yak:conjClass yak:DemFar ;
 	.
 
-aama:ID9cf76d99-4db9-4db9-b5d9-6acc29221877 a aamas:Muterm ;
+aama:ID074fecf7-df15-418e-a10e-87a9c93e0e73 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4738,7 +4739,7 @@ aama:ID9cf76d99-4db9-4db9-b5d9-6acc29221877 a aamas:Muterm ;
 	yak:conjClass yak:DemFar ;
 	.
 
-aama:ID885c1d4b-bb92-4246-a2c9-7e9c969e5173 a aamas:Muterm ;
+aama:IDede58bfa-82c2-49ef-972c-2f4ce74d1b3b a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4750,7 +4751,7 @@ aama:ID885c1d4b-bb92-4246-a2c9-7e9c969e5173 a aamas:Muterm ;
 	yak:conjClass yak:DemFar ;
 	.
 
-aama:IDd1521423-1e14-47ff-b5ed-aceda7dcf4e2 a aamas:Muterm ;
+aama:ID599e84af-45f6-4263-a8b0-a450b6e268b1 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4762,7 +4763,7 @@ aama:IDd1521423-1e14-47ff-b5ed-aceda7dcf4e2 a aamas:Muterm ;
 	yak:conjClass yak:DemFar ;
 	.
 
-aama:ID57710272-0ed6-4aa3-ab83-1399696237da a aamas:Muterm ;
+aama:ID066771a9-175b-4883-a705-904b92df9406 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4774,7 +4775,7 @@ aama:ID57710272-0ed6-4aa3-ab83-1399696237da a aamas:Muterm ;
 	yak:conjClass yak:DemNear ;
 	.
 
-aama:ID08d42fea-4a41-4f86-a169-41ab4af555a1 a aamas:Muterm ;
+aama:IDf77950c0-7111-4fa6-81d4-86e643b5c58b a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4786,7 +4787,7 @@ aama:ID08d42fea-4a41-4f86-a169-41ab4af555a1 a aamas:Muterm ;
 	yak:conjClass yak:DemNear ;
 	.
 
-aama:ID244b40c3-cd25-49a6-8b23-10c4c818f24f a aamas:Muterm ;
+aama:ID808d06c1-dd48-459c-9e29-909ed65aa996 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4798,7 +4799,7 @@ aama:ID244b40c3-cd25-49a6-8b23-10c4c818f24f a aamas:Muterm ;
 	yak:conjClass yak:DemNear ;
 	.
 
-aama:ID9061cac4-3621-4bbe-98b3-a37ae21c52c6 a aamas:Muterm ;
+aama:ID12b3cb91-95e4-4e6f-b6e7-f4a47067d0e7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4810,7 +4811,7 @@ aama:ID9061cac4-3621-4bbe-98b3-a37ae21c52c6 a aamas:Muterm ;
 	yak:conjClass yak:DemNear ;
 	.
 
-aama:IDdddbf95c-66e9-440e-9b85-4a08f04ff63e a aamas:Muterm ;
+aama:ID9523d3f6-0b40-497a-bc08-0e403febe740 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4822,7 +4823,7 @@ aama:IDdddbf95c-66e9-440e-9b85-4a08f04ff63e a aamas:Muterm ;
 	yak:conjClass yak:DemNear ;
 	.
 
-aama:IDcf721e8f-ca9a-478e-a43f-78cc35414784 a aamas:Muterm ;
+aama:IDd79d594e-ba6c-4dcc-8c02-a500a257962c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4834,7 +4835,7 @@ aama:IDcf721e8f-ca9a-478e-a43f-78cc35414784 a aamas:Muterm ;
 	yak:conjClass yak:DemNear ;
 	.
 
-aama:ID2b2f539c-34e8-4039-9ebf-417aa3d82b98 a aamas:Muterm ;
+aama:ID21815b9c-d824-4ae8-a8d5-f4f5a65eeb8a a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4846,7 +4847,7 @@ aama:ID2b2f539c-34e8-4039-9ebf-417aa3d82b98 a aamas:Muterm ;
 	yak:conjClass yak:DemRef ;
 	.
 
-aama:ID80c02e86-5688-478a-abb9-e313c404cef1 a aamas:Muterm ;
+aama:ID4d810e5d-9e9c-4fea-a04b-debe913f3c46 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4858,7 +4859,7 @@ aama:ID80c02e86-5688-478a-abb9-e313c404cef1 a aamas:Muterm ;
 	yak:conjClass yak:DemRef ;
 	.
 
-aama:ID1a7ea9e2-9af6-4a81-8504-4a8340c7791b a aamas:Muterm ;
+aama:ID0fd82d3b-16b7-4f89-ae08-5b9cf087ef6e a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4870,7 +4871,7 @@ aama:ID1a7ea9e2-9af6-4a81-8504-4a8340c7791b a aamas:Muterm ;
 	yak:conjClass yak:DemRef ;
 	.
 
-aama:ID2d554afe-ef9d-4d01-b107-e2757406ce30 a aamas:Muterm ;
+aama:IDb37a727a-8c85-4ca6-b557-74888ba72406 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4882,7 +4883,7 @@ aama:ID2d554afe-ef9d-4d01-b107-e2757406ce30 a aamas:Muterm ;
 	yak:conjClass yak:DemRef ;
 	.
 
-aama:ID1dad96b5-17eb-4dfc-bba3-5365ec996f19 a aamas:Muterm ;
+aama:ID4f713b4f-9eea-48a2-b984-c131a075068c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4894,7 +4895,7 @@ aama:ID1dad96b5-17eb-4dfc-bba3-5365ec996f19 a aamas:Muterm ;
 	yak:conjClass yak:DemRef ;
 	.
 
-aama:ID3ba9c166-1e2a-4ca7-b400-0eb950498492 a aamas:Muterm ;
+aama:ID68a9dd82-98bd-4608-aef7-87c12396c2f5 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PDem ;
 	aamas:morpheme aama:Yaaku-PRODEM ;
 	yak:pos yak:Pronoun ;
@@ -4913,7 +4914,7 @@ yak:yaaku-PInd a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 p. 42" 
 	.
 
-aama:ID732233f4-e4e0-4f26-bde8-f196b0aa6162 a aamas:Muterm ;
+aama:IDad15d736-d313-437d-b8b5-cb0028c25057 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PInd ;
 	aamas:morpheme aama:Yaaku-PROIND ;
 	yak:pos yak:Pronoun ;
@@ -4923,7 +4924,7 @@ aama:ID732233f4-e4e0-4f26-bde8-f196b0aa6162 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID85da958e-1aaa-49dc-a203-33e49cad0b29 a aamas:Muterm ;
+aama:ID97a25445-24ad-465f-8d73-ebffed846fbe a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PInd ;
 	aamas:morpheme aama:Yaaku-PROIND ;
 	yak:pos yak:Pronoun ;
@@ -4933,7 +4934,7 @@ aama:ID85da958e-1aaa-49dc-a203-33e49cad0b29 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDc8268435-d7e6-4326-801c-2978af1d5e3c a aamas:Muterm ;
+aama:IDa248dbf8-f53d-44be-9294-37744b9f92f3 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PInd ;
 	aamas:morpheme aama:Yaaku-PROIND ;
 	yak:pos yak:Pronoun ;
@@ -4943,7 +4944,7 @@ aama:IDc8268435-d7e6-4326-801c-2978af1d5e3c a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID445f8c38-5620-491a-afd7-fa5f9fb1bfeb a aamas:Muterm ;
+aama:ID98fdbfc4-c5f7-48e5-bf87-dfa487d7e98c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PInd ;
 	aamas:morpheme aama:Yaaku-PROIND ;
 	yak:pos yak:Pronoun ;
@@ -4953,7 +4954,7 @@ aama:ID445f8c38-5620-491a-afd7-fa5f9fb1bfeb a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDdc846911-2e18-4cd8-9750-0ffd95853569 a aamas:Muterm ;
+aama:ID86317011-98a0-4ff9-a370-750a2cbde66a a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PInd ;
 	aamas:morpheme aama:Yaaku-PROIND ;
 	yak:pos yak:Pronoun ;
@@ -4963,7 +4964,7 @@ aama:IDdc846911-2e18-4cd8-9750-0ffd95853569 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID8560f83e-7bcb-42d1-955c-bf450f0d3dda a aamas:Muterm ;
+aama:IDc5deb99e-b49c-49ca-a270-f9f0cee4be6c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PInd ;
 	aamas:morpheme aama:Yaaku-PROIND ;
 	yak:pos yak:Pronoun ;
@@ -4980,7 +4981,7 @@ yak:yaaku-PPoss a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 p. 39" 
 	.
 
-aama:IDb8ede480-99f9-4ccc-b19a-838b90cafb2d a aamas:Muterm ;
+aama:ID5690dce0-7fc1-4766-9e25-aa8fb667f40b a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -4991,7 +4992,7 @@ aama:IDb8ede480-99f9-4ccc-b19a-838b90cafb2d a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDb734369d-d433-40ae-bd91-91ba48c834e4 a aamas:Muterm ;
+aama:ID5aa0574e-7e79-4e98-866d-f5ffaae1fc10 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5002,7 +5003,7 @@ aama:IDb734369d-d433-40ae-bd91-91ba48c834e4 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID328dccdf-53f9-4d5e-88cf-579e7377fc7e a aamas:Muterm ;
+aama:IDe1bf4fac-e78f-4408-807e-a0b7db28f4dd a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5013,7 +5014,7 @@ aama:ID328dccdf-53f9-4d5e-88cf-579e7377fc7e a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDa7e25fc7-4860-4916-a84b-742b03335dad a aamas:Muterm ;
+aama:ID546c627e-43d4-415b-899f-c3ff1bff09e1 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5024,7 +5025,7 @@ aama:IDa7e25fc7-4860-4916-a84b-742b03335dad a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDdf7c7214-cf8b-425c-8dce-a5f688f4382c a aamas:Muterm ;
+aama:ID2fcc7164-f37e-4ddc-84c6-a85d8410c57c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5035,7 +5036,7 @@ aama:IDdf7c7214-cf8b-425c-8dce-a5f688f4382c a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDcd1ad07c-c011-46c7-adef-030be3dbee8e a aamas:Muterm ;
+aama:IDa8289b77-9880-46e3-8d4a-e3ef49945e52 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5046,7 +5047,7 @@ aama:IDcd1ad07c-c011-46c7-adef-030be3dbee8e a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID0e0149ac-cdec-4104-90b0-905820b85d09 a aamas:Muterm ;
+aama:ID0691dbaf-a48c-4706-92c6-37fd6da8d759 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5057,7 +5058,7 @@ aama:ID0e0149ac-cdec-4104-90b0-905820b85d09 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID775b9db0-8129-4f68-8abc-09adf0de0225 a aamas:Muterm ;
+aama:IDe67f7632-fd46-4511-b3bf-e1bf4fabaaee a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5068,7 +5069,7 @@ aama:ID775b9db0-8129-4f68-8abc-09adf0de0225 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID062c4a9c-e73c-4196-b034-b1cfe42ed876 a aamas:Muterm ;
+aama:ID4af53b4f-c5bb-4dff-909a-f30921a37cf7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5079,7 +5080,7 @@ aama:ID062c4a9c-e73c-4196-b034-b1cfe42ed876 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID7ce7775a-de18-459b-9fbe-b60aa7eb92ca a aamas:Muterm ;
+aama:ID4be95594-d212-4bbd-a89f-16af025a6559 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5090,7 +5091,7 @@ aama:ID7ce7775a-de18-459b-9fbe-b60aa7eb92ca a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID859d4f7a-54cc-48b0-b093-34ad1689956c a aamas:Muterm ;
+aama:ID2e47a2fa-2433-44a6-ab0e-acf46d05b74a a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5101,7 +5102,7 @@ aama:ID859d4f7a-54cc-48b0-b093-34ad1689956c a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID20af5b3c-3254-4e08-b50d-6ae1dee97a4a a aamas:Muterm ;
+aama:ID09afa1b9-932d-49ea-92e8-c4a7499959eb a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-PPoss ;
 	aamas:morpheme aama:Yaaku-PROPOSS ;
 	yak:pos yak:Pronoun ;
@@ -5119,7 +5120,7 @@ yak:yaaku-VAffDefinitePastHave a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-%%respectively" 
 	.
 
-aama:ID4b1c18aa-6eed-4aad-96ff-2597f34f63d1 a aamas:Muterm ;
+aama:ID4984684b-4f14-42af-80cb-311d714c6627 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePastHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5133,7 +5134,7 @@ aama:ID4b1c18aa-6eed-4aad-96ff-2597f34f63d1 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDd48f1ed1-c882-4d2c-ae23-bcb1aa18d8b5 a aamas:Muterm ;
+aama:ID599e7e41-21a5-4bcc-8352-d99dcdf25574 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePastHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5147,7 +5148,7 @@ aama:IDd48f1ed1-c882-4d2c-ae23-bcb1aa18d8b5 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDe9052807-3026-4288-a492-865c908c5936 a aamas:Muterm ;
+aama:IDb5e10ada-10d2-4a6a-b879-6644f6a0a8b7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePastHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5161,7 +5162,7 @@ aama:IDe9052807-3026-4288-a492-865c908c5936 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID2794eeb5-05ed-402b-8133-805301129a75 a aamas:Muterm ;
+aama:ID9a2fa7c7-bece-4ed9-b868-03eff5d9ec88 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePastHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5175,7 +5176,7 @@ aama:ID2794eeb5-05ed-402b-8133-805301129a75 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID182983dc-23b2-4376-b2f0-6c441f87f6ba a aamas:Muterm ;
+aama:IDbb7f9b5a-c701-40a2-bb47-cbeec253f09c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePastHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5189,7 +5190,7 @@ aama:ID182983dc-23b2-4376-b2f0-6c441f87f6ba a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID3190100d-2a3e-4c87-87e7-da521b11b813 a aamas:Muterm ;
+aama:IDad11ec04-2c1d-4eb0-86f1-07f1ba6b510c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePastHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5210,7 +5211,7 @@ yak:yaaku-VAffDefinitePerfHave a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-%%respectively" 
 	.
 
-aama:IDa90a1136-ae48-4a05-ad5b-f94a2367868f a aamas:Muterm ;
+aama:IDad2c2af3-c63e-4608-94fa-eba0370bfe32 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePerfHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5224,7 +5225,7 @@ aama:IDa90a1136-ae48-4a05-ad5b-f94a2367868f a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID929431a0-373c-4d1f-972a-054cce9a173c a aamas:Muterm ;
+aama:IDede8e7bd-ebe0-4c50-aa1c-f809e185d054 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePerfHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5238,7 +5239,7 @@ aama:ID929431a0-373c-4d1f-972a-054cce9a173c a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID92e7c4c4-b245-4d84-a32b-fa2d3881a935 a aamas:Muterm ;
+aama:ID02d6651b-706a-490c-951f-d5cbd9e09d12 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePerfHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5252,7 +5253,7 @@ aama:ID92e7c4c4-b245-4d84-a32b-fa2d3881a935 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID7c75cdc7-d612-4143-a62c-75b5dfe55ea9 a aamas:Muterm ;
+aama:IDed7e4a61-33bf-4f64-b1d8-564ffb6b6d63 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePerfHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5266,7 +5267,7 @@ aama:ID7c75cdc7-d612-4143-a62c-75b5dfe55ea9 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDc0953dc5-70c0-4924-8e01-7fcd57d788a3 a aamas:Muterm ;
+aama:ID59a9c3f8-9be2-437f-9fd6-b8bda2210698 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePerfHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5280,7 +5281,7 @@ aama:IDc0953dc5-70c0-4924-8e01-7fcd57d788a3 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID5a4eb066-f141-4ab1-b03b-d1cd340ad2da a aamas:Muterm ;
+aama:ID5854f65b-d3b6-4e5f-8c8a-3a590bb52aca a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePerfHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5301,7 +5302,7 @@ yak:yaaku-VAffDefinitePresHave a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-%%respectively" 
 	.
 
-aama:ID02f93529-02f1-4b58-8561-20705f5e5d3c a aamas:Muterm ;
+aama:ID58905dc1-b426-42f4-bf51-054c5e57b723 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePresHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5315,7 +5316,7 @@ aama:ID02f93529-02f1-4b58-8561-20705f5e5d3c a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID41cc0333-d83f-4252-8c2b-00f5234bd9dc a aamas:Muterm ;
+aama:IDc8dcaf12-73ad-46c0-8ed8-f61accf4cff8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePresHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5329,7 +5330,7 @@ aama:ID41cc0333-d83f-4252-8c2b-00f5234bd9dc a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID7e7408b8-2919-4984-a371-215ba6a1d31c a aamas:Muterm ;
+aama:ID02f671e5-ca9c-4201-aabf-6f233a812e69 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePresHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5343,7 +5344,7 @@ aama:ID7e7408b8-2919-4984-a371-215ba6a1d31c a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID365928fd-6bb3-4e60-826a-01a5d9b29fda a aamas:Muterm ;
+aama:ID9cc59ab7-80f4-4f7f-8d41-601c855621eb a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePresHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5357,7 +5358,7 @@ aama:ID365928fd-6bb3-4e60-826a-01a5d9b29fda a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID2add1ecc-3d3a-4e25-80d2-9df3ce8c9c56 a aamas:Muterm ;
+aama:ID3b9f8bdf-c726-4d54-8deb-3c186fb93bfb a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePresHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5371,7 +5372,7 @@ aama:ID2add1ecc-3d3a-4e25-80d2-9df3ce8c9c56 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID903b346e-4a50-4f5c-9787-0305d4fef7f6 a aamas:Muterm ;
+aama:IDf8c855ca-6755-4e1f-a561-e157324d984b a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffDefinitePresHave ;
 	yak:aspect yak:Definite ;
 	yak:gender yak:Common ;
@@ -5392,7 +5393,7 @@ yak:yaaku-VAffIndefiniteFutHave a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-%%respectively" 
 	.
 
-aama:ID0a6573f3-386a-4a57-bf0e-d8907d374fab a aamas:Muterm ;
+aama:ID84e0924f-36af-4758-adaf-abcac083d726 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefiniteFutHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5406,7 +5407,7 @@ aama:ID0a6573f3-386a-4a57-bf0e-d8907d374fab a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID61bf7b12-6166-462a-b490-2b76cec7589e a aamas:Muterm ;
+aama:IDb5140ea3-f396-44dd-83a5-334dea679995 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefiniteFutHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5420,7 +5421,7 @@ aama:ID61bf7b12-6166-462a-b490-2b76cec7589e a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID09ea29db-4c3d-49de-9b44-44a1fa7c4898 a aamas:Muterm ;
+aama:ID2de98f5e-1432-45f9-a0be-642062445bac a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefiniteFutHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5434,7 +5435,7 @@ aama:ID09ea29db-4c3d-49de-9b44-44a1fa7c4898 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID6022a870-c1ee-4819-b483-a3f8baa5cbb0 a aamas:Muterm ;
+aama:ID3ef16dbb-6b00-4baf-8040-cadfa1bdc2a8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefiniteFutHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5448,7 +5449,7 @@ aama:ID6022a870-c1ee-4819-b483-a3f8baa5cbb0 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID58e42aee-4aa1-495c-8623-60b3664460a5 a aamas:Muterm ;
+aama:IDcc423f62-d794-45dd-ab58-cb2fcf25041b a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefiniteFutHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5462,7 +5463,7 @@ aama:ID58e42aee-4aa1-495c-8623-60b3664460a5 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDf9e60da8-3bc0-44ee-a96e-45a940835cd5 a aamas:Muterm ;
+aama:ID6a8120ee-dfb5-428c-ab0c-6a3ea95014f5 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefiniteFutHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5483,7 +5484,7 @@ yak:yaaku-VAffIndefinitePresHave a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-%%respectively" 
 	.
 
-aama:ID6592523a-1584-4ed0-952a-08568d9fd640 a aamas:Muterm ;
+aama:ID88567b82-9a6c-4411-982e-527c4df203ee a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5497,7 +5498,7 @@ aama:ID6592523a-1584-4ed0-952a-08568d9fd640 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDa56a30f7-9301-43fe-9dcf-42fc8aa86bec a aamas:Muterm ;
+aama:ID5450c5b6-4f08-4989-b4ce-e7987b96c6bf a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5511,7 +5512,7 @@ aama:IDa56a30f7-9301-43fe-9dcf-42fc8aa86bec a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID685cc28e-cd68-4fe4-aca1-1bf92a279169 a aamas:Muterm ;
+aama:IDb8326c32-e24b-4ee2-8ceb-4854348815db a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5525,7 +5526,7 @@ aama:ID685cc28e-cd68-4fe4-aca1-1bf92a279169 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID9026492d-a1bb-444a-975d-a862b05fd336 a aamas:Muterm ;
+aama:ID8f25f8da-61f1-4755-8a4f-051584f18836 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5539,7 +5540,7 @@ aama:ID9026492d-a1bb-444a-975d-a862b05fd336 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID160e821d-8372-464f-94d0-33c55c6534b4 a aamas:Muterm ;
+aama:IDe2809c9e-27d0-43ad-bca6-98189bd248da a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5553,7 +5554,7 @@ aama:ID160e821d-8372-464f-94d0-33c55c6534b4 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:IDaeee2b8b-2e86-488c-8617-5084d273206c a aamas:Muterm ;
+aama:ID22886af6-eb1d-4a81-95ca-43edee68ea31 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VAffIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	yak:gender yak:Common ;
@@ -5574,7 +5575,7 @@ yak:yaaku-VNegIndefinitePresHave a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-%%respectively" 
 	.
 
-aama:IDbb9c48da-62f6-4c55-a66d-caca19ad02bc a aamas:Muterm ;
+aama:ID704a99f3-1b82-4fd9-98cc-9859c3bb4ca9 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VNegIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	aamas:morpheme aama:Yaaku-HAVENEGINDEFPRES ;
@@ -5588,7 +5589,7 @@ aama:IDbb9c48da-62f6-4c55-a66d-caca19ad02bc a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID273d5eec-b4c7-4dbd-ab2d-eb6ea0c1188c a aamas:Muterm ;
+aama:IDed975a42-ae31-4387-a757-aa16197564d9 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VNegIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	aamas:morpheme aama:Yaaku-HAVENEGINDEFPRES ;
@@ -5602,7 +5603,7 @@ aama:ID273d5eec-b4c7-4dbd-ab2d-eb6ea0c1188c a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDf92d50b9-0203-4709-85f0-34eacd740acb a aamas:Muterm ;
+aama:ID55b3682c-2675-4129-9036-b6d63076fb2a a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VNegIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	aamas:morpheme aama:Yaaku-HAVENEGINDEFPRES ;
@@ -5616,7 +5617,7 @@ aama:IDf92d50b9-0203-4709-85f0-34eacd740acb a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID797a5815-daf2-4dce-917b-5945a8f87ea2 a aamas:Muterm ;
+aama:ID408d414d-2610-46a1-8046-54e0e05564b4 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VNegIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	aamas:morpheme aama:Yaaku-HAVENEGINDEFPRES ;
@@ -5630,7 +5631,7 @@ aama:ID797a5815-daf2-4dce-917b-5945a8f87ea2 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID8d7fbb24-2730-4274-b771-ebacb715a342 a aamas:Muterm ;
+aama:ID73a7be64-d701-4dd4-ba20-6f5cb72445fe a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VNegIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	aamas:morpheme aama:Yaaku-HAVENEGINDEFPRES ;
@@ -5644,7 +5645,7 @@ aama:ID8d7fbb24-2730-4274-b771-ebacb715a342 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID39869fa4-9875-4ed8-9d5e-5d1de2245f7b a aamas:Muterm ;
+aama:ID9569f587-13b4-4339-a71a-8b9c9d69f5e4 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VNegIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	aamas:morpheme aama:Yaaku-HAVENEGINDEFPRES ;
@@ -5658,7 +5659,7 @@ aama:ID39869fa4-9875-4ed8-9d5e-5d1de2245f7b a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID4dc5425d-7d10-47bf-a4b1-adcb7ffbcf07 a aamas:Muterm ;
+aama:ID55f3eb4f-f433-44d1-b9c2-188b7abb5882 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VNegIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	aamas:morpheme aama:Yaaku-HAVENEGINDEFPRES ;
@@ -5672,7 +5673,7 @@ aama:ID4dc5425d-7d10-47bf-a4b1-adcb7ffbcf07 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID62efc71c-1f20-4627-afab-ca869b3d1c10 a aamas:Muterm ;
+aama:IDf6b725ed-690c-4de2-9958-af97a9aeb75d a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VNegIndefinitePresHave ;
 	yak:aspect yak:Indefinite ;
 	aamas:morpheme aama:Yaaku-HAVENEGINDEFPRES ;
@@ -5693,7 +5694,7 @@ yak:yaaku-VPastCopLoc a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 pp. 56f. Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”." 
 	.
 
-aama:ID03e80577-4694-4439-ba63-0161ef75b4ff a aamas:Muterm ;
+aama:ID0bf52aac-32ab-4edf-a8bb-872edaf2133a a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPastCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPAST ;
 	yak:pos yak:Verb ;
@@ -5705,7 +5706,7 @@ aama:ID03e80577-4694-4439-ba63-0161ef75b4ff a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID32992e62-589a-4b58-9332-384cd88f4b1b a aamas:Muterm ;
+aama:IDaf65abfa-3cb4-4b4d-829e-164888621ea8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPastCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPAST ;
 	yak:pos yak:Verb ;
@@ -5717,7 +5718,7 @@ aama:ID32992e62-589a-4b58-9332-384cd88f4b1b a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDeb5720a2-08c5-47f2-a0d5-b02e9d4a7e68 a aamas:Muterm ;
+aama:IDfa6a4b75-fd62-4167-b3df-1aa9145b3d51 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPastCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPAST ;
 	yak:pos yak:Verb ;
@@ -5729,7 +5730,7 @@ aama:IDeb5720a2-08c5-47f2-a0d5-b02e9d4a7e68 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDbadf311d-2c14-4446-98dd-82626939c3ad a aamas:Muterm ;
+aama:ID751901d9-3aa7-4d3b-b9db-ee6d57778358 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPastCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPAST ;
 	yak:pos yak:Verb ;
@@ -5741,7 +5742,7 @@ aama:IDbadf311d-2c14-4446-98dd-82626939c3ad a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID24a10354-1f19-4e59-bc6d-fe46c117eda8 a aamas:Muterm ;
+aama:ID60b1018b-f478-49e6-b883-a72f834c07f2 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPastCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPAST ;
 	yak:pos yak:Verb ;
@@ -5753,7 +5754,7 @@ aama:ID24a10354-1f19-4e59-bc6d-fe46c117eda8 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID5e006610-615b-4be9-9373-7b4591fd886d a aamas:Muterm ;
+aama:ID9f3d8bdf-8496-417d-ae3a-d79bc8a19c0e a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPastCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPAST ;
 	yak:pos yak:Verb ;
@@ -5765,7 +5766,7 @@ aama:ID5e006610-615b-4be9-9373-7b4591fd886d a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID19709345-d9e5-4458-9fca-ed6d729543cb a aamas:Muterm ;
+aama:ID2b409af6-7658-45f1-95cf-3ce628b4c7a5 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPastCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPAST ;
 	yak:pos yak:Verb ;
@@ -5784,7 +5785,7 @@ yak:yaaku-VPerfCopLoc a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 pp. 56f. Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”." 
 	.
 
-aama:IDbf261cef-fa01-4299-899c-994e1be2466e a aamas:Muterm ;
+aama:IDc8700c40-0f0a-461f-81f6-b12cee237530 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPerfCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPERF ;
 	yak:pos yak:Verb ;
@@ -5796,7 +5797,7 @@ aama:IDbf261cef-fa01-4299-899c-994e1be2466e a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID78451b0f-bde7-40a1-91f0-ea81b7137758 a aamas:Muterm ;
+aama:ID0025f9af-e09a-4c2c-ba3a-62ea0171f8d7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPerfCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPERF ;
 	yak:pos yak:Verb ;
@@ -5808,7 +5809,7 @@ aama:ID78451b0f-bde7-40a1-91f0-ea81b7137758 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID5b7995d5-44c9-4af2-b0ff-13d7fb3356f6 a aamas:Muterm ;
+aama:ID9df12b8f-9ebc-4880-a3e8-e11facb660ee a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPerfCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPERF ;
 	yak:pos yak:Verb ;
@@ -5820,7 +5821,7 @@ aama:ID5b7995d5-44c9-4af2-b0ff-13d7fb3356f6 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID8e4b82e2-f2ce-4fde-bbd0-4d15f1cc75c4 a aamas:Muterm ;
+aama:ID60afdcfe-f844-4232-bb59-f38fb1d011b0 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPerfCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPERF ;
 	yak:pos yak:Verb ;
@@ -5832,7 +5833,7 @@ aama:ID8e4b82e2-f2ce-4fde-bbd0-4d15f1cc75c4 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID615fde1e-098c-42ea-b018-569a90acac87 a aamas:Muterm ;
+aama:IDa8cb5d23-44b4-4c24-a47c-7a6a1b3eb2a7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPerfCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPERF ;
 	yak:pos yak:Verb ;
@@ -5844,7 +5845,7 @@ aama:ID615fde1e-098c-42ea-b018-569a90acac87 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID5cf40c8c-37b3-4522-8126-60b18b59c914 a aamas:Muterm ;
+aama:IDe8cf0711-8c19-417c-8840-5762d73dc511 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPerfCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPERF ;
 	yak:pos yak:Verb ;
@@ -5856,7 +5857,7 @@ aama:ID5cf40c8c-37b3-4522-8126-60b18b59c914 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID38a7f327-9be8-49fa-802e-26464c3b87c0 a aamas:Muterm ;
+aama:IDfe2b589c-d638-4231-b48d-24038ce815fd a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPerfCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPERF ;
 	yak:pos yak:Verb ;
@@ -5875,7 +5876,7 @@ yak:yaaku-VPresCopLoc a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 pp. 56f. Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”." 
 	.
 
-aama:ID31b35162-94c6-4d4e-b5ba-3fbff43cbacf a aamas:Muterm ;
+aama:ID0053a592-2217-43c0-8176-902d6ac353bd a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPresCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPRES ;
 	yak:pos yak:Verb ;
@@ -5887,7 +5888,7 @@ aama:ID31b35162-94c6-4d4e-b5ba-3fbff43cbacf a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDcc558ec5-09fd-4ed6-b0f9-12d301cd3a23 a aamas:Muterm ;
+aama:IDbde3eb0c-4594-4b26-90cd-20b3ae73f158 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPresCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPRES ;
 	yak:pos yak:Verb ;
@@ -5899,7 +5900,7 @@ aama:IDcc558ec5-09fd-4ed6-b0f9-12d301cd3a23 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:ID7fbbe9ba-6583-41aa-84f7-bc2a5d0394e5 a aamas:Muterm ;
+aama:ID99916696-5fd0-4599-abdd-c44d99a28590 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPresCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPRES ;
 	yak:pos yak:Verb ;
@@ -5911,7 +5912,7 @@ aama:ID7fbbe9ba-6583-41aa-84f7-bc2a5d0394e5 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDbfdefafe-b6b6-4eb6-8364-f6e71f55c678 a aamas:Muterm ;
+aama:ID96870bb8-caa7-40ff-a7ac-58c4aa1fdfdc a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPresCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPRES ;
 	yak:pos yak:Verb ;
@@ -5923,7 +5924,7 @@ aama:IDbfdefafe-b6b6-4eb6-8364-f6e71f55c678 a aamas:Muterm ;
 	yak:number yak:Singular ;
 	.
 
-aama:IDcac62615-21f4-40bd-856d-0ce62da9dd0a a aamas:Muterm ;
+aama:ID32283245-8689-40e3-9a22-370d26595452 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPresCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPRES ;
 	yak:pos yak:Verb ;
@@ -5935,7 +5936,7 @@ aama:IDcac62615-21f4-40bd-856d-0ce62da9dd0a a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID3c352381-75cc-4a77-ad75-484a0c59c647 a aamas:Muterm ;
+aama:IDf9e07f2a-aa38-4e41-b39f-e15fc698cf3e a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPresCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPRES ;
 	yak:pos yak:Verb ;
@@ -5947,7 +5948,7 @@ aama:ID3c352381-75cc-4a77-ad75-484a0c59c647 a aamas:Muterm ;
 	yak:number yak:Plural ;
 	.
 
-aama:ID756ae3a6-4ab6-4056-a19c-a8fc08b21470 a aamas:Muterm ;
+aama:IDb6f4b4f6-4138-4783-9ee3-69822c4a0aaf a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VPresCopLoc ;
 	aamas:morpheme aama:Yaaku-COPULALOCPRES ;
 	yak:pos yak:Verb ;
@@ -5966,7 +5967,7 @@ yak:yaaku-VProAgreement a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 p. 44. General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect%%otherwise ŋe-" 
 	.
 
-aama:ID2516bd13-6959-4e66-be47-ca79be130547 a aamas:Muterm ;
+aama:ID609a5006-8f4a-4bf4-afd6-d7273c8c25bc a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -5978,7 +5979,7 @@ aama:ID2516bd13-6959-4e66-be47-ca79be130547 a aamas:Muterm ;
 	yak:case yak:Indirect ;
 	.
 
-aama:ID527d77b6-9b01-4f3c-bdc2-5058e559d632 a aamas:Muterm ;
+aama:ID8c5e1c0f-86a3-49b0-ba2b-eb65516bb3c8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -5990,7 +5991,7 @@ aama:ID527d77b6-9b01-4f3c-bdc2-5058e559d632 a aamas:Muterm ;
 	yak:case yak:Indirect ;
 	.
 
-aama:ID3104a706-af13-48f4-8da5-64d1c73af45d a aamas:Muterm ;
+aama:ID9ea330a5-74f8-434d-afca-f482c7c33d69 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6002,7 +6003,7 @@ aama:ID3104a706-af13-48f4-8da5-64d1c73af45d a aamas:Muterm ;
 	yak:case yak:Indirect ;
 	.
 
-aama:ID2d196dfe-bb15-413b-9fa0-39c631184ab1 a aamas:Muterm ;
+aama:IDf5f67d62-ba68-46cf-b404-7633e0fcb4d7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6014,7 +6015,7 @@ aama:ID2d196dfe-bb15-413b-9fa0-39c631184ab1 a aamas:Muterm ;
 	yak:case yak:Indirect ;
 	.
 
-aama:ID9935779f-6c38-4a76-a6d0-9112504a9864 a aamas:Muterm ;
+aama:ID38fb6c6c-98cd-4227-b9ef-5452234bf186 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6026,7 +6027,7 @@ aama:ID9935779f-6c38-4a76-a6d0-9112504a9864 a aamas:Muterm ;
 	yak:case yak:Indirect ;
 	.
 
-aama:ID9a4aec47-f703-4834-81c0-95f26b8ff162 a aamas:Muterm ;
+aama:ID1e57ad64-93c3-4918-8fad-b7cdb5e134d8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6038,7 +6039,7 @@ aama:ID9a4aec47-f703-4834-81c0-95f26b8ff162 a aamas:Muterm ;
 	yak:case yak:Indirect ;
 	.
 
-aama:ID07902c86-91a0-4632-bab1-40fc5ce16363 a aamas:Muterm ;
+aama:ID76d9c314-f04a-4742-970e-338a5c52963a a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6050,7 +6051,7 @@ aama:ID07902c86-91a0-4632-bab1-40fc5ce16363 a aamas:Muterm ;
 	yak:case yak:ObjectGeneral ;
 	.
 
-aama:ID8c0c93b9-bb98-44a8-8f11-47eaf6803ac3 a aamas:Muterm ;
+aama:IDace5e27f-ae4e-4539-9cd8-729d0e469450 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6062,7 +6063,7 @@ aama:ID8c0c93b9-bb98-44a8-8f11-47eaf6803ac3 a aamas:Muterm ;
 	yak:case yak:ObjectGeneral ;
 	.
 
-aama:IDa2254552-5598-44b5-b586-f0b107c7f66d a aamas:Muterm ;
+aama:ID0b8fab4e-e297-4a9a-bea6-2c02b3aaed52 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6074,7 +6075,7 @@ aama:IDa2254552-5598-44b5-b586-f0b107c7f66d a aamas:Muterm ;
 	yak:case yak:ObjectGeneral ;
 	.
 
-aama:IDeb69444d-619d-4fca-9180-c5e788de3ce6 a aamas:Muterm ;
+aama:ID4dcbf97b-f743-4414-80f8-5ef6c2c50282 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6086,7 +6087,7 @@ aama:IDeb69444d-619d-4fca-9180-c5e788de3ce6 a aamas:Muterm ;
 	yak:case yak:ObjectGeneral ;
 	.
 
-aama:ID121af95e-e508-4c3c-ae72-87f906d0a5dd a aamas:Muterm ;
+aama:ID2f229d44-34ad-4fdf-aa3a-96a22ea448fa a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6098,7 +6099,7 @@ aama:ID121af95e-e508-4c3c-ae72-87f906d0a5dd a aamas:Muterm ;
 	yak:case yak:ObjectGeneral ;
 	.
 
-aama:IDa108e313-47f5-49f5-935f-5158883224a8 a aamas:Muterm ;
+aama:IDcb9ddfda-a1ef-42f9-a2d2-83be2e0f1f99 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6110,7 +6111,7 @@ aama:IDa108e313-47f5-49f5-935f-5158883224a8 a aamas:Muterm ;
 	yak:case yak:ObjectGeneral ;
 	.
 
-aama:ID8c19d0e2-8b2a-4dab-b031-e8868f0089d7 a aamas:Muterm ;
+aama:ID2b8ff814-6999-4fcc-ae80-82d107cb74ce a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6122,7 +6123,7 @@ aama:ID8c19d0e2-8b2a-4dab-b031-e8868f0089d7 a aamas:Muterm ;
 	yak:case yak:ObjectGeneral ;
 	.
 
-aama:ID04c7f2b9-2fe3-4ffd-a147-9d6caebe6de5 a aamas:Muterm ;
+aama:IDe5df9c58-65e7-43d9-9b74-492a527c37d7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6134,7 +6135,7 @@ aama:ID04c7f2b9-2fe3-4ffd-a147-9d6caebe6de5 a aamas:Muterm ;
 	yak:case yak:ObjectWInitial ;
 	.
 
-aama:IDf2dd2de7-9723-4bdf-8837-63ef8bf49347 a aamas:Muterm ;
+aama:IDa7cea439-8c52-4e35-bdd0-a55e9e53780f a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6146,7 +6147,7 @@ aama:IDf2dd2de7-9723-4bdf-8837-63ef8bf49347 a aamas:Muterm ;
 	yak:case yak:ObjectWInitial ;
 	.
 
-aama:ID80554b27-4453-44dc-ade5-f1b60bd3f0f4 a aamas:Muterm ;
+aama:IDf6298358-bf64-4b37-9634-095266a76ee0 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6158,7 +6159,7 @@ aama:ID80554b27-4453-44dc-ade5-f1b60bd3f0f4 a aamas:Muterm ;
 	yak:case yak:ObjectWInitial ;
 	.
 
-aama:IDb33127c2-f44d-4473-a6cc-56cbe85bb78f a aamas:Muterm ;
+aama:ID2b027c45-a6ff-4a16-8609-8d8c76f2746a a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6170,7 +6171,7 @@ aama:IDb33127c2-f44d-4473-a6cc-56cbe85bb78f a aamas:Muterm ;
 	yak:case yak:ObjectWInitial ;
 	.
 
-aama:IDcb0fef98-6343-4f66-94db-2bb5c942b6a6 a aamas:Muterm ;
+aama:ID30d467bd-655e-44ee-b037-2bd097322aa4 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6182,7 +6183,7 @@ aama:IDcb0fef98-6343-4f66-94db-2bb5c942b6a6 a aamas:Muterm ;
 	yak:case yak:ObjectWInitial ;
 	.
 
-aama:ID96a6a1df-7b1c-42d8-9226-3d20de2e4b68 a aamas:Muterm ;
+aama:ID20dcf046-c0a3-4b02-92a4-72fadde53fac a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6194,7 +6195,7 @@ aama:ID96a6a1df-7b1c-42d8-9226-3d20de2e4b68 a aamas:Muterm ;
 	yak:case yak:ObjectWInitial ;
 	.
 
-aama:IDa38a8df3-0dbb-4dc1-9f82-75268df09bc0 a aamas:Muterm ;
+aama:IDd1d75f75-b235-403b-8174-79b6d5750584 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6206,7 +6207,7 @@ aama:IDa38a8df3-0dbb-4dc1-9f82-75268df09bc0 a aamas:Muterm ;
 	yak:case yak:ObjectWInitial ;
 	.
 
-aama:ID2b98df39-29fa-4af8-9628-b100b34e9ec7 a aamas:Muterm ;
+aama:IDad418b06-89bb-4c2e-bc12-8f697b397174 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6218,7 +6219,7 @@ aama:ID2b98df39-29fa-4af8-9628-b100b34e9ec7 a aamas:Muterm ;
 	yak:case yak:Subject ;
 	.
 
-aama:ID588c541d-46c8-45f0-bb80-5c57b1b7a12a a aamas:Muterm ;
+aama:IDeae5fa52-4860-4324-9819-e36b302b2f2c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6230,7 +6231,7 @@ aama:ID588c541d-46c8-45f0-bb80-5c57b1b7a12a a aamas:Muterm ;
 	yak:case yak:Subject ;
 	.
 
-aama:IDee9cae2c-6c4d-4c6c-8602-f53e3a4a2140 a aamas:Muterm ;
+aama:IDbf9d428e-4266-40c8-bf9b-2a7d077a64cc a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6242,7 +6243,7 @@ aama:IDee9cae2c-6c4d-4c6c-8602-f53e3a4a2140 a aamas:Muterm ;
 	yak:case yak:Subject ;
 	.
 
-aama:ID7ca8c55d-59fe-47fa-9f68-8b59dc8cb3b6 a aamas:Muterm ;
+aama:IDdc5a7fad-bdc8-4284-9b20-ebe0a413679d a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6254,7 +6255,7 @@ aama:ID7ca8c55d-59fe-47fa-9f68-8b59dc8cb3b6 a aamas:Muterm ;
 	yak:case yak:Subject ;
 	.
 
-aama:ID4db3aace-4eb2-43e4-9d24-b5ebfad56f95 a aamas:Muterm ;
+aama:ID8df3d83c-5892-4035-8802-715f3b3ef56f a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6266,7 +6267,7 @@ aama:ID4db3aace-4eb2-43e4-9d24-b5ebfad56f95 a aamas:Muterm ;
 	yak:case yak:Subject ;
 	.
 
-aama:ID28f8e86f-1ce2-49b7-8020-7cee1c2f958a a aamas:Muterm ;
+aama:ID27ff8f2e-1ca7-4976-97dd-ffc19649a032 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6278,7 +6279,7 @@ aama:ID28f8e86f-1ce2-49b7-8020-7cee1c2f958a a aamas:Muterm ;
 	yak:case yak:Subject ;
 	.
 
-aama:ID85a51f18-d246-4c1a-b9fd-eea2b305f76b a aamas:Muterm ;
+aama:ID3bd92963-5591-443f-9714-eeb28c74aac4 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6290,7 +6291,7 @@ aama:ID85a51f18-d246-4c1a-b9fd-eea2b305f76b a aamas:Muterm ;
 	yak:case yak:Subject ;
 	.
 
-aama:IDa869d61b-9dd8-4d46-b3f5-c3a84bef6dcc a aamas:Muterm ;
+aama:ID68c613db-4972-4ae4-8ee6-1821770c4289 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VProAgreement ;
 	aamas:morpheme aama:Yaaku-PROAGREEMENT ;
 	yak:pos yak:Verb ;
@@ -6309,7 +6310,7 @@ yak:yaaku-VSubjPref a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 p. 45. These are the same for both affirmative and negative" 
 	.
 
-aama:ID51061756-ef4f-4292-8c80-8b75e9cf1405 a aamas:Muterm ;
+aama:IDa2842c17-fe7b-4392-bf05-8de419086e74 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjPref ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERPREF ;
 	yak:pos yak:Verb ;
@@ -6319,7 +6320,7 @@ aama:ID51061756-ef4f-4292-8c80-8b75e9cf1405 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDf205041f-2721-48f4-b79a-39e0cda62e31 a aamas:Muterm ;
+aama:IDd644b2ec-8220-442e-9c60-5725f263a37c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjPref ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERPREF ;
 	yak:pos yak:Verb ;
@@ -6329,7 +6330,7 @@ aama:IDf205041f-2721-48f4-b79a-39e0cda62e31 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID67e0c444-e81e-4fe9-b145-52a2e85d82f9 a aamas:Muterm ;
+aama:ID73e739c0-435d-47f5-97c5-22753a114e24 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjPref ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERPREF ;
 	yak:pos yak:Verb ;
@@ -6339,7 +6340,7 @@ aama:ID67e0c444-e81e-4fe9-b145-52a2e85d82f9 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID8af78fd2-9097-4c57-bdba-9129dbcaa2ca a aamas:Muterm ;
+aama:ID844e0ab0-ac31-4aaf-b7d6-e55b8af70275 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjPref ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERPREF ;
 	yak:pos yak:Verb ;
@@ -6349,7 +6350,7 @@ aama:ID8af78fd2-9097-4c57-bdba-9129dbcaa2ca a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDf2c1a07e-c4f7-4370-8a5f-2bb87edfa53e a aamas:Muterm ;
+aama:ID6b538da1-b611-4255-a71f-5b52b9ea4856 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjPref ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERPREF ;
 	yak:pos yak:Verb ;
@@ -6359,7 +6360,7 @@ aama:IDf2c1a07e-c4f7-4370-8a5f-2bb87edfa53e a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID86bc0b1a-7c66-4b15-8391-b668fa40d69f a aamas:Muterm ;
+aama:IDd9f45ce9-c0ea-49d6-b3c0-c44b95d59f19 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjPref ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERPREF ;
 	yak:pos yak:Verb ;
@@ -6376,7 +6377,7 @@ yak:yaaku-VSubjSuff a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 pp. 45%%48. On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative." 
 	.
 
-aama:ID0ee4aa42-4f86-431a-b2c8-e9baf3d8547e a aamas:Muterm ;
+aama:IDe1c55cf0-6239-4429-8caa-37ed632deebb a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6390,7 +6391,7 @@ aama:ID0ee4aa42-4f86-431a-b2c8-e9baf3d8547e a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDbda41e82-4144-4358-985f-e41726b0ef05 a aamas:Muterm ;
+aama:IDc95821c1-e5c5-4d3d-9b6e-c535545a38d0 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6404,7 +6405,7 @@ aama:IDbda41e82-4144-4358-985f-e41726b0ef05 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID4bd5ce4b-f4f9-43be-a505-a5fc24218307 a aamas:Muterm ;
+aama:IDa1b547f7-b2d9-4c6a-857f-05be2014aab6 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6418,7 +6419,7 @@ aama:ID4bd5ce4b-f4f9-43be-a505-a5fc24218307 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID24754ca5-55fa-4eb1-bc00-a55c138d026c a aamas:Muterm ;
+aama:ID6cac0f55-cc1c-47c2-8b90-aa721af40a0f a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6432,7 +6433,7 @@ aama:ID24754ca5-55fa-4eb1-bc00-a55c138d026c a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID74c689da-1626-454f-a0b5-586c65be591c a aamas:Muterm ;
+aama:ID61cc5285-e37f-4315-8042-c121c5a49aab a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6446,7 +6447,7 @@ aama:ID74c689da-1626-454f-a0b5-586c65be591c a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID47e57d16-2c35-4fac-ba4d-1dd4b53d7768 a aamas:Muterm ;
+aama:ID7bfd18b7-a250-4ec6-9049-0a9b3ff7d3f6 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6460,7 +6461,7 @@ aama:ID47e57d16-2c35-4fac-ba4d-1dd4b53d7768 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDb1d75f54-7faf-470d-b8b4-280baefcfd0b a aamas:Muterm ;
+aama:ID5b0bbbb2-7ee8-415d-82f3-4ef5960ead86 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6474,7 +6475,7 @@ aama:IDb1d75f54-7faf-470d-b8b4-280baefcfd0b a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDe203aa8f-ae9e-4af1-b4e6-921ca80b4570 a aamas:Muterm ;
+aama:IDe2ce8594-6e31-4c52-96d9-5642e7bf0cfa a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6488,7 +6489,7 @@ aama:IDe203aa8f-ae9e-4af1-b4e6-921ca80b4570 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID1a403cef-064c-4f57-8b05-596ab7790488 a aamas:Muterm ;
+aama:ID537d8f8d-19ab-41fa-bafb-3b252f334d2c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6502,7 +6503,7 @@ aama:ID1a403cef-064c-4f57-8b05-596ab7790488 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID3768a12d-f8c7-4bdb-be56-d86648f24d7f a aamas:Muterm ;
+aama:IDd9ec0d01-982b-48c2-b98b-3f9bf829a14a a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6516,7 +6517,7 @@ aama:ID3768a12d-f8c7-4bdb-be56-d86648f24d7f a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDbff7f7b7-ffab-4121-9476-b99b849a1643 a aamas:Muterm ;
+aama:IDbdf9c96a-cacd-48d3-ad58-606c71e18ac3 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6530,7 +6531,7 @@ aama:IDbff7f7b7-ffab-4121-9476-b99b849a1643 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID8013c09e-4618-4fc0-97fc-5427d7b3115b a aamas:Muterm ;
+aama:ID15a937dd-059c-4276-aa0e-e70b4cca275b a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6544,7 +6545,7 @@ aama:ID8013c09e-4618-4fc0-97fc-5427d7b3115b a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDf55cb09f-d9a4-475a-b732-0a1a613cb977 a aamas:Muterm ;
+aama:IDb3dfb5cf-1d37-418f-a22b-9af787d4d3d4 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6558,7 +6559,7 @@ aama:IDf55cb09f-d9a4-475a-b732-0a1a613cb977 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID9adc569c-6a08-4526-b073-c9be64fd17f9 a aamas:Muterm ;
+aama:IDcfa6b157-2892-40b0-a0ad-e15bed679b65 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6572,7 +6573,7 @@ aama:ID9adc569c-6a08-4526-b073-c9be64fd17f9 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID26972fc6-e141-438f-9e33-33818ac7375d a aamas:Muterm ;
+aama:ID23c0745d-46de-4174-af86-528912f073ab a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6586,7 +6587,7 @@ aama:ID26972fc6-e141-438f-9e33-33818ac7375d a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID356354a1-15f8-4f58-8763-0b579b554111 a aamas:Muterm ;
+aama:ID15f3e14b-39e4-498c-b5ef-8a37d62742ba a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6600,7 +6601,7 @@ aama:ID356354a1-15f8-4f58-8763-0b579b554111 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID37434195-da94-415c-8f59-9e5b9f9d65ba a aamas:Muterm ;
+aama:ID6c8d52ce-2930-457c-a858-39c18a2d4769 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6614,7 +6615,7 @@ aama:ID37434195-da94-415c-8f59-9e5b9f9d65ba a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID3caa9bfe-a34e-494e-b45c-6a1ba377faf0 a aamas:Muterm ;
+aama:IDa3a88225-ea3f-4bd9-ab12-1bc2c9418ad7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6628,7 +6629,7 @@ aama:ID3caa9bfe-a34e-494e-b45c-6a1ba377faf0 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID3bed5495-e2c7-4b4b-a62c-d196e456561e a aamas:Muterm ;
+aama:IDe9783a19-64b5-4d07-b812-9a0cf43ee540 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6642,7 +6643,7 @@ aama:ID3bed5495-e2c7-4b4b-a62c-d196e456561e a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID365cf19b-af4f-4c1c-8cf1-7016e1e23295 a aamas:Muterm ;
+aama:ID39f08545-de6a-44e1-9a38-6d54b458bfe3 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6656,7 +6657,7 @@ aama:ID365cf19b-af4f-4c1c-8cf1-7016e1e23295 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDb0007db8-2ed8-4e1c-b48b-81560e93f6a3 a aamas:Muterm ;
+aama:ID0ae64dfc-9ec0-4774-a9b1-1a90b0b99614 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6670,7 +6671,7 @@ aama:IDb0007db8-2ed8-4e1c-b48b-81560e93f6a3 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID3a19e962-f25e-453e-ada4-0cf66beab6f9 a aamas:Muterm ;
+aama:ID4d500216-e0c6-4ee2-ac69-0fb40cac3ac8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6684,7 +6685,7 @@ aama:ID3a19e962-f25e-453e-ada4-0cf66beab6f9 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID0d628591-1e7b-480e-b50d-a36cb3eb0fc4 a aamas:Muterm ;
+aama:IDed1ad4cd-b9d2-49b2-ac0e-37997fbc74bd a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6698,7 +6699,7 @@ aama:ID0d628591-1e7b-480e-b50d-a36cb3eb0fc4 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID8307549c-b75d-4f67-8f85-0f57a12061c2 a aamas:Muterm ;
+aama:IDcab2b538-81b7-471b-85e5-ffed8288ceb8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6712,7 +6713,7 @@ aama:ID8307549c-b75d-4f67-8f85-0f57a12061c2 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID7530f9c2-6476-45ba-9db9-30b9290d0356 a aamas:Muterm ;
+aama:ID939bb15f-7cdf-46b2-9a1f-e45ed6e7c75d a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6726,7 +6727,7 @@ aama:ID7530f9c2-6476-45ba-9db9-30b9290d0356 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID0dd7c512-26da-4217-8e57-89ecddd28289 a aamas:Muterm ;
+aama:ID1a94919b-997a-4fb1-9516-d37bd3bd9070 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6740,7 +6741,7 @@ aama:ID0dd7c512-26da-4217-8e57-89ecddd28289 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID6383f192-44fd-4d33-ace4-97044233c8eb a aamas:Muterm ;
+aama:ID01a806c4-0e49-4cc9-8467-d272de07e379 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6754,7 +6755,7 @@ aama:ID6383f192-44fd-4d33-ace4-97044233c8eb a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID96277239-e178-4930-a346-37cb28526aab a aamas:Muterm ;
+aama:ID432e5fba-0609-4403-bb57-cd4386d50cf8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6768,7 +6769,7 @@ aama:ID96277239-e178-4930-a346-37cb28526aab a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDf8af6a04-68fb-4e15-991d-580fabe6a623 a aamas:Muterm ;
+aama:ID06ebc192-fd55-4417-a2ec-d2392a79dd28 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6782,7 +6783,7 @@ aama:IDf8af6a04-68fb-4e15-991d-580fabe6a623 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID8f2cc8f5-e262-4cb9-9dff-a43266917db5 a aamas:Muterm ;
+aama:ID5531a1b6-179c-4bfb-8045-fc3a937843ea a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6796,7 +6797,7 @@ aama:ID8f2cc8f5-e262-4cb9-9dff-a43266917db5 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDe094989c-e274-41d9-8a66-ef863ebd5e44 a aamas:Muterm ;
+aama:ID73116b60-4e92-470f-b1da-94d6c397785c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6810,7 +6811,7 @@ aama:IDe094989c-e274-41d9-8a66-ef863ebd5e44 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDe9e53e13-16d6-4fa0-9f70-2211ed6e370c a aamas:Muterm ;
+aama:IDdf6fa663-8fd1-4e0c-af89-d7d7a69c4314 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6824,7 +6825,7 @@ aama:IDe9e53e13-16d6-4fa0-9f70-2211ed6e370c a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDc665be35-5fb4-4fd6-8ada-9606466a2b34 a aamas:Muterm ;
+aama:ID72320687-119d-4796-9c8d-a2ec33dc8ace a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6838,7 +6839,7 @@ aama:IDc665be35-5fb4-4fd6-8ada-9606466a2b34 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDc9a12945-869a-4585-94b1-9acf49fab4aa a aamas:Muterm ;
+aama:ID6dcf5060-53f2-4cfd-aa7b-b71f08e2c1fe a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6852,7 +6853,7 @@ aama:IDc9a12945-869a-4585-94b1-9acf49fab4aa a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDdcd397e1-c92d-4ce8-9376-2f91ac9360db a aamas:Muterm ;
+aama:IDa686e052-4d52-4cf7-9847-eaf297face84 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6866,7 +6867,7 @@ aama:IDdcd397e1-c92d-4ce8-9376-2f91ac9360db a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID5d222f82-a369-4435-8f48-92a45ec1f822 a aamas:Muterm ;
+aama:IDbbfe3d4a-a0d9-45bd-875b-93b6a8f4dc56 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6880,7 +6881,7 @@ aama:ID5d222f82-a369-4435-8f48-92a45ec1f822 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:IDca7d8744-457a-4d8f-9e8e-1a0f2c00d061 a aamas:Muterm ;
+aama:IDe03fc435-d601-4518-8c73-12a23b4edac7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6894,7 +6895,7 @@ aama:IDca7d8744-457a-4d8f-9e8e-1a0f2c00d061 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID54a4cfcd-d57c-4fa5-b71e-ae05707eca62 a aamas:Muterm ;
+aama:IDe88cb4b9-6b0a-415a-a623-dafa13139dcb a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6908,7 +6909,7 @@ aama:ID54a4cfcd-d57c-4fa5-b71e-ae05707eca62 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID89705f32-a824-4f58-965c-681475e2a088 a aamas:Muterm ;
+aama:ID477dfd7d-ac1a-4c27-9cdf-25ff15c8c967 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6922,7 +6923,7 @@ aama:ID89705f32-a824-4f58-965c-681475e2a088 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID9551c31d-49ba-4768-a0c4-0a3ddb7e0014 a aamas:Muterm ;
+aama:IDfd4a802e-9a9a-4148-a3df-09e786b83792 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6936,7 +6937,7 @@ aama:ID9551c31d-49ba-4768-a0c4-0a3ddb7e0014 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID030e3493-ab18-4882-988f-5c498417acca a aamas:Muterm ;
+aama:ID1ffeaf4f-b446-4d1c-a4f1-2a16490ef366 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6950,7 +6951,7 @@ aama:ID030e3493-ab18-4882-988f-5c498417acca a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDc484e7ec-8386-4d7a-bb7c-a90f3ebf35ff a aamas:Muterm ;
+aama:ID65f8ae96-c5d3-44a4-a5c9-de53ffe18632 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6964,7 +6965,7 @@ aama:IDc484e7ec-8386-4d7a-bb7c-a90f3ebf35ff a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDd8113e08-2718-4d6d-bf56-77445fdf5ea2 a aamas:Muterm ;
+aama:ID22d2a26a-0dd8-497f-9f1b-57315d31ff89 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6978,7 +6979,7 @@ aama:IDd8113e08-2718-4d6d-bf56-77445fdf5ea2 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID160ccb40-c11d-41fa-9247-a9719cd2eb5a a aamas:Muterm ;
+aama:IDb2857bab-418f-44ed-9271-798e0c3f5740 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -6992,7 +6993,7 @@ aama:ID160ccb40-c11d-41fa-9247-a9719cd2eb5a a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID8afe594b-8352-4c69-b5fe-4b242204aa04 a aamas:Muterm ;
+aama:IDb50cfb90-10a5-4115-b3be-a9c52d85928e a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7006,7 +7007,7 @@ aama:ID8afe594b-8352-4c69-b5fe-4b242204aa04 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID4f4fa8c7-1ded-48c0-94e5-c0a60872dd9c a aamas:Muterm ;
+aama:ID11c0f624-2d73-4407-97c6-64ba79759887 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7020,7 +7021,7 @@ aama:ID4f4fa8c7-1ded-48c0-94e5-c0a60872dd9c a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID89597ba7-46c4-4562-8031-ee8c6989f254 a aamas:Muterm ;
+aama:ID3f82bdf2-5f4a-4e27-a32f-ead9094ab5b7 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7034,7 +7035,7 @@ aama:ID89597ba7-46c4-4562-8031-ee8c6989f254 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID6752825a-5655-454c-8ce8-c8167e6533b5 a aamas:Muterm ;
+aama:ID19a5832e-aae0-4394-a518-2afece96591e a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7048,7 +7049,7 @@ aama:ID6752825a-5655-454c-8ce8-c8167e6533b5 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDfeb0eb51-b0d1-4efc-ac57-79f86690ad3e a aamas:Muterm ;
+aama:IDdb034222-0baf-4809-8f6b-379d51bbb348 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7062,7 +7063,7 @@ aama:IDfeb0eb51-b0d1-4efc-ac57-79f86690ad3e a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID907ac75d-ceb6-4696-9b2c-89267a5c770b a aamas:Muterm ;
+aama:IDeb39120e-2f40-4e42-b596-5578429f25d8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7076,7 +7077,7 @@ aama:ID907ac75d-ceb6-4696-9b2c-89267a5c770b a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDefa82ec8-e2d2-4d7c-ae3b-280378b83a22 a aamas:Muterm ;
+aama:ID3b1f260b-227d-4741-8b32-3a21d74153ab a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7090,7 +7091,7 @@ aama:IDefa82ec8-e2d2-4d7c-ae3b-280378b83a22 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID970e5fa8-097f-49a0-9245-c8784d98d509 a aamas:Muterm ;
+aama:IDcb7293c7-3b78-4400-b653-cfe867234ca5 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7104,7 +7105,7 @@ aama:ID970e5fa8-097f-49a0-9245-c8784d98d509 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDf0ccab6e-096d-49d6-8495-c1172306fb4a a aamas:Muterm ;
+aama:IDf31b5573-5dd1-41a9-b4df-8ddfb9bec0b5 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7118,7 +7119,7 @@ aama:IDf0ccab6e-096d-49d6-8495-c1172306fb4a a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID87df2505-3563-40eb-a756-43f25310da74 a aamas:Muterm ;
+aama:IDfa757b7a-5b0d-498f-900d-ec0c4c7651df a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7132,7 +7133,7 @@ aama:ID87df2505-3563-40eb-a756-43f25310da74 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDbb3433fa-d96d-441b-8390-e560b5c806c7 a aamas:Muterm ;
+aama:ID339b1a4c-edd3-4664-881b-3bfeffe83cb3 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7146,7 +7147,7 @@ aama:IDbb3433fa-d96d-441b-8390-e560b5c806c7 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDcf12156f-a7cb-4f83-be4d-bd2177b6bd22 a aamas:Muterm ;
+aama:IDa04b1176-71e7-442a-9e0a-f4a710ce4b20 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7160,7 +7161,7 @@ aama:IDcf12156f-a7cb-4f83-be4d-bd2177b6bd22 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDb03d6e1c-27ac-4e4a-816b-e7ca81701cb0 a aamas:Muterm ;
+aama:ID6c2b1a77-9aae-42f9-92cc-f835867fe40c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7174,7 +7175,7 @@ aama:IDb03d6e1c-27ac-4e4a-816b-e7ca81701cb0 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDc9798111-f3c0-46ea-b47c-32299e6e82d4 a aamas:Muterm ;
+aama:ID8deef817-1999-4eef-814c-63b6c739a83d a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7188,7 +7189,7 @@ aama:IDc9798111-f3c0-46ea-b47c-32299e6e82d4 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDc805408d-ada5-4f70-940f-2ac260fac745 a aamas:Muterm ;
+aama:ID240cd7d4-ca30-4581-86ad-01897eca2a47 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7202,7 +7203,7 @@ aama:IDc805408d-ada5-4f70-940f-2ac260fac745 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID7a5ef97a-578c-401f-86bc-89e38cd696bc a aamas:Muterm ;
+aama:ID2d4f2501-8b8b-4cb6-a01c-34895cadd8cb a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7216,7 +7217,7 @@ aama:ID7a5ef97a-578c-401f-86bc-89e38cd696bc a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID2c841522-1d74-4061-bcc9-86ca95740e9d a aamas:Muterm ;
+aama:ID22d5ee10-0620-4d7e-9b69-77f2e24f2576 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7230,7 +7231,7 @@ aama:ID2c841522-1d74-4061-bcc9-86ca95740e9d a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDda320394-af0e-409c-a1bd-956d5ea1a99d a aamas:Muterm ;
+aama:IDd2f5e9ed-6f1f-400b-bcda-bdac52a14db2 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7244,7 +7245,7 @@ aama:IDda320394-af0e-409c-a1bd-956d5ea1a99d a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID60171bbb-b653-4ffb-9190-411ac922c6d1 a aamas:Muterm ;
+aama:IDafeab1e1-7136-4fe3-890a-1ab0d8ed4002 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7258,7 +7259,7 @@ aama:ID60171bbb-b653-4ffb-9190-411ac922c6d1 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDc71639ff-dbe4-4a5e-8ad4-cfb46396142f a aamas:Muterm ;
+aama:ID4f7656af-5647-4f75-b3be-4b4a8c9656ee a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7272,7 +7273,7 @@ aama:IDc71639ff-dbe4-4a5e-8ad4-cfb46396142f a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDc7e10e42-e660-4f2a-ad6f-b15503f75f44 a aamas:Muterm ;
+aama:ID61425619-30e0-4f78-998a-010ac6da9b8d a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7286,7 +7287,7 @@ aama:IDc7e10e42-e660-4f2a-ad6f-b15503f75f44 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID875be6e7-ae0e-4ade-ba4e-85b442eafffc a aamas:Muterm ;
+aama:ID6db9f989-da5e-428f-a965-e45c940d0f72 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7300,7 +7301,7 @@ aama:ID875be6e7-ae0e-4ade-ba4e-85b442eafffc a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDbcf099e9-365f-41b3-a9a9-d7bcae084ad7 a aamas:Muterm ;
+aama:IDb928f2bd-620d-49e2-959f-a10453204939 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7314,7 +7315,7 @@ aama:IDbcf099e9-365f-41b3-a9a9-d7bcae084ad7 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID048fbaba-f394-4773-8ea6-40c730cd04a9 a aamas:Muterm ;
+aama:ID89164fb2-109b-4c31-8f3f-a96ce781c243 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7328,7 +7329,7 @@ aama:ID048fbaba-f394-4773-8ea6-40c730cd04a9 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID16855358-9871-4934-8ca7-e92eb6364fbd a aamas:Muterm ;
+aama:IDbf1ff504-e409-4e7b-9f3f-54b48eb4733d a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7342,7 +7343,7 @@ aama:ID16855358-9871-4934-8ca7-e92eb6364fbd a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID44792cdb-ce10-46f4-b7b3-dfd83f4e308e a aamas:Muterm ;
+aama:IDbac9ef50-d259-4e46-8468-25022b462962 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7356,7 +7357,7 @@ aama:ID44792cdb-ce10-46f4-b7b3-dfd83f4e308e a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID4e8b9210-94d0-4610-a836-a2abdbc69b08 a aamas:Muterm ;
+aama:IDab7bcc0e-ab27-4710-9d59-144faebe524e a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7370,7 +7371,7 @@ aama:ID4e8b9210-94d0-4610-a836-a2abdbc69b08 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID79cb1bf7-1589-4796-8c11-0bdf9a0399df a aamas:Muterm ;
+aama:ID462c599d-771c-4168-b615-0d2326fad400 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7384,7 +7385,7 @@ aama:ID79cb1bf7-1589-4796-8c11-0bdf9a0399df a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID403909a4-eb6a-41b4-bab2-18368d608be1 a aamas:Muterm ;
+aama:ID63aca482-0ab5-4dd6-9688-0431c95db668 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7398,7 +7399,7 @@ aama:ID403909a4-eb6a-41b4-bab2-18368d608be1 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID07bada64-6c0b-4aaa-ad90-d491607966e1 a aamas:Muterm ;
+aama:ID3e21ee1b-5fdd-4f96-bb83-99a56f049e4c a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7412,7 +7413,7 @@ aama:ID07bada64-6c0b-4aaa-ad90-d491607966e1 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDb14df008-dfb4-4254-80ec-e36d16145ec4 a aamas:Muterm ;
+aama:ID59f2fa65-9409-46c9-8806-1538e5d343f5 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7426,7 +7427,7 @@ aama:IDb14df008-dfb4-4254-80ec-e36d16145ec4 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID811a1ffa-dabc-4002-a396-347c43e9b82a a aamas:Muterm ;
+aama:ID714af6e6-f9f8-42d9-9174-040b1333a3c8 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7440,7 +7441,7 @@ aama:ID811a1ffa-dabc-4002-a396-347c43e9b82a a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:ID5279f5ab-2a34-4757-84f0-f563eee0fab0 a aamas:Muterm ;
+aama:ID605c8609-aacb-49e4-b05e-27f5a18d9db2 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VSubjSuff ;
 	aamas:morpheme aama:Yaaku-SUBJMARKERSUFF ;
 	yak:pos yak:Verb ;
@@ -7461,7 +7462,7 @@ yak:yaaku-VTAMPref a aamas:MuTermcluster ;
 	rdfs:comment "Heine1975 p.46%%49. General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect%%otherwise ŋe-" 
 	.
 
-aama:ID99b1088d-6571-4328-98e7-c6bd863bed49 a aamas:Muterm ;
+aama:ID73c9428b-82e2-4819-a1a9-de3df71cb0fb a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VTAMPref ;
 	aamas:morpheme aama:Yaaku-TAMPREF ;
 	yak:pos yak:Verb ;
@@ -7472,7 +7473,7 @@ aama:ID99b1088d-6571-4328-98e7-c6bd863bed49 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID1fb9276c-3946-4a9a-8782-93efab196737 a aamas:Muterm ;
+aama:ID7fdd1980-b5d6-4fbf-b144-b7c53780f628 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VTAMPref ;
 	aamas:morpheme aama:Yaaku-TAMPREF ;
 	yak:pos yak:Verb ;
@@ -7483,7 +7484,7 @@ aama:ID1fb9276c-3946-4a9a-8782-93efab196737 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID280166cd-de29-4f8d-817a-48cd33a19c8d a aamas:Muterm ;
+aama:ID49d2f1e3-e1ca-4d4e-9f13-92cb09df6eaf a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VTAMPref ;
 	aamas:morpheme aama:Yaaku-TAMPREF ;
 	yak:pos yak:Verb ;
@@ -7494,7 +7495,7 @@ aama:ID280166cd-de29-4f8d-817a-48cd33a19c8d a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID183e80a7-3a8c-486a-b7e7-fff7628e0dfd a aamas:Muterm ;
+aama:ID4a7875fc-0e48-437b-9ed3-1724482661a4 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VTAMPref ;
 	aamas:morpheme aama:Yaaku-TAMPREF ;
 	yak:pos yak:Verb ;
@@ -7505,7 +7506,7 @@ aama:ID183e80a7-3a8c-486a-b7e7-fff7628e0dfd a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID1c1e8780-2c4d-4e7f-9d08-54308652f804 a aamas:Muterm ;
+aama:ID6f0049d0-bb62-4088-a7a4-30ec3ef41608 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VTAMPref ;
 	aamas:morpheme aama:Yaaku-TAMPREF ;
 	yak:pos yak:Verb ;
@@ -7516,7 +7517,7 @@ aama:ID1c1e8780-2c4d-4e7f-9d08-54308652f804 a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID44355e83-e93d-4665-91a0-2ff1625ad18e a aamas:Muterm ;
+aama:ID7d78f411-3c49-4e82-be9c-8d7100741156 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VTAMPref ;
 	aamas:morpheme aama:Yaaku-TAMPREF ;
 	yak:pos yak:Verb ;
@@ -7527,7 +7528,7 @@ aama:ID44355e83-e93d-4665-91a0-2ff1625ad18e a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID1330fa87-d80b-482f-98ed-6399cf59eb2d a aamas:Muterm ;
+aama:ID16f2eefe-6f46-4efe-9893-b180b63b96b2 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VTAMPref ;
 	aamas:morpheme aama:Yaaku-TAMPREF ;
 	yak:pos yak:Verb ;
@@ -7538,7 +7539,7 @@ aama:ID1330fa87-d80b-482f-98ed-6399cf59eb2d a aamas:Muterm ;
 	yak:aspect yak:Definite ;
 	.
 
-aama:ID803f59d6-ac2b-4ba7-8818-e53eb0fba9c9 a aamas:Muterm ;
+aama:ID94470ad0-bcbc-4c25-aed6-16d9703322d2 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VTAMPref ;
 	aamas:morpheme aama:Yaaku-TAMPREF ;
 	yak:pos yak:Verb ;
@@ -7549,7 +7550,7 @@ aama:ID803f59d6-ac2b-4ba7-8818-e53eb0fba9c9 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDd138a4cf-95b7-4b64-a594-654878f9fc77 a aamas:Muterm ;
+aama:ID43a43ed5-8e37-4feb-a148-35a9d2f8ba21 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VTAMPref ;
 	aamas:morpheme aama:Yaaku-TAMPREF ;
 	yak:pos yak:Verb ;
@@ -7560,7 +7561,7 @@ aama:IDd138a4cf-95b7-4b64-a594-654878f9fc77 a aamas:Muterm ;
 	yak:aspect yak:Indefinite ;
 	.
 
-aama:IDcf28002e-c295-4aeb-afe4-bdfed33c4b25 a aamas:Muterm ;
+aama:IDbfbe9089-8fbf-4c93-88f0-9f34c33955c6 a aamas:Muterm ;
 	aamas:lang aama:Yaaku ;	aamas:memberOf yak:yaaku-VTAMPref ;
 	aamas:morpheme aama:Yaaku-TAMPREF ;
 	yak:pos yak:Verb ;
