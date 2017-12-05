@@ -5,6 +5,21 @@
  :datasource "Heine1975"
  :geodemoURL "http://www.ethnologue.com/language/muu"
  :geodemoTXT "Varieties and subdialects of Yaaku are spoken in Kenya, 'Isiolo and Laikipia counties: Mukogodo forest west of Doldol, foothills north of Mount Kenya; Turkana and Samburu counties: Lake Turkana south tip'. "
+ :schemata {:vmorphClass [:IMPRTV  :ProAgreement :SubjPref :SubjSuff :TenseAspectMoodPref],
+            :aspect [:Definite :Indefinite],
+            :case [:Indirect :ObjectGeneral :ObjectWInitial :Subject],
+            :conjClass [:Common :DemFar :DemNear :DemRef :FormSet1 :FormSet2 :FormSet3 :FormSet4 :FormSet5],
+            :copForm [:CopA :CopB],
+            :gender [:Common :Fem :Masc],
+            :headNoun [:Deleted :Present],
+            :number [:Indefinite :Plural :Singular],
+            :person [:Common :Person1 :Person2 :Person3],
+            :polarity [:Affirmative :Negative],
+            :pos [:Pronoun :Verb],
+            :proClass [:AgreementMarker :Demonstrative :Independent :Possessive],
+            :proSubClass [:AdjInterr :Adjective :DemFar :DemNear :DemRef :PossNom :PossPro :Relative :VAgreement],
+            :tam [:Future :Imperative :Past :PastProgressive :Perfect :Present]
+            :pdgmType [:Finite :FiniteCompound :PRO :VOther]}
  :schemata {:aspect [:Definite  :Indefinite],
             :case [:Indirect :ObjectGeneral :ObjectWInitial :Subject],
             :conjClass [:Common :DemFar :DemNear :DemRef :FormSet1 :FormSet2 :FormSet3 :FormSet4 :FormSet5],
@@ -516,8 +531,9 @@
             }
            {:label "yaaku-VImprtv"
             :note "Heine1975 p. 50"
-            :pdgmType :IMPRTV
-            :common {:pos :Verb,
+            :pdgmType :VOther
+            :common {:vmorphClass :IMPRTV
+                     :pos :Verb,
                      :tam :Imperative}
             :terms [[:lexeme :number :person :token],
                     [:deet :Singular :Person2 "deet"],
@@ -974,8 +990,9 @@
             }
            {:label "yaaku-VProAgreement"
             :note "Heine1975 p. 44. General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-"
-            :pdgmType :ProAgreement
-            :common {:pos :Verb}
+            :pdgmType :VOther
+            :common {:vmorphClass :ProAgreement
+                     :pos :Verb}
             :terms [[:case :number :person :gender :token],
                     [:Indirect :Singular :Person1 :Common "-sei---"],
                     [:Indirect :Singular :Person2 :Common "-suku---"],
@@ -1008,8 +1025,9 @@
             }
            {:label "yaaku-VSubjPref"
             :note "Heine1975 p. 45. These are the same for both affirmative and negative"
-            :pdgmType :SubjPref
-            :common {:pos :Verb}
+            :pdgmType :VOther
+            :common {:vmorphClass :SubjPref
+                     :pos :Verb}
             :terms [[:aspect :person :token],
                     [:Definite :Person1 "na-"],
                     [:Definite :Person2 "a-"],
@@ -1020,8 +1038,9 @@
             }
            {:label "yaaku-VSubjSuff"
             :note "Heine1975 pp. 45,48. On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative."
-            :pdgmType :SubjSuff
-            :common {:pos :Verb}
+            :pdgmType :VOther
+            :common {:vmorphClass :SubjSuff
+                     :pos :Verb}
             :terms [[:aspect :conjClass :polarity :number :person :gender :token],
                     [:Definite :Common :Negative :Singular :Person1 :Common "-n"],
                     [:Definite :Common :Negative :Singular :Person2 :Common "-n"],
@@ -1103,8 +1122,9 @@
             }
            {:label "yaaku-VTAMPref"
             :note "Heine1975 p.46,49. General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-"
-            :pdgmType :TenseAspectMoodPref
-            :common {:pos :Verb}
+            :pdgmType :VOther
+            :common {:vmorphClass :TenseAspectMoodPref
+                     :pos :Verb}
             :terms [[:aspect :polarity :tam :token],
                     [:Definite :Affirmative :Past "aa-"],
                     [:Definite :Affirmative :PastProgressive "maa-"],
