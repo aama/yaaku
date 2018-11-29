@@ -5,8 +5,7 @@
  :datasource "Heine1975"
  :geodemoURL "http://www.ethnologue.com/language/muu"
  :geodemoTXT "Varieties and subdialects of Yaaku are spoken in Kenya, 'Isiolo and Laikipia counties: Mukogodo forest west of Doldol, foothills north of Mount Kenya; Turkana and Samburu counties: Lake Turkana south tip'. "
- :schemata {:lexeme [:COPLOC  :HAVE :deet :ek :eq :ke :kus :lee :wax :xan],
- :aspect [:Definite :Indefinite],
+ :schemata { :aspect [:Definite :Indefinite],
  :case [:Indirect :ObjectGeneral :ObjectWInitial :Subject],
  :conjClass [:Common :DemFar :DemNear :DemRef :FormSet1 :FormSet2 :FormSet3 :FormSet4 :FormSet5],
  :copForm [:CopA :CopB],
@@ -25,16 +24,18 @@
           :synsemClass [:aspect :case :derivedStem :polarity :pos :proClass :tamb],
           :inflClass [:conjClass :copForm],
           :otherClass []}
- :lexemes{:xan {:gloss "[x]", :lemma "[y]"},
-          :keloi {:lemma "kέlói", :gloss "not have (invar)", :conjClass :Invariable, :pos :Verb},
-          :eq {:lemma "eq", :gloss "drink", :conjClass :FormSet3, :pos :Verb},
-          :gwee {:lemma "gwɛ’ɛ", :gloss "be somewhere"},
-          :lee {:gloss "[x]", :lemma "lε’ε"},
-          :ke {:lemma "ke", :gloss "be"},
-          :wax {:lemma "wax", :gloss "see", :conjClass :FormSet5, :pos :Verb},
-          :kus {:lemma "lapare kus", :gloss "tell lies"},
-          :ek {:lemma "εk", :gloss "eat (obj. oblig)"},
-          :deet {:lemma "deet", :gloss "eat", :conjClass :FormSet4, :pos :Verb}}
+ :lexemes {
+:deet   {:pos :Verb, :lemma "deet", :gloss "eat", :conjClass :FormSet4},
+:ek   {:pos :Verb, :lemma "εk", :gloss "eat (obj. oblig)", },
+:eq   {:pos :Verb, :lemma "eq", :gloss "drink", :conjClass :FormSet3},
+:gwee   {:pos :Verb, :lemma "gwɛ’ɛ", :gloss "be somewhere", },
+:ke   {:pos :Verb, :lemma "ke", :gloss "be", },
+:keloi   {:pos :Verb, :lemma "kέlói", :gloss "not have (invar)", :conjClass :Invariable},
+:kus   {:pos :Verb, :lemma "lapare kus", :gloss "tell lies", },
+:lee   {:pos :Verb, :lemma "lε’ε", :gloss "[x]", },
+:wax   {:pos :Verb, :lemma "wax", :gloss "see", :conjClass :FormSet5},
+:xan   {:pos :Verb, :lemma "[y]", :gloss "[x]", },
+}
  :termclusters [
                 {:label "yaaku-VAffDefinitePast-eq"
                  :note "Heine1975 pp 46-50."
