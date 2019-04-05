@@ -2,43 +2,43 @@
  :lang :yaaku
  :subfamily "East Cushitic Yaaku-Dullay"
  :sgpref "yak"
- :datasource "Heine1975"
+ :datasource "Heine1975; abbrev. He95"
  :geodemoURL "http://www.ethnologue.com/language/muu"
  :geodemoTXT "Varieties and subdialects of Yaaku are spoken in Kenya, 'Isiolo and Laikipia counties: Mukogodo forest west of Doldol, foothills north of Mount Kenya; Turkana and Samburu counties: Lake Turkana south tip'. "
  :schemata { :aspect [:Definite :Indefinite],
- :case [:Indirect :ObjectGeneral :ObjectWInitial :Subject],
- :conjClass [:Common :DemFar :DemNear :DemRef :FormSet1 :FormSet2 :FormSet3 :FormSet4 :FormSet5],
- :copForm [:CopA :CopB],
- :gender [:Common :Fem :Masc],
- :headNoun [:Deleted :Present],
- :number [:Indefinite :Plural :Singular],
- :person [:Common :Person1 :Person2 :Person3],
- :polarity [:Affirmative :Negative],
- :pos [:Pronoun :Verb],
- :proClass [:AgreementMarker :Demonstrative :Independent :Possessive],
- :proSubClass [:AdjInterr :Adjective :DemFar :DemNear :DemRef :PossNom :PossPro :Relative :VAgreement],
- :tam [:Future :Imperative :Past :PastProgressive :Perfect :Present],
- :vmorphClass [:Finite :FiniteCompound :IMPRTV :ProAgreement :SubjPref :SubjSuff :TenseAspectMoodPref]
- }
+            :case [:Indirect :ObjectGeneral :ObjectWInitial :Subject],
+            :conjClass [:Common :DemFar :DemNear :DemRef :FormSet1 :FormSet2 :FormSet3 :FormSet4 :FormSet5],
+            :copForm [:CopA :CopB],
+            :gender [:Common :Fem :Masc],
+            :headNoun [:Deleted :Present],
+            :number [:Indefinite :Plural :Singular],
+            :person [:Common :Person1 :Person2 :Person3],
+            :polarity [:Affirmative :Negative],
+            :pos [:Pronoun :Verb],
+            :proClass [:AgreementMarker :Demonstrative :Independent :Possessive],
+            :proSubClass [:AdjInterr :Adjective :DemFar :DemNear :DemRef :PossNom :PossPro :Relative :VAgreement],
+            :tam [:Future :Imperative :Past :PastProgressive :Perfect :Present],
+            :vmorphClass [:Finite :FiniteCompound :IMPRTV :ProAgreement :SubjPref :SubjSuff :TenseAspectMoodPref]
+            }
  :pclass {:pngClass [:person :number :gender],
           :synsemClass [:aspect :case :derivedStem :polarity :pos :proClass :tamb],
           :inflClass [:conjClass :copForm],
           :otherClass []}
  :lexemes {
-:deet   {:pos :Verb, :lemma "deet", :gloss "eat", :conjClass :FormSet4},
-:ek   {:pos :Verb, :lemma "εk", :gloss "eat (obj. oblig)", },
-:eq   {:pos :Verb, :lemma "eq", :gloss "drink", :conjClass :FormSet3},
-:gwee   {:pos :Verb, :lemma "gwɛ’ɛ", :gloss "be somewhere", },
-:ke   {:pos :Verb, :lemma "ke", :gloss "be", },
-:keloi   {:pos :Verb, :lemma "kέlói", :gloss "not have (invar)", :conjClass :Invariable},
-:kus   {:pos :Verb, :lemma "lapare kus", :gloss "tell lies", },
-:lee   {:pos :Verb, :lemma "lε’ε", :gloss "[x]", },
-:wax   {:pos :Verb, :lemma "wax", :gloss "see", :conjClass :FormSet5},
-:xan   {:pos :Verb, :lemma "[y]", :gloss "[x]", },
-}
+           :deet   {:pos :Verb, :lemma "deet", :gloss "eat", :conjClass :FormSet4},
+           :ek   {:pos :Verb, :lemma "εk", :gloss "eat (obj. oblig)", },
+           :eq   {:pos :Verb, :lemma "eq", :gloss "drink", :conjClass :FormSet3},
+           :gwee   {:pos :Verb, :lemma "gwɛ’ɛ", :gloss "be somewhere", },
+           :ke   {:pos :Verb, :lemma "ke", :gloss "be", },
+           :keloi   {:pos :Verb, :lemma "kέlói", :gloss "not have (invar)", :conjClass :Invariable},
+           :kus   {:pos :Verb, :lemma "lapare kus", :gloss "tell lies", },
+           :lee   {:pos :Verb, :lemma "lε’ε", :gloss "[x]", },
+           :wax   {:pos :Verb, :lemma "wax", :gloss "see", :conjClass :FormSet5},
+           :xan   {:pos :Verb, :lemma "[y]", :gloss "[x]", },
+           }
  :termclusters [
                 {:label "yaaku-VAffDefinitePast-eq"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet3,
@@ -56,7 +56,7 @@
                          [:Plural :Person3 :Common "aa-’’éqon"]]
                  }
                 {:label "yaaku-VAffDefinitePast-wax"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet5,
@@ -74,7 +74,7 @@
                          [:Plural :Person3 :Common "aa-wáxan"]]
                  }
                 {:label "yaaku-VAffDefinitePastComp-kus"
-                 :note "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
+                 :note "He95pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
                  :common {:aspect :Definite,
                           :lexeme :kus,
                           :polarity :Affirmative,
@@ -91,7 +91,7 @@
                          [:Plural :Person3 :Common "sapare k-áá-kúhno’"]]
                  }
                 {:label "yaaku-VAffDefinitePastProg-wax"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet5,
@@ -109,7 +109,7 @@
                          [:Plural :Person3 :Common "máá-w’axan"]]
                  }
                 {:label "yaaku-VAffDefinitePastProgComp-kus"
-                 :note "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
+                 :note "He95pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
                  :common {:aspect :Definite,
                           :lexeme :kus,
                           :polarity :Affirmative,
@@ -126,7 +126,7 @@
                          [:Plural :Person3 :Common "sapare ki-má-á-k’úhno’"]]
                  }
                 {:label "yaaku-VAffDefinitePerf-wax"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet5,
@@ -144,7 +144,7 @@
                          [:Plural :Person3 :Common "ná-wáxan"]]
                  }
                 {:label "yaaku-VAffDefinitePerfComp-kus"
-                 :note "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
+                 :note "He95pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
                  :common {:aspect :Definite,
                           :lexeme :kus,
                           :polarity :Affirmative,
@@ -160,7 +160,7 @@
                          [:Plural :Person3 :Common "sapare ki-ná-á-k’úhno’"]]
                  }
                 {:label "yaaku-VAffDefinitePres-eq"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet3,
@@ -178,7 +178,7 @@
                          [:Plural :Person3 :Common "a-‘éqon"]]
                  }
                 {:label "yaaku-VAffDefinitePres-wax"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet5,
@@ -196,7 +196,7 @@
                          [:Plural :Person3 :Common "a-waxan"]]
                  }
                 {:label "yaaku-VAffDefinitePresComp-kus"
-                 :note "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
+                 :note "He95pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
                  :common {:aspect :Definite,
                           :lexeme :kus,
                           :polarity :Affirmative,
@@ -213,7 +213,7 @@
                          [:Plural :Person3 :Common "sapare k-á-k’úhno’"]]
                  }
                 {:label "yaaku-VAffIndefinitePres-eq"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Indefinite,
                           :conjClass :FormSet3,
@@ -231,7 +231,7 @@
                          [:Plural :Person3 :Common "‘ecan"]]
                  }
                 {:label "yaaku-VAffIndefinitePresComp-kus"
-                 :note "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
+                 :note "He95pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
                  :common {:aspect :Indefinite,
                           :lexeme :kus,
                           :polarity :Affirmative,
@@ -248,7 +248,7 @@
                          [:Plural :Person3 :Common "sapare ké-kúsáno’"]]
                  }
                 {:label "yaaku-VAffIndefinteFut-wax"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Indefinite,
                           :conjClass :FormSet5,
@@ -266,7 +266,7 @@
                          [:Plural :Person3 :Common "ké-wáxan"]]
                  }
                 {:label "yaaku-VAffIndefintePres-wax"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Indefinite,
                           :conjClass :FormSet5,
@@ -284,7 +284,7 @@
                          [:Plural :Person3 :Common "waxan"]]
                  }
                 {:label "yaaku-VCopAAffDefinitePastCopulaVerb-ke"
-                 :note "Heine1975 pp. 54f. “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj."
+                 :note "He95pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj"
                  :common {:aspect :Definite,
                           :copForm :CopA,
                           :lexeme :ke,
@@ -299,7 +299,7 @@
                          [:Person3 "kεε"]]
                  }
                 {:label "yaaku-VCopAAffDefinitePerfCopulaVerb-ke"
-                 :note "Heine1975 pp. 54f. “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj."
+                 :note "He95pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj"
                  :common {:aspect :Definite,
                           :copForm :CopA,
                           :lexeme :ke,
@@ -314,7 +314,7 @@
                          [:Person3 "konou"]]
                  }
                 {:label "yaaku-VCopAAffDefinitePresCopulaVerb-ke"
-                 :note "Heine1975 pp. 54f. “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj."
+                 :note "He95pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj"
                  :common {:aspect :Definite,
                           :copForm :CopA,
                           :lexeme :ke,
@@ -331,7 +331,7 @@
                          [:Plural :Person3 "kou"]]
                  }
                 {:label "yaaku-VCopAAffIndefinitePastCopulaVerb-ke"
-                 :note "Heine1975 pp. 54f. “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj."
+                 :note "He95pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj"
                  :common {:aspect :Indefinite,
                           :copForm :CopA,
                           :lexeme :ke,
@@ -348,7 +348,7 @@
                          [:Plural :Person3 "kεε"]]
                  }
                 {:label "yaaku-VCopAAffIndefinitePerfCopulaVerb-ke"
-                 :note "Heine1975 pp. 54f. “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj."
+                 :note "He95pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj"
                  :common {:aspect :Indefinite,
                           :copForm :CopA,
                           :lexeme :ke,
@@ -365,7 +365,7 @@
                          [:Plural :Person3 "kεnε"]]
                  }
                 {:label "yaaku-VCopAAffIndefinitePresCopulaVerb-ke"
-                 :note "Heine1975 pp. 54f. “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj."
+                 :note "He95pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj"
                  :common {:aspect :Indefinite,
                           :copForm :CopA,
                           :lexeme :ke,
@@ -382,7 +382,7 @@
                          [:Plural :Person3 "ke"]]
                  }
                 {:label "yaaku-VCopANegIndefinitePresCopulaVerb-ke"
-                 :note "Heine1975 pp. 54f. “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj."
+                 :note "He95pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj"
                  :common {:aspect :Indefinite,
                           :copForm :CopA,
                           :lexeme :ke,
@@ -399,7 +399,7 @@
                          [:Plural :Person3 "ŋó"]]
                  }
                 {:label "yaaku-VCopBAffIndefinitePresCopulaVerb-ke"
-                 :note "Heine1975 pp. 54f. “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj."
+                 :note "He95pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj"
                  :common {:aspect :Indefinite,
                           :copForm :CopB,
                           :lexeme :ke,
@@ -416,7 +416,7 @@
                          [:Plural :Person3 "keke"]]
                  }
                 {:label "yaaku-VCopBNegIndefinitePresCopulaVerb-ke"
-                 :note "Heine1975 pp. 54f. “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj."
+                 :note "He95pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj"
                  :common {:aspect :Indefinite,
                           :copForm :CopB,
                           :lexeme :ke,
@@ -433,7 +433,7 @@
                          [:Plural :Person3 "ŋóku"]]
                  }
                 {:label "yaaku-VDefinitePast-deet"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet4,
@@ -450,7 +450,7 @@
                          [:Plural :Person3 :Common "aa-d’éetin"]]
                  }
                 {:label "yaaku-VDefinitePastProg-deet"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet4,
@@ -467,7 +467,7 @@
                          [:Plural :Person3 :Common "máá-d’eetin"]]
                  }
                 {:label "yaaku-VDefinitePerf-deet"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet4,
@@ -484,7 +484,7 @@
                          [:Plural :Person3 :Common "ná-d’eetin"]]
                  }
                 {:label "yaaku-VDefinitePres-deet"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet4,
@@ -501,7 +501,7 @@
                          [:Plural :Person3 :Common "a-d’eetin"]]
                  }
                 {:label "yaaku-VImprtv"
-                 :note "Heine1975 p. 50"
+                 :note "He95p.50"
                  :common {:vmorphClass :IMPRTV,
                           :pos :Verb,
                           :tam :Imperative}
@@ -521,7 +521,7 @@
                          [:xan :Plural :Person2 "xán-í-n"]]
                  }
                 {:label "yaaku-VIndefiniteFut-deet"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Indefinite,
                           :conjClass :FormSet4,
@@ -538,7 +538,7 @@
                          [:Plural :Person3 :Common "ké-d’éecan"]]
                  }
                 {:label "yaaku-VIndefinitePres-deet"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Indefinite,
                           :conjClass :FormSet4,
@@ -555,7 +555,7 @@
                          [:Plural :Person3 :Common "d’eécan"]]
                  }
                 {:label "yaaku-VNegDefinitePast-wax"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet5,
@@ -573,7 +573,7 @@
                          [:Plural :Person3 "ŋáa-wáxnen"]]
                  }
                 {:label "yaaku-VNegDefinitePastComp-kus"
-                 :note "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
+                 :note "He95pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
                  :common {:gender :Common,
                           :polarity :Negative,
                           :lexeme :kus,
@@ -587,7 +587,7 @@
                          ["sapare ŋááná-kúsíno"]]
                  }
                 {:label "yaaku-VNegDefinitePerf-wax"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet5,
@@ -605,7 +605,7 @@
                          [:Plural :Person3 "n’ala-w’áxnen"]]
                  }
                 {:label "yaaku-VNegDefinitePerfComp-kus"
-                 :note "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
+                 :note "He95pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
                  :common {:gender :Common,
                           :polarity :Negative,
                           :lexeme :kus,
@@ -619,7 +619,7 @@
                          ["sapare n’álá-kúsíno"]]
                  }
                 {:label "yaaku-VNegDefinitePres-eq"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet3,
@@ -637,7 +637,7 @@
                          [:Plural :Person3 "ŋéne-éqónen"]]
                  }
                 {:label "yaaku-VNegDefinitePres-wax"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Definite,
                           :conjClass :FormSet5,
@@ -655,7 +655,7 @@
                          [:Plural :Person3 "ŋéne-wáxnen"]]
                  }
                 {:label "yaaku-VNegDefinitePresComp-kus"
-                 :note "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
+                 :note "He95pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
                  :common {:gender :Common,
                           :polarity :Negative,
                           :lexeme :kus,
@@ -669,7 +669,7 @@
                          ["sapare ŋé-ne-ŋ-kúsíno"]]
                  }
                 {:label "yaaku-VNegIndefinitePres-eq"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :aspect :Indefinite,
                           :conjClass :FormSet3,
@@ -687,7 +687,7 @@
                          [:Plural :Person3 :Common "ŋé-ecen"]]
                  }
                 {:label "yaaku-VNegIndefinitePresComp-kus"
-                 :note "Heine1975 pp. 51-54. “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
+                 :note "He95pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action"
                  :common {:gender :Common,
                           :polarity :Negative,
                           :lexeme :kus,
@@ -701,7 +701,7 @@
                          ["sapare ŋé-ŋ-kuséé"]]
                  }
                 {:label "yaaku-VNegPres-wax"
-                 :note "Heine1975 pp 46-50."
+                 :note "He95pp.46-50"
                  :common {:vmorphClass :Finite,
                           :conjClass :FormSet5,
                           :gender :Common,
@@ -718,7 +718,7 @@
                          [:Plural :Person3 "ŋéne-wáxnen"]]
                  }
                 {:label "yaaku-NAgreementMarker"
-                 :note "Heine1975 p. 37"
+                 :note "He95p.37"
                  :common {             :pos :Noun,
                           :proClass :AgreementMarker}
                  :terms [[:proSubClass :number :gender :token],
@@ -751,7 +751,7 @@
                          [:VAgreement :Plural :Common "neut"]]
                  }
                 {:label "yaaku-PDem"
-                 :note "Heine1975 p. 41"
+                 :note "He95p.41"
                  :common {             :pos :Pronoun, :pmorphClass :ProMorph,
                           :proClass :Demonstrative}
                  :terms [[:conjClass :headNoun :number :gender :token],
@@ -775,7 +775,7 @@
                          [:DemRef :Present :Plural :Common "xa’au"]]
                  }
                 {:label "yaaku-PInd"
-                 :note "Heine1975 p. 42"
+                 :note "He95p.42"
                  :common {             :pos :Pronoun, :pmorphClass :ProMorph,
                           :proClass :Independent}
                  :terms [[:number :person :token],
@@ -787,7 +787,7 @@
                          [:Plural :Person3 "ísín"]]
                  }
                 {:label "yaaku-PPoss"
-                 :note "Heine1975 p. 39"
+                 :note "He95p.39"
                  :common {             :pos :Pronoun, :pmorphClass :ProMorph,
                           :proClass :Possessive}
                  :terms [[:number :person :gender :token],
@@ -805,7 +805,7 @@
                          [:Plural :Person3 :Fem "-‘áhnín"]]
                  }
                 {:label "yaaku-VAffDefinitePastHave"
-                 :note "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
+                 :note "He95pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
                  :common {:aspect :Definite,
                           :gender :Common,
                           :polarity :Affirmative,
@@ -821,7 +821,7 @@
                          [:Plural :Person3 "eé-ló’oni’ w’aa’"]]
                  }
                 {:label "yaaku-VAffDefinitePerfHave"
-                 :note "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
+                 :note "He95pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
                  :common {:aspect :Definite,
                           :gender :Common,
                           :polarity :Affirmative,
@@ -837,7 +837,7 @@
                          [:Plural :Person3 "ené-ló’o’ w’aa’"]]
                  }
                 {:label "yaaku-VAffDefinitePresHave"
-                 :note "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
+                 :note "He95pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
                  :common {:aspect :Definite,
                           :gender :Common,
                           :polarity :Affirmative,
@@ -853,7 +853,7 @@
                          [:Plural :Person3 "a-lo’oni’ w’aa’"]]
                  }
                 {:label "yaaku-VAffIndefiniteFutHave"
-                 :note "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
+                 :note "He95pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
                  :common {:aspect :Indefinite,
                           :gender :Common,
                           :polarity :Affirmative,
@@ -869,7 +869,7 @@
                          [:Plural :Person3 "ké’ló’óni’"]]
                  }
                 {:label "yaaku-VAffIndefinitePresHave"
-                 :note "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
+                 :note "He95pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
                  :common {:aspect :Indefinite,
                           :gender :Common,
                           :polarity :Affirmative,
@@ -885,7 +885,7 @@
                          [:Plural :Person3 "lo’oni’ w’aa’"]]
                  }
                 {:label "yaaku-VNegIndefinitePresHave"
-                 :note "Heine1975 pp. 57f. –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
+                 :note "He95pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively"
                  :common {:aspect :Indefinite,
                           :polarity :Negative,
                           :pos :Verb,
@@ -902,7 +902,7 @@
                          [:Plural :Person3 :Common "t’eé-an w’aa’"]]
                  }
                 {:label "yaaku-VPastCopLoc"
-                 :note "Heine1975 pp. 56f. Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”."
+                 :note "He95pp.56f :: Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”"
                  :common {             :pos :Verb,
                           :tam :Past,
                           :vmorphClass :CopLoc}
@@ -916,7 +916,7 @@
                          [:Plural :Person3 :Common "‘ooú gwɛ’ɛn nairɔ́bi’"]]
                  }
                 {:label "yaaku-VPerfCopLoc"
-                 :note "Heine1975 pp. 56f. Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”."
+                 :note "He95pp.56f :: Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”"
                  :common {             :pos :Verb,
                           :tam :Perfect,
                           :vmorphClass :CopLoc}
@@ -930,7 +930,7 @@
                          [:Plural :Person3 :Common "on’oú gwɛ’ɛn nairɔ́bi’"]]
                  }
                 {:label "yaaku-VPresCopLoc"
-                 :note "Heine1975 pp. 56f. Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”."
+                 :note "He95pp.56f :: Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”"
                  :common {             :pos :Verb,
                           :tam :Present,
                           :vmorphClass :CopLoc}
@@ -944,7 +944,7 @@
                          [:Plural :Person3 :Common "ou gwɛ’ɛn nairɔ́bi’"]]
                  }
                 {:label "yaaku-VProAgreement"
-                 :note "Heine1975 p. 44. General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-"
+                 :note "He95p.44 :: General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-"
                  :common {             :pos :Verb,
                           :vmorphClass :ProAgreement}
                  :terms [[:case :number :person :gender :token],
@@ -978,7 +978,7 @@
                          [:Subject :Indefinite :Common :Common "tí---"]]
                  }
                 {:label "yaaku-VSubjPref"
-                 :note "Heine1975 p. 45. These are the same for both affirmative and negative"
+                 :note "He95p.45 :: These are the same for both affirmative and negative"
                  :common {             :pos :Verb,
                           :vmorphClass :SubjPref}
                  :terms [[:aspect :person :token],
@@ -990,7 +990,7 @@
                          [:Indefinite :Person3 "_NULL"]]
                  }
                 {:label "yaaku-VSubjSuff"
-                 :note "Heine1975 pp. 45,48. On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative."
+                 :note "He95pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative."
                  :common {             :pos :Verb,
                           :vmorphClass :SubjSuff}
                  :terms [[:aspect :conjClass :polarity :number :person :gender :token],
@@ -1073,7 +1073,7 @@
                          [:Indefinite :FormSet5 :Affirmative :Singular :Person3 :Fem "-a(t)"]]
                  }
                 {:label "yaaku-VTAMPref"
-                 :note "Heine1975 p.46,49. General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-"
+                 :note "He95p.46,49 :: General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-"
                  :common {             :pos :Verb,
                           :vmorphClass :TenseAspectMoodPref}
                  :terms [[:aspect :polarity :tam :token],
