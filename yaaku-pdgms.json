@@ -1,15 +1,26 @@
 {
   "lang": "yaaku",
-  "subfamily": "East Cushitic Yaaku-Dullay",
+  "subfamily": "cushitic east yaaku-dullay",
   "lgpref": "yak",
-  "datasource": "Heine, Bernd (1974/75) 'Notes on the Yaaku language (Kenya)', Afrika und Übersee, 58(1), 27–61; 58(2), 119–138. Heine, Bernd & Brenzinger, Matthias (1988) 'Notes on the Mukogodo dialect of Maasai', Afrikanistische Arbeitspapiere, 14, 97–131. [He75;H&B88]",
+  "datasource": "Heine, Bernd (1974/75) 'Notes on the Yaaku language (Kenya)', Afrika und Übersee, 58(1), 27–61; 58(2), 119–138. Heine, Bernd & Brenzinger, Matthias (1988) 'Notes on the Mukogodo dialect of Maasai', Afrikanistische Arbeitspapiere, 14, 97–131. [BH75;H&B88]",
   "datasourceNotes": "",
-  "geodemoURL": "http://www.ethnologue.com/language/muu",
+  "transcription": { 
+    "Consonants": {
+      "general": "cf. transcription table",
+      "note": [
+        "'' = ''",
+        "'' = '' "
+        ]},
+    "Vowels": {
+      "inventory": "i e ε a ɔ o u",
+    "Tone": "'a' low; 'à' mid; 'á' high; 'â' rising",
+    "Stress": "'a 'a phoneme of its own, BH74p.35"}},  "geodemoURL": "http://www.ethnologue.com/language/muu",
   "geodemoTXT": "Varieties and subdialects of Yaaku are spoken in Kenya, ZZIsiolo and Laikipia counties: Mukogodo forest west of Doldol, foothills north of Mount Kenya; Turkana and Samburu counties: Lake Turkana south tipZZ. ",
   "schemata": {
   "aspect": [
     "Definite",
-    "Indefinite"
+    "Indefinite",
+    "_NA"
   ],
   "case": [
     "Indirect",
@@ -21,10 +32,6 @@
     "Compound"
   ],
   "conjClass": [
-    "Common",
-    "DemFar",
-    "DemNear",
-    "DemRef",
     "FormSet1",
     "FormSet2",
     "FormSet3",
@@ -40,29 +47,33 @@
     "Fem",
     "Masc"
   ],
-  "headNoun": [
+  "headNounStat": [
     "Deleted",
-    "Present"
+    "NonDel"
+  ],
+  "lexClass": [
+    "CopLoc",
+    "Copula"
   ],
   "lexeme": [
     "deet",
     "ek",
     "eq",
+    "gwe",
     "ke",
     "kus",
     "lee",
+    "loo",
     "wax",
     "xan"
   ],
   "morphClass": [
     "CopLoc",
-    "Copula",
     "IMPRTV",
     "ProAgreement",
     "SubjPref",
     "SubjSuff",
-    "TenseAspectMoodPref",
-    "have"
+    "TenseAspectMoodPref"
   ],
   "number": [
     "Indefinite",
@@ -89,7 +100,9 @@
   ],
   "proClass": [
     "AgreementMarker",
-    "Demonstrative",
+    "DemFar",
+    "DemNear",
+    "DemRef",
     "Independent",
     "Possessive"
   ],
@@ -131,6 +144,11 @@
     "gloss": "drink",
     "conjClass": "FormSet3"
   },
+  "gwe": {
+    "pos": "Verb",
+    "lemma": "gwɛ’ɛ",
+    "gloss": "be in a place"
+  },
   "ke": {
     "pos": "Verb",
     "lemma": "ke",
@@ -145,6 +163,11 @@
     "pos": "Verb",
     "lemma": "lε’ε",
     "gloss": "[x]"
+  },
+  "loo": {
+    "pos": "Verb",
+    "lemma": "lo'o",
+    "gloss": "have"
   },
   "wax": {
     "pos": "Verb",
@@ -162,7 +185,7 @@
   "termclusters": [
   {
     "label": "yak-NounAgreementMarker",
-    "note": "He75p.37",
+    "note": "BH75p.37",
     "common": {
       "pos": "Noun",
       "proClass": "AgreementMarker"
@@ -193,44 +216,68 @@
       ["Relative" ,"Singular" ,"Masc" ,"ci"],
       ["Relative" ,"Singular" ,"Fem" ,"ti"],
       ["Relative" ,"Plural" ,"Common" ,"ke"],
-      ["VAgreement" ,"Singular" ,"Masc" ,"⊤"],
+      ["VAgreement" ,"Singular" ,"Masc" ,"∅"],
       ["VAgreement" ,"Singular" ,"Fem" ,"t"],
       ["VAgreement" ,"Plural" ,"Common" ,"neut"]
     ]
   },
   {
-    "label": "yak-PronounDemonstrative",
-    "note": "He75p.41",
+    "label": "yak-PronounDemFar",
+    "note": "BH75p.41",
     "common": {
       "pmorphClass": "ProMorph",
       "pos": "Pronoun",
-      "proClass": "Demonstrative"
+      "proClass": "DemFar"
     },
     "terms": [
-      ["conjClass" ,"headNoun" ,"number" ,"gender" ,"token"],
-      ["DemFar" ,"Deleted" ,"Singular" ,"Masc" ,"see"],
-      ["DemFar" ,"Deleted" ,"Singular" ,"Fem" ,"see"],
-      ["DemFar" ,"Deleted" ,"Plural" ,"Common" ,"sa’a"],
-      ["DemFar" ,"Present" ,"Singular" ,"Masc" ,"se"],
-      ["DemFar" ,"Present" ,"Singular" ,"Fem" ,"se"],
-      ["DemFar" ,"Present" ,"Plural" ,"Common" ,"sa’a"],
-      ["DemNear" ,"Deleted" ,"Singular" ,"Masc" ,"cee"],
-      ["DemNear" ,"Deleted" ,"Singular" ,"Fem" ,"tee"],
-      ["DemNear" ,"Deleted" ,"Plural" ,"Common" ,"xa’a"],
-      ["DemNear" ,"Present" ,"Singular" ,"Masc" ,"cé"],
-      ["DemNear" ,"Present" ,"Singular" ,"Fem" ,"te"],
-      ["DemNear" ,"Present" ,"Plural" ,"Common" ,"xa’a"],
-      ["DemRef" ,"Deleted" ,"Singular" ,"Masc" ,"cuuk"],
-      ["DemRef" ,"Deleted" ,"Singular" ,"Fem" ,"tuuk"],
-      ["DemRef" ,"Deleted" ,"Plural" ,"Common" ,"xa’au"],
-      ["DemRef" ,"Present" ,"Singular" ,"Masc" ,"cuk"],
-      ["DemRef" ,"Present" ,"Singular" ,"Fem" ,"tuk"],
-      ["DemRef" ,"Present" ,"Plural" ,"Common" ,"xa’au"]
+      ["headNounStat" ,"number" ,"gender" ,"token"],
+      ["Deleted" ,"Singular" ,"Masc" ,"see"],
+      ["Deleted" ,"Singular" ,"Fem" ,"see"],
+      ["Deleted" ,"Plural" ,"Common" ,"sa’a"],
+      ["NonDel" ,"Singular" ,"Masc" ,"se"],
+      ["NonDel" ,"Singular" ,"Fem" ,"se"],
+      ["NonDel" ,"Plural" ,"Common" ,"sa’a"]
+    ]
+  },
+  {
+    "label": "yak-PronounDemNear",
+    "note": "BH75p.41",
+    "common": {
+      "pmorphClass": "ProMorph",
+      "pos": "Pronoun",
+      "proClass": "DemNear"
+    },
+    "terms": [
+      ["headNounStat" ,"number" ,"gender" ,"token"],
+      ["Deleted" ,"Singular" ,"Masc" ,"cee"],
+      ["Deleted" ,"Singular" ,"Fem" ,"tee"],
+      ["Deleted" ,"Plural" ,"Common" ,"xa’a"],
+      ["NonDel" ,"Singular" ,"Masc" ,"cé"],
+      ["NonDel" ,"Singular" ,"Fem" ,"te"],
+      ["NonDel" ,"Plural" ,"Common" ,"xa’a"]
+    ]
+  },
+  {
+    "label": "yak-PronounDemRef",
+    "note": "BH75p.41",
+    "common": {
+      "pmorphClass": "ProMorph",
+      "pos": "Pronoun",
+      "proClass": "DemRef"
+    },
+    "terms": [
+      ["headNounStat" ,"number" ,"gender" ,"token"],
+      ["Deleted" ,"Singular" ,"Masc" ,"cuuk"],
+      ["Deleted" ,"Singular" ,"Fem" ,"tuuk"],
+      ["Deleted" ,"Plural" ,"Common" ,"xa’au"],
+      ["NonDel" ,"Singular" ,"Masc" ,"cuk"],
+      ["NonDel" ,"Singular" ,"Fem" ,"tuk"],
+      ["NonDel" ,"Plural" ,"Common" ,"xa’au"]
     ]
   },
   {
     "label": "yak-PronounIndependent",
-    "note": "He75p.42",
+    "note": "BH75p.42",
     "common": {
       "pmorphClass": "ProMorph",
       "pos": "Pronoun",
@@ -248,7 +295,7 @@
   },
   {
     "label": "yak-PronounPossessive",
-    "note": "He75p.39",
+    "note": "BH75p.39",
     "common": {
       "pmorphClass": "ProMorph",
       "pos": "Pronoun",
@@ -256,23 +303,63 @@
     },
     "terms": [
       ["number" ,"person" ,"gender" ,"token"],
-      ["Singular" ,"Person1" ,"Masc" ,"⊤"],
-      ["Singular" ,"Person1" ,"Fem" ,"-ní"],
-      ["Singular" ,"Person2" ,"Masc" ,"-kí"],
-      ["Singular" ,"Person2" ,"Fem" ,"-knín"],
-      ["Singular" ,"Person3" ,"Masc" ,"-sí"],
-      ["Singular" ,"Person3" ,"Fem" ,"-hnín"],
-      ["Plural" ,"Person1" ,"Masc" ,"⊤"],
-      ["Plural" ,"Person1" ,"Fem" ,"-‘ání"],
-      ["Plural" ,"Person2" ,"Masc" ,"-‘ájí"],
-      ["Plural" ,"Person2" ,"Fem" ,"-‘áknín"],
-      ["Plural" ,"Person3" ,"Masc" ,"-‘ásí"],
-      ["Plural" ,"Person3" ,"Fem" ,"-‘áhnín"]
+      ["Singular" ,"Person1" ,"Masc" ,"'ì"],
+      ["Singular" ,"Person1" ,"Fem" ,"-nì"],
+      ["Singular" ,"Person2" ,"Masc" ,"-kì"],
+      ["Singular" ,"Person2" ,"Fem" ,"-knìn"],
+      ["Singular" ,"Person3" ,"Masc" ,"-sì"],
+      ["Singular" ,"Person3" ,"Fem" ,"-hnìn"],
+      ["Plural" ,"Person1" ,"Masc" ,"'ì"],
+      ["Plural" ,"Person1" ,"Fem" ,"-‘ánì"],
+      ["Plural" ,"Person2" ,"Masc" ,"-‘ájì"],
+      ["Plural" ,"Person2" ,"Fem" ,"-‘áknìn"],
+      ["Plural" ,"Person3" ,"Masc" ,"-‘ásì"],
+      ["Plural" ,"Person3" ,"Fem" ,"-‘áhnìn"]
+    ]
+  },
+  {
+    "label": "yak-Verb-gwe-Perfect",
+    "note": "BH75pp.56f :: Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”",
+    "common": {
+      "pos": "Verb",
+      "lexeme": "gwe",
+      "tam": "Perfect",
+      "lexClass": "CopLoc"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"onon’ú gwɛ’ɛ nairɔ́bi’"],
+      ["Singular" ,"Person2" ,"Common" ,"an’aú gwɛ’ɛ(t) nairɔ́bi’"],
+      ["Singular" ,"Person3" ,"Masc" ,"on’oú gwɛ’ɛi nairɔ́bi’"],
+      ["Singular" ,"Person3" ,"Fem" ,"on’oú gwɛ’ɛ(t) nairɔ́bi’"],
+      ["Plural" ,"Person1" ,"Common" ,"onon’ú gwɛ’ɛn nairɔ́bi’"],
+      ["Plural" ,"Person2" ,"Common" ,"an’aú gwɛ’ɛtan nairɔ́bi’"],
+      ["Plural" ,"Person3" ,"Common" ,"on’oú gwɛ’ɛn nairɔ́bi’"]
+    ]
+  },
+  {
+    "label": "yak-Verb-gwe-Present",
+    "note": "BH75pp.56f :: Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”",
+    "common": {
+      "pos": "Verb",
+      "lexeme": "gwe",
+      "tam": "Present",
+      "lexClass": "CopLoc"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"onu/nou gwɛ’ɛ nairɔ́bi’"],
+      ["Singular" ,"Person2" ,"Common" ,"au gwɛ’ɛ(t) nairɔ́bi’"],
+      ["Singular" ,"Person3" ,"Masc" ,"ou gwɛ’ɛi nairɔ́bi’"],
+      ["Singular" ,"Person3" ,"Fem" ,"ou gwɛ’ɛ(t) nairɔ́bi’"],
+      ["Plural" ,"Person1" ,"Common" ,"onu/nou gwɛ’ɛn nairɔ́bi’"],
+      ["Plural" ,"Person2" ,"Common" ,"au gwɛ’ɛtan nairɔ́bi’"],
+      ["Plural" ,"Person3" ,"Common" ,"ou gwɛ’ɛn nairɔ́bi’"]
     ]
   },
   {
     "label": "yak-Verb-kus-PastDefiniteAffirmative",
-    "note": "He75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
+    "note": "BH75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
     "common": {
       "aspect": "Definite",
       "lexeme": "kus",
@@ -293,7 +380,7 @@
   },
   {
     "label": "yak-Verb-kus-PastDefiniteCompoundNegative",
-    "note": "He75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
+    "note": "BH75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
     "common": {
       "aspect": "Definite",
       "gender": "Common",
@@ -312,7 +399,7 @@
   },
   {
     "label": "yak-Verb-kus-PastProgressiveDefiniteCompoundAffirmative",
-    "note": "He75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
+    "note": "BH75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
     "common": {
       "aspect": "Definite",
       "lexeme": "kus",
@@ -334,7 +421,7 @@
   },
   {
     "label": "yak-Verb-kus-PerfectDefiniteCompoundAffirmative",
-    "note": "He75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
+    "note": "BH75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
     "common": {
       "aspect": "Definite",
       "lexeme": "kus",
@@ -355,7 +442,7 @@
   },
   {
     "label": "yak-Verb-kus-PerfectDefiniteCompoundNegative",
-    "note": "He75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
+    "note": "BH75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
     "common": {
       "aspect": "Definite",
       "gender": "Common",
@@ -374,7 +461,7 @@
   },
   {
     "label": "yak-Verb-kus-PresentDefiniteCompoundAffirmative",
-    "note": "He75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
+    "note": "BH75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
     "common": {
       "aspect": "Definite",
       "lexeme": "kus",
@@ -396,7 +483,7 @@
   },
   {
     "label": "yak-Verb-kus-PresentDefiniteCompoundNegative",
-    "note": "He75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
+    "note": "BH75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
     "common": {
       "aspect": "Definite",
       "gender": "Common",
@@ -415,7 +502,7 @@
   },
   {
     "label": "yak-Verb-kus-PresentIndefiniteCompoundAffirmative",
-    "note": "He75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
+    "note": "BH75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
     "common": {
       "aspect": "Indefinite",
       "lexeme": "kus",
@@ -437,7 +524,7 @@
   },
   {
     "label": "yak-Verb-kus-PresentIndefiniteCompoundNegative",
-    "note": "He75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
+    "note": "BH75pp.51-54 :: “If the verb is preceded by constituents other than the subject,then it takes a prefix me- or ke-. Such pre-verbal constituents may be conjunctions,intrerrogative words,or object nouns. … The presence of me- usually implies a progressive action",
     "common": {
       "aspect": "Indefinite",
       "gender": "Common",
@@ -455,8 +542,329 @@
     ]
   },
   {
+    "label": "yak-Verb-loo-FutureIndefiniteAffirmative",
+    "note": "BH75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
+    "common": {
+      "aspect": "Indefinite",
+      "gender": "Common",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Future",
+      "lexeme": "loo"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"kén-l’ó’o’ w’aa’"],
+      ["Singular" ,"Person2" ,"ká-l’ó’o’ w’aa’"],
+      ["Singular" ,"Person3" ,"ké-l’ó’o’ w’aa’"],
+      ["Plural" ,"Person1" ,"kén-ló’óni’ w’aa’"],
+      ["Plural" ,"Person2" ,"ká-l’ó’óni’ w’aa’"],
+      ["Plural" ,"Person3" ,"ké’ló’óni’"]
+    ]
+  },
+  {
+    "label": "yak-Verb-loo-PastDefiniteAffirmative",
+    "note": "BH75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
+    "common": {
+      "aspect": "Definite",
+      "gender": "Common",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Past",
+      "lexeme": "loo"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"eén-ló’o’ w’aa’"],
+      ["Singular" ,"Person2" ,"aá-ló’o’ w’aa’"],
+      ["Singular" ,"Person3" ,"eé-ló’o’ w’aa’"],
+      ["Plural" ,"Person1" ,"eén-ló’óní’ w’aa’"],
+      ["Plural" ,"Person2" ,"aá-ló’oni’ w’aa’"],
+      ["Plural" ,"Person3" ,"eé-ló’oni’ w’aa’"]
+    ]
+  },
+  {
+    "label": "yak-Verb-loo-PerfectDefiniteAffirmative",
+    "note": "BH75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
+    "common": {
+      "aspect": "Definite",
+      "gender": "Common",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Perfect",
+      "lexeme": "loo"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"enén-ló’o’ w’aa’"],
+      ["Singular" ,"Person2" ,"aná-ló’o’ w’aa’"],
+      ["Singular" ,"Person3" ,"ené-ló’o’ w’aa’"],
+      ["Plural" ,"Person1" ,"enén-lóni’ w’aa’"],
+      ["Plural" ,"Person2" ,"aná-ló’o’ w’aa’"],
+      ["Plural" ,"Person3" ,"ené-ló’o’ w’aa’"]
+    ]
+  },
+  {
+    "label": "yak-Verb-loo-PresentDefiniteAffirmative",
+    "note": "BH75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
+    "common": {
+      "aspect": "Definite",
+      "gender": "Common",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Present",
+      "lexeme": "loo"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"na-lo’o’ w’aa’"],
+      ["Singular" ,"Person2" ,"a-lo’o’ w’aa’"],
+      ["Singular" ,"Person3" ,"a-lo’o’ w’aa’"],
+      ["Plural" ,"Person1" ,"na-lo’oni’ w’aa’"],
+      ["Plural" ,"Person2" ,"a-lo’oni’ w’aa’"],
+      ["Plural" ,"Person3" ,"a-lo’oni’ w’aa’"]
+    ]
+  },
+  {
+    "label": "yak-Verb-loo-PresentIndefiniteAffirmative",
+    "note": "BH75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
+    "common": {
+      "aspect": "Indefinite",
+      "gender": "Common",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Present",
+      "lexeme": "loo"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"n-l’óo’ w’aa’"],
+      ["Singular" ,"Person2" ,"-al’óo’ w’aa’"],
+      ["Singular" ,"Person3" ,"l’ó’o’ w’aa’"],
+      ["Plural" ,"Person1" ,"n-lo’oni’ w’aa’"],
+      ["Plural" ,"Person2" ,"a-lo’oni’ w’aa’"],
+      ["Plural" ,"Person3" ,"lo’oni’ w’aa’"]
+    ]
+  },
+  {
+    "label": "yak-Verb-loo-PresentIndefiniteNegative",
+    "note": "BH75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
+    "common": {
+      "aspect": "Indefinite",
+      "polarity": "Negative",
+      "pos": "Verb",
+      "tam": "Present",
+      "lexeme": "loo"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"‘iíce’ kélói w’aa’"],
+      ["Singular" ,"Person1" ,"Common" ,"n-t’eet’a w’aa’"],
+      ["Singular" ,"Person2" ,"Common" ,"a-t’eet’e w’aa’"],
+      ["Singular" ,"Person3" ,"Masc" ,"t’eet’ei w’aa’"],
+      ["Singular" ,"Person3" ,"Fem" ,"t’eet’e w’aa’"],
+      ["Plural" ,"Person1" ,"Common" ,"n-t’eet’in w’aa’"],
+      ["Plural" ,"Person2" ,"Common" ,"a-t’eé’tán w’aa’"],
+      ["Plural" ,"Person3" ,"Common" ,"t’eé-an w’aa’"]
+    ]
+  },
+  {
+    "label": "yak-VerbCopA-ke-PastDefiniteAffirmative",
+    "note": "BH75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
+    "common": {
+      "aspect": "Definite",
+      "copForm": "CopA",
+      "lexeme": "ke",
+      "number": "Singular",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Past",
+      "lexClass": "Copula"
+    },
+    "terms": [
+      ["person" ,"token"],
+      ["Person1" ,"koonu"],
+      ["Person2" ,"koou"],
+      ["Person3" ,"kεε"]
+    ]
+  },
+  {
+    "label": "yak-VerbCopA-ke-PastIndefiniteAffirmative",
+    "note": "BH75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
+    "common": {
+      "aspect": "Indefinite",
+      "copForm": "CopA",
+      "lexeme": "ke",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Past",
+      "lexClass": "Copula"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"koon"],
+      ["Singular" ,"Person2" ,"kaau"],
+      ["Singular" ,"Person3" ,"kεε"],
+      ["Plural" ,"Person1" ,"koón"],
+      ["Plural" ,"Person2" ,"kaúú"],
+      ["Plural" ,"Person3" ,"kεε"]
+    ]
+  },
+  {
+    "label": "yak-VerbCopA-ke-PerfectDefiniteAffirmative",
+    "note": "BH75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
+    "common": {
+      "aspect": "Definite",
+      "copForm": "CopA",
+      "lexeme": "ke",
+      "number": "Singular",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Perfect",
+      "lexClass": "Copula"
+    },
+    "terms": [
+      ["person" ,"token"],
+      ["Person1" ,"kononu"],
+      ["Person2" ,"kanau"],
+      ["Person3" ,"konou"]
+    ]
+  },
+  {
+    "label": "yak-VerbCopA-ke-PerfectIndefiniteAffirmative",
+    "note": "BH75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
+    "common": {
+      "aspect": "Indefinite",
+      "copForm": "CopA",
+      "lexeme": "ke",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Perfect",
+      "lexClass": "Copula"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"konon"],
+      ["Singular" ,"Person2" ,"kanau"],
+      ["Singular" ,"Person3" ,"kεnε"],
+      ["Plural" ,"Person1" ,"konón"],
+      ["Plural" ,"Person2" ,"kanäu"],
+      ["Plural" ,"Person3" ,"kεnε"]
+    ]
+  },
+  {
+    "label": "yak-VerbCopA-ke-PresentDefiniteAffirmative",
+    "note": "BH75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
+    "common": {
+      "aspect": "Definite",
+      "copForm": "CopA",
+      "lexeme": "ke",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Present",
+      "lexClass": "Copula"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"konu"],
+      ["Singular" ,"Person2" ,"kau"],
+      ["Singular" ,"Person3" ,"kou"],
+      ["Plural" ,"Person1" ,"konu"],
+      ["Plural" ,"Person2" ,"kau"],
+      ["Plural" ,"Person3" ,"kou"]
+    ]
+  },
+  {
+    "label": "yak-VerbCopA-ke-PresentIndefiniteAffirmative",
+    "note": "BH75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
+    "common": {
+      "aspect": "Indefinite",
+      "copForm": "CopA",
+      "lexeme": "ke",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Present",
+      "lexClass": "Copula"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"kon"],
+      ["Singular" ,"Person2" ,"kau"],
+      ["Singular" ,"Person3" ,"ke"],
+      ["Plural" ,"Person1" ,"kon"],
+      ["Plural" ,"Person2" ,"kau"],
+      ["Plural" ,"Person3" ,"ke"]
+    ]
+  },
+  {
+    "label": "yak-VerbCopA-ke-PresentIndefiniteNegative",
+    "note": "BH75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
+    "common": {
+      "aspect": "Indefinite",
+      "copForm": "CopA",
+      "lexeme": "ke",
+      "polarity": "Negative",
+      "pos": "Verb",
+      "tam": "Present",
+      "lexClass": "Copula"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"ŋón"],
+      ["Singular" ,"Person2" ,"ŋáú"],
+      ["Singular" ,"Person3" ,"ŋó"],
+      ["Plural" ,"Person1" ,"ŋón"],
+      ["Plural" ,"Person2" ,"ŋáú"],
+      ["Plural" ,"Person3" ,"ŋó"]
+    ]
+  },
+  {
+    "label": "yak-VerbCopB-ke-PresentIndefiniteAffirmative",
+    "note": "BH75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
+    "common": {
+      "aspect": "Indefinite",
+      "copForm": "CopB",
+      "lexeme": "ke",
+      "polarity": "Affirmative",
+      "pos": "Verb",
+      "tam": "Present",
+      "lexClass": "Copula"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"kon"],
+      ["Singular" ,"Person2" ,"ke"],
+      ["Singular" ,"Person3" ,"ke"],
+      ["Plural" ,"Person1" ,"koŋku"],
+      ["Plural" ,"Person2" ,"kaku"],
+      ["Plural" ,"Person3" ,"keke"]
+    ]
+  },
+  {
+    "label": "yak-VerbCopB-ke-PresentIndefiniteNegative",
+    "note": "BH75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
+    "common": {
+      "aspect": "Indefinite",
+      "copForm": "CopB",
+      "lexeme": "ke",
+      "polarity": "Negative",
+      "pos": "Verb",
+      "tam": "Present",
+      "lexClass": "Copula"
+    },
+    "terms": [
+      ["number" ,"person" ,"token"],
+      ["Singular" ,"Person1" ,"ŋón"],
+      ["Singular" ,"Person2" ,"ŋáú"],
+      ["Singular" ,"Person3" ,"ŋó"],
+      ["Plural" ,"Person1" ,"ŋóŋku"],
+      ["Plural" ,"Person2" ,"ŋáku"],
+      ["Plural" ,"Person3" ,"ŋóku"]
+    ]
+  },
+  {
     "label": "yak-VerbFormSet3-eq-PastDefiniteAffirmative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet3",
@@ -478,7 +886,7 @@
   },
   {
     "label": "yak-VerbFormSet3-eq-PresentDefiniteAffirmative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet3",
@@ -500,7 +908,7 @@
   },
   {
     "label": "yak-VerbFormSet3-eq-PresentDefiniteNegative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet3",
@@ -522,7 +930,7 @@
   },
   {
     "label": "yak-VerbFormSet3-eq-PresentIndefiniteAffirmative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Indefinite",
       "conjClass": "FormSet3",
@@ -544,7 +952,7 @@
   },
   {
     "label": "yak-VerbFormSet3-eq-PresentIndefiniteNegative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Indefinite",
       "conjClass": "FormSet3",
@@ -566,7 +974,7 @@
   },
   {
     "label": "yak-VerbFormSet4-deet-FutureIndefinite",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Indefinite",
       "conjClass": "FormSet4",
@@ -587,7 +995,7 @@
   },
   {
     "label": "yak-VerbFormSet4-deet-PastDefinite",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet4",
@@ -608,7 +1016,7 @@
   },
   {
     "label": "yak-VerbFormSet4-deet-PastProgressiveDefinite",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet4",
@@ -629,7 +1037,7 @@
   },
   {
     "label": "yak-VerbFormSet4-deet-PerfectDefinite",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet4",
@@ -650,7 +1058,7 @@
   },
   {
     "label": "yak-VerbFormSet4-deet-PresentDefinite",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet4",
@@ -671,7 +1079,7 @@
   },
   {
     "label": "yak-VerbFormSet4-deet-PresentIndefinite",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Indefinite",
       "conjClass": "FormSet4",
@@ -692,7 +1100,7 @@
   },
   {
     "label": "yak-VerbFormSet5-wax-FutureIndefiniteAffirmative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Indefinite",
       "conjClass": "FormSet5",
@@ -714,7 +1122,7 @@
   },
   {
     "label": "yak-VerbFormSet5-wax-PastDefiniteAffirmative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet5",
@@ -736,7 +1144,7 @@
   },
   {
     "label": "yak-VerbFormSet5-wax-PastDefiniteNegative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet5",
@@ -758,7 +1166,7 @@
   },
   {
     "label": "yak-VerbFormSet5-wax-PastProgressiveDefiniteAffirmative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet5",
@@ -780,7 +1188,7 @@
   },
   {
     "label": "yak-VerbFormSet5-wax-PerfectDefiniteAffirmative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet5",
@@ -802,7 +1210,7 @@
   },
   {
     "label": "yak-VerbFormSet5-wax-PerfectDefiniteNegative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet5",
@@ -824,7 +1232,7 @@
   },
   {
     "label": "yak-VerbFormSet5-wax-PresentDefiniteAffirmative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet5",
@@ -846,7 +1254,7 @@
   },
   {
     "label": "yak-VerbFormSet5-wax-PresentDefiniteNegative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Definite",
       "conjClass": "FormSet5",
@@ -868,7 +1276,7 @@
   },
   {
     "label": "yak-VerbFormSet5-wax-PresentIndefiniteAffirmative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "aspect": "Indefinite",
       "conjClass": "FormSet5",
@@ -890,7 +1298,7 @@
   },
   {
     "label": "yak-VerbFormSet5-wax-PresentNegative",
-    "note": "He75pp.46-50",
+    "note": "BH75pp.46-50",
     "common": {
       "conjClass": "FormSet5",
       "gender": "Common",
@@ -910,10 +1318,11 @@
     ]
   },
   {
-    "label": "yak-Verbmorph-CopLoc-Past",
-    "note": "He75pp.56f :: Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”",
+    "label": "yak-morphVerb-CopLoc-gwe-Past",
+    "note": "BH75pp.56f :: Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”",
     "common": {
       "pos": "Verb",
+      "lexeme": "gwe",
       "tam": "Past",
       "morphClass": "CopLoc"
     },
@@ -929,240 +1338,8 @@
     ]
   },
   {
-    "label": "yak-Verbmorph-CopLoc-Perfect",
-    "note": "He75pp.56f :: Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”",
-    "common": {
-      "pos": "Verb",
-      "tam": "Perfect",
-      "morphClass": "CopLoc"
-    },
-    "terms": [
-      ["number" ,"person" ,"gender" ,"token"],
-      ["Singular" ,"Person1" ,"Common" ,"onon’ú gwɛ’ɛ nairɔ́bi’"],
-      ["Singular" ,"Person2" ,"Common" ,"an’aú gwɛ’ɛ(t) nairɔ́bi’"],
-      ["Singular" ,"Person3" ,"Masc" ,"on’oú gwɛ’ɛi nairɔ́bi’"],
-      ["Singular" ,"Person3" ,"Fem" ,"on’oú gwɛ’ɛ(t) nairɔ́bi’"],
-      ["Plural" ,"Person1" ,"Common" ,"onon’ú gwɛ’ɛn nairɔ́bi’"],
-      ["Plural" ,"Person2" ,"Common" ,"an’aú gwɛ’ɛtan nairɔ́bi’"],
-      ["Plural" ,"Person3" ,"Common" ,"on’oú gwɛ’ɛn nairɔ́bi’"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-CopLoc-Present",
-    "note": "He75pp.56f :: Preceded by locative preposition ou. Sentences are glossed “be in Nairobi”",
-    "common": {
-      "pos": "Verb",
-      "tam": "Present",
-      "morphClass": "CopLoc"
-    },
-    "terms": [
-      ["number" ,"person" ,"gender" ,"token"],
-      ["Singular" ,"Person1" ,"Common" ,"onu/nou gwɛ’ɛ nairɔ́bi’"],
-      ["Singular" ,"Person2" ,"Common" ,"au gwɛ’ɛ(t) nairɔ́bi’"],
-      ["Singular" ,"Person3" ,"Masc" ,"ou gwɛ’ɛi nairɔ́bi’"],
-      ["Singular" ,"Person3" ,"Fem" ,"ou gwɛ’ɛ(t) nairɔ́bi’"],
-      ["Plural" ,"Person1" ,"Common" ,"onu/nou gwɛ’ɛn nairɔ́bi’"],
-      ["Plural" ,"Person2" ,"Common" ,"au gwɛ’ɛtan nairɔ́bi’"],
-      ["Plural" ,"Person3" ,"Common" ,"ou gwɛ’ɛn nairɔ́bi’"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-Copula-CopA-ke-PastDefiniteAffirmative",
-    "note": "He75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
-    "common": {
-      "aspect": "Definite",
-      "copForm": "CopA",
-      "lexeme": "ke",
-      "number": "Singular",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Past",
-      "morphClass": "Copula"
-    },
-    "terms": [
-      ["person" ,"token"],
-      ["Person1" ,"koonu"],
-      ["Person2" ,"koou"],
-      ["Person3" ,"kεε"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-Copula-CopA-ke-PastIndefiniteAffirmative",
-    "note": "He75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
-    "common": {
-      "aspect": "Indefinite",
-      "copForm": "CopA",
-      "lexeme": "ke",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Past",
-      "morphClass": "Copula"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"koon"],
-      ["Singular" ,"Person2" ,"kaau"],
-      ["Singular" ,"Person3" ,"kεε"],
-      ["Plural" ,"Person1" ,"koón"],
-      ["Plural" ,"Person2" ,"kaúú"],
-      ["Plural" ,"Person3" ,"kεε"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-Copula-CopA-ke-PerfectDefiniteAffirmative",
-    "note": "He75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
-    "common": {
-      "aspect": "Definite",
-      "copForm": "CopA",
-      "lexeme": "ke",
-      "number": "Singular",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Perfect",
-      "morphClass": "Copula"
-    },
-    "terms": [
-      ["person" ,"token"],
-      ["Person1" ,"kononu"],
-      ["Person2" ,"kanau"],
-      ["Person3" ,"konou"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-Copula-CopA-ke-PerfectIndefiniteAffirmative",
-    "note": "He75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
-    "common": {
-      "aspect": "Indefinite",
-      "copForm": "CopA",
-      "lexeme": "ke",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Perfect",
-      "morphClass": "Copula"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"konon"],
-      ["Singular" ,"Person2" ,"kanau"],
-      ["Singular" ,"Person3" ,"kεnε"],
-      ["Plural" ,"Person1" ,"konón"],
-      ["Plural" ,"Person2" ,"kanäu"],
-      ["Plural" ,"Person3" ,"kεnε"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-Copula-CopA-ke-PresentDefiniteAffirmative",
-    "note": "He75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
-    "common": {
-      "aspect": "Definite",
-      "copForm": "CopA",
-      "lexeme": "ke",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Present",
-      "morphClass": "Copula"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"konu"],
-      ["Singular" ,"Person2" ,"kau"],
-      ["Singular" ,"Person3" ,"kou"],
-      ["Plural" ,"Person1" ,"konu"],
-      ["Plural" ,"Person2" ,"kau"],
-      ["Plural" ,"Person3" ,"kou"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-Copula-CopA-ke-PresentIndefiniteAffirmative",
-    "note": "He75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
-    "common": {
-      "aspect": "Indefinite",
-      "copForm": "CopA",
-      "lexeme": "ke",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Present",
-      "morphClass": "Copula"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"kon"],
-      ["Singular" ,"Person2" ,"kau"],
-      ["Singular" ,"Person3" ,"ke"],
-      ["Plural" ,"Person1" ,"kon"],
-      ["Plural" ,"Person2" ,"kau"],
-      ["Plural" ,"Person3" ,"ke"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-Copula-CopA-ke-PresentIndefiniteNegative",
-    "note": "He75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
-    "common": {
-      "aspect": "Indefinite",
-      "copForm": "CopA",
-      "lexeme": "ke",
-      "polarity": "Negative",
-      "pos": "Verb",
-      "tam": "Present",
-      "morphClass": "Copula"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"ŋón"],
-      ["Singular" ,"Person2" ,"ŋáú"],
-      ["Singular" ,"Person3" ,"ŋó"],
-      ["Plural" ,"Person1" ,"ŋón"],
-      ["Plural" ,"Person2" ,"ŋáú"],
-      ["Plural" ,"Person3" ,"ŋó"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-Copula-CopB-ke-PresentIndefiniteAffirmative",
-    "note": "He75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
-    "common": {
-      "aspect": "Indefinite",
-      "copForm": "CopB",
-      "lexeme": "ke",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Present",
-      "morphClass": "Copula"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"kon"],
-      ["Singular" ,"Person2" ,"ke"],
-      ["Singular" ,"Person3" ,"ke"],
-      ["Plural" ,"Person1" ,"koŋku"],
-      ["Plural" ,"Person2" ,"kaku"],
-      ["Plural" ,"Person3" ,"keke"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-Copula-CopB-ke-PresentIndefiniteNegative",
-    "note": "He75pp.54f :: “Instead of ke,two series of pronoun-sensitive copula forms are optionally used”:copForm A is used of the cop is followed by a noun or numeral,B if followed by adj",
-    "common": {
-      "aspect": "Indefinite",
-      "copForm": "CopB",
-      "lexeme": "ke",
-      "polarity": "Negative",
-      "pos": "Verb",
-      "tam": "Present",
-      "morphClass": "Copula"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"ŋón"],
-      ["Singular" ,"Person2" ,"ŋáú"],
-      ["Singular" ,"Person3" ,"ŋó"],
-      ["Plural" ,"Person1" ,"ŋóŋku"],
-      ["Plural" ,"Person2" ,"ŋáku"],
-      ["Plural" ,"Person3" ,"ŋóku"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-IMPRTV-Imperative",
-    "note": "He75p.50",
+    "label": "yak-morphVerb-IMPRTVImperative",
+    "note": "BH75p.50",
     "common": {
       "pos": "Verb",
       "tam": "Imperative",
@@ -1186,47 +1363,84 @@
     ]
   },
   {
-    "label": "yak-Verbmorph-ProAgreement-",
-    "note": "He75p.44 :: General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-",
+    "label": "yak-morphVerb-ProAgreement",
+    "note": "BH75p.44 :: General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-",
     "common": {
       "pos": "Verb",
+      "case": "Indirect",
       "morphClass": "ProAgreement"
     },
     "terms": [
-      ["case" ,"number" ,"person" ,"gender" ,"token"],
-      ["Indirect" ,"Singular" ,"Person1" ,"Common" ,"-sei---"],
-      ["Indirect" ,"Singular" ,"Person2" ,"Common" ,"-suku---"],
-      ["Indirect" ,"Singular" ,"Person3" ,"Common" ,"-si—ísí"],
-      ["Indirect" ,"Plural" ,"Person1" ,"Common" ,"-seini---"],
-      ["Indirect" ,"Plural" ,"Person2" ,"Common" ,"-sukni---"],
-      ["Indirect" ,"Plural" ,"Person3" ,"Common" ,"-si---ísín"],
-      ["ObjectGeneral" ,"Singular" ,"Person1" ,"Common" ,"-i---"],
-      ["ObjectGeneral" ,"Singular" ,"Person2" ,"Common" ,"-ku--"],
-      ["ObjectGeneral" ,"Singular" ,"Person3" ,"Masc" ,"---ísí"],
-      ["ObjectGeneral" ,"Singular" ,"Person3" ,"Fem" ,"---ísí"],
-      ["ObjectGeneral" ,"Plural" ,"Person1" ,"Common" ,"-ini---"],
-      ["ObjectGeneral" ,"Plural" ,"Person2" ,"Common" ,"-kni---"],
-      ["ObjectGeneral" ,"Plural" ,"Person3" ,"Common" ,"---ísín"],
-      ["ObjectWInitial" ,"Singular" ,"Person1" ,"Common" ,"ei---"],
-      ["ObjectWInitial" ,"Singular" ,"Person2" ,"Common" ,"oku---"],
-      ["ObjectWInitial" ,"Singular" ,"Person3" ,"Masc" ,"---ísí"],
-      ["ObjectWInitial" ,"Singular" ,"Person3" ,"Fem" ,"---ísí"],
-      ["ObjectWInitial" ,"Plural" ,"Person1" ,"Common" ,"eini---"],
-      ["ObjectWInitial" ,"Plural" ,"Person2" ,"Common" ,"okni---"],
-      ["ObjectWInitial" ,"Plural" ,"Person3" ,"Common" ,"---ísín"],
-      ["Subject" ,"Singular" ,"Person1" ,"Common" ,"n---"],
-      ["Subject" ,"Singular" ,"Person2" ,"Common" ,"a---t"],
-      ["Subject" ,"Singular" ,"Person3" ,"Masc" ,"(a)--"],
-      ["Subject" ,"Singular" ,"Person3" ,"Fem" ,"(a)---t"],
-      ["Subject" ,"Plural" ,"Person1" ,"Common" ,"n---n"],
-      ["Subject" ,"Plural" ,"Person2" ,"Common" ,"a—tn"],
-      ["Subject" ,"Plural" ,"Person3" ,"Common" ,"(a)---n"],
-      ["Subject" ,"Indefinite" ,"Common" ,"Common" ,"tí---"]
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-sei---"],
+      ["Singular" ,"Person2" ,"Common" ,"-suku---"],
+      ["Singular" ,"Person3" ,"Common" ,"-si—ísí"],
+      ["Plural" ,"Person1" ,"Common" ,"-seini---"],
+      ["Plural" ,"Person2" ,"Common" ,"-sukni---"],
+      ["Plural" ,"Person3" ,"Common" ,"-si---ísín"]
     ]
   },
   {
-    "label": "yak-Verbmorph-SubjPref-",
-    "note": "He75p.45 :: These are the same for both affirmative and negative",
+    "label": "yak-morphVerb-ProAgreement",
+    "note": "BH75p.44 :: General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-",
+    "common": {
+      "pos": "Verb",
+      "case": "ObjectGeneral",
+      "morphClass": "ProAgreement"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-i---"],
+      ["Singular" ,"Person2" ,"Common" ,"-ku--"],
+      ["Singular" ,"Person3" ,"Masc" ,"---ísí"],
+      ["Singular" ,"Person3" ,"Fem" ,"---ísí"],
+      ["Plural" ,"Person1" ,"Common" ,"-ini---"],
+      ["Plural" ,"Person2" ,"Common" ,"-kni---"],
+      ["Plural" ,"Person3" ,"Common" ,"---ísín"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-ProAgreement",
+    "note": "BH75p.44 :: General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-",
+    "common": {
+      "pos": "Verb",
+      "case": "ObjectWInitial",
+      "morphClass": "ProAgreement"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"ei---"],
+      ["Singular" ,"Person2" ,"Common" ,"oku---"],
+      ["Singular" ,"Person3" ,"Masc" ,"---ísí"],
+      ["Singular" ,"Person3" ,"Fem" ,"---ísí"],
+      ["Plural" ,"Person1" ,"Common" ,"eini---"],
+      ["Plural" ,"Person2" ,"Common" ,"okni---"],
+      ["Plural" ,"Person3" ,"Common" ,"---ísín"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-ProAgreement",
+    "note": "BH75p.44 :: General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-",
+    "common": {
+      "pos": "Verb",
+      "case": "Subject",
+      "morphClass": "ProAgreement"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"n---"],
+      ["Singular" ,"Person2" ,"Common" ,"a---t"],
+      ["Singular" ,"Person3" ,"Masc" ,"(a)--"],
+      ["Singular" ,"Person3" ,"Fem" ,"(a)---t"],
+      ["Plural" ,"Person1" ,"Common" ,"n---n"],
+      ["Plural" ,"Person2" ,"Common" ,"a—tn"],
+      ["Plural" ,"Person3" ,"Common" ,"(a)---n"],
+      ["Indefinite" ,"Common" ,"Common" ,"tí---"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjPref",
+    "note": "BH75p.45 :: These are the same for both affirmative and negative",
     "common": {
       "pos": "Verb",
       "morphClass": "SubjPref"
@@ -1242,239 +1456,275 @@
     ]
   },
   {
-    "label": "yak-Verbmorph-SubjSuff-",
-    "note": "He75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "label": "yak-morphVerb-SubjSuffDefiniteNegative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
     "common": {
       "pos": "Verb",
+      "aspect": "Definite",
+      "polarity": "Negative",
       "morphClass": "SubjSuff"
     },
     "terms": [
-      ["aspect" ,"conjClass" ,"polarity" ,"number" ,"person" ,"gender" ,"token"],
-      ["Definite" ,"Common" ,"Negative" ,"Singular" ,"Person1" ,"Common" ,"-n"],
-      ["Definite" ,"Common" ,"Negative" ,"Singular" ,"Person2" ,"Common" ,"-n"],
-      ["Definite" ,"Common" ,"Negative" ,"Singular" ,"Person3" ,"Masc" ,"-n"],
-      ["Definite" ,"Common" ,"Negative" ,"Singular" ,"Person3" ,"Fem" ,"-n"],
-      ["Definite" ,"Common" ,"Negative" ,"Plural" ,"Person1" ,"Common" ,"-nen"],
-      ["Definite" ,"Common" ,"Negative" ,"Plural" ,"Person2" ,"Common" ,"-nen"],
-      ["Definite" ,"Common" ,"Negative" ,"Plural" ,"Person3" ,"Common" ,"-nen"],
-      ["Definite" ,"FormSet1" ,"Affirmative" ,"Plural" ,"Person2" ,"Common" ,"-ino"],
-      ["Definite" ,"FormSet1" ,"Affirmative" ,"Plural" ,"Person3" ,"Common" ,"-ino"],
-      ["Definite" ,"FormSet2" ,"Affirmative" ,"Singular" ,"Person1" ,"Common" ,"-i"],
-      ["Definite" ,"FormSet2" ,"Affirmative" ,"Singular" ,"Person2" ,"Common" ,"-ti"],
-      ["Definite" ,"FormSet2" ,"Affirmative" ,"Singular" ,"Person3" ,"Masc" ,"-i"],
-      ["Definite" ,"FormSet2" ,"Affirmative" ,"Singular" ,"Person3" ,"Fem" ,"-ti"],
-      ["Definite" ,"FormSet2" ,"Affirmative" ,"Plural" ,"Person1" ,"Common" ,"-in"],
-      ["Definite" ,"FormSet2" ,"Affirmative" ,"Plural" ,"Person2" ,"Common" ,"-tin"],
-      ["Definite" ,"FormSet2" ,"Affirmative" ,"Plural" ,"Person3" ,"Common" ,"-in"],
-      ["Definite" ,"FormSet3" ,"Affirmative" ,"Singular" ,"Person1" ,"Common" ,"-e’"],
-      ["Definite" ,"FormSet3" ,"Affirmative" ,"Singular" ,"Person2" ,"Common" ,"-e’"],
-      ["Definite" ,"FormSet3" ,"Affirmative" ,"Singular" ,"Person3" ,"Masc" ,"-e’"],
-      ["Definite" ,"FormSet3" ,"Affirmative" ,"Singular" ,"Person3" ,"Fem" ,"-ot"],
-      ["Definite" ,"FormSet3" ,"Affirmative" ,"Plural" ,"Person1" ,"Common" ,"-on"],
-      ["Definite" ,"FormSet3" ,"Affirmative" ,"Plural" ,"Person2" ,"Common" ,"-otin"],
-      ["Definite" ,"FormSet3" ,"Affirmative" ,"Plural" ,"Person3" ,"Common" ,"-on"],
-      ["Definite" ,"FormSet4" ,"Affirmative" ,"Singular" ,"Person1" ,"Common" ,"-I’"],
-      ["Definite" ,"FormSet4" ,"Affirmative" ,"Singular" ,"Person2" ,"Common" ,"-it"],
-      ["Definite" ,"FormSet4" ,"Affirmative" ,"Singular" ,"Person3" ,"Masc" ,"-I’"],
-      ["Definite" ,"FormSet4" ,"Affirmative" ,"Singular" ,"Person3" ,"Fem" ,"-i(t)"],
-      ["Definite" ,"FormSet4" ,"Affirmative" ,"Plural" ,"Person1" ,"Common" ,"-in"],
-      ["Definite" ,"FormSet4" ,"Affirmative" ,"Plural" ,"Person2" ,"Common" ,"-in"],
-      ["Definite" ,"FormSet4" ,"Affirmative" ,"Plural" ,"Person3" ,"Common" ,"-in"],
-      ["Definite" ,"FormSet5" ,"Affirmative" ,"Singular" ,"Person1" ,"Common" ,"-e’"],
-      ["Definite" ,"FormSet5" ,"Affirmative" ,"Singular" ,"Person2" ,"Common" ,"-at"],
-      ["Definite" ,"FormSet5" ,"Affirmative" ,"Singular" ,"Person3" ,"Masc" ,"-e’"],
-      ["Definite" ,"FormSet5" ,"Affirmative" ,"Singular" ,"Person3" ,"Fem" ,"-at"],
-      ["Definite" ,"FormSet5" ,"Affirmative" ,"Plural" ,"Person1" ,"Common" ,"-an"],
-      ["Definite" ,"FormSet5" ,"Affirmative" ,"Plural" ,"Person2" ,"Common" ,"-tin"],
-      ["Definite" ,"FormSet5" ,"Affirmative" ,"Plural" ,"Person3" ,"Common" ,"-an"],
-      ["Indefinite" ,"Common" ,"Negative" ,"Singular" ,"Person1" ,"Common" ,"-e"],
-      ["Indefinite" ,"Common" ,"Negative" ,"Singular" ,"Person2" ,"Common" ,"-(t)e"],
-      ["Indefinite" ,"Common" ,"Negative" ,"Singular" ,"Person3" ,"Masc" ,"-e"],
-      ["Indefinite" ,"Common" ,"Negative" ,"Singular" ,"Person3" ,"Fem" ,"-(t)e"],
-      ["Indefinite" ,"Common" ,"Negative" ,"Plural" ,"Person1" ,"Common" ,"-ni"],
-      ["Indefinite" ,"Common" ,"Negative" ,"Plural" ,"Person2" ,"Common" ,"-ten"],
-      ["Indefinite" ,"Common" ,"Negative" ,"Plural" ,"Person3" ,"Common" ,"-en"],
-      ["Indefinite" ,"FormSet1" ,"Affirmative" ,"Singular" ,"Person1" ,"Common" ,"-a"],
-      ["Indefinite" ,"FormSet1" ,"Affirmative" ,"Singular" ,"Person2" ,"Common" ,"-it"],
-      ["Indefinite" ,"FormSet1" ,"Affirmative" ,"Singular" ,"Person3" ,"Masc" ,"-ei"],
-      ["Indefinite" ,"FormSet1" ,"Affirmative" ,"Singular" ,"Person3" ,"Fem" ,"-it"],
-      ["Indefinite" ,"FormSet1" ,"Affirmative" ,"Plural" ,"Person1" ,"Common" ,"-in"],
-      ["Indefinite" ,"FormSet1" ,"Affirmative" ,"Plural" ,"Person1" ,"Common" ,"-ino"],
-      ["Indefinite" ,"FormSet1" ,"Affirmative" ,"Plural" ,"Person2" ,"Common" ,"-an"],
-      ["Indefinite" ,"FormSet1" ,"Affirmative" ,"Plural" ,"Person3" ,"Common" ,"-can"],
-      ["Indefinite" ,"FormSet2" ,"Affirmative" ,"Singular" ,"Person1" ,"Common" ,"-a"],
-      ["Indefinite" ,"FormSet2" ,"Affirmative" ,"Singular" ,"Person2" ,"Common" ,"-u(t)"],
-      ["Indefinite" ,"FormSet2" ,"Affirmative" ,"Singular" ,"Person3" ,"Masc" ,"-ui"],
-      ["Indefinite" ,"FormSet2" ,"Affirmative" ,"Singular" ,"Person3" ,"Fem" ,"-u(t)"],
-      ["Indefinite" ,"FormSet2" ,"Affirmative" ,"Plural" ,"Person1" ,"Common" ,"-un"],
-      ["Indefinite" ,"FormSet2" ,"Affirmative" ,"Plural" ,"Person2" ,"Common" ,"-tan"],
-      ["Indefinite" ,"FormSet2" ,"Affirmative" ,"Plural" ,"Person3" ,"Common" ,"-can"],
-      ["Indefinite" ,"FormSet3" ,"Affirmative" ,"Singular" ,"Person1" ,"Common" ,"-a"],
-      ["Indefinite" ,"FormSet3" ,"Affirmative" ,"Singular" ,"Person2" ,"Common" ,"-ot"],
-      ["Indefinite" ,"FormSet3" ,"Affirmative" ,"Singular" ,"Person3" ,"Masc" ,"-oi"],
-      ["Indefinite" ,"FormSet3" ,"Affirmative" ,"Singular" ,"Person3" ,"Fem" ,"-ot"],
-      ["Indefinite" ,"FormSet3" ,"Affirmative" ,"Plural" ,"Person1" ,"Common" ,"-on"],
-      ["Indefinite" ,"FormSet3" ,"Affirmative" ,"Plural" ,"Person2" ,"Common" ,"-otan"],
-      ["Indefinite" ,"FormSet3" ,"Affirmative" ,"Plural" ,"Person3" ,"Common" ,"-can"],
-      ["Indefinite" ,"FormSet4" ,"Affirmative" ,"Singular" ,"Person1" ,"Common" ,"-a"],
-      ["Indefinite" ,"FormSet4" ,"Affirmative" ,"Singular" ,"Person2" ,"Common" ,"-i(t)"],
-      ["Indefinite" ,"FormSet4" ,"Affirmative" ,"Singular" ,"Person3" ,"Masc" ,"-ei"],
-      ["Indefinite" ,"FormSet4" ,"Affirmative" ,"Singular" ,"Person3" ,"Fem" ,"-i(t)"],
-      ["Indefinite" ,"FormSet4" ,"Affirmative" ,"Plural" ,"Person1" ,"Common" ,"-in"],
-      ["Indefinite" ,"FormSet4" ,"Affirmative" ,"Plural" ,"Person2" ,"Common" ,"-an"],
-      ["Indefinite" ,"FormSet4" ,"Affirmative" ,"Plural" ,"Person3" ,"Common" ,"-can"],
-      ["Indefinite" ,"FormSet5" ,"Affirmative" ,"Singular" ,"Person1" ,"Common" ,"-a"],
-      ["Indefinite" ,"FormSet5" ,"Affirmative" ,"Singular" ,"Person2" ,"Common" ,"-a(t)"],
-      ["Indefinite" ,"FormSet5" ,"Affirmative" ,"Singular" ,"Person3" ,"Masc" ,"-ai’"],
-      ["Indefinite" ,"FormSet5" ,"Affirmative" ,"Singular" ,"Person3" ,"Fem" ,"-a(t)"]
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-n"],
+      ["Singular" ,"Person2" ,"Common" ,"-n"],
+      ["Singular" ,"Person3" ,"Masc" ,"-n"],
+      ["Singular" ,"Person3" ,"Fem" ,"-n"],
+      ["Plural" ,"Person1" ,"Common" ,"-nen"],
+      ["Plural" ,"Person2" ,"Common" ,"-nen"],
+      ["Plural" ,"Person3" ,"Common" ,"-nen"]
     ]
   },
   {
-    "label": "yak-Verbmorph-TenseAspectMoodPref-",
-    "note": "He75p.46,49 :: General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-",
+    "label": "yak-morphVerb-SubjSuffFormSet1DefiniteAffirmative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Definite",
+      "conjClass": "FormSet1",
+      "polarity": "Affirmative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-o"],
+      ["Singular" ,"Person2" ,"Common" ,"-ito"],
+      ["Singular" ,"Person3" ,"Masc" ,"-o"],
+      ["Singular" ,"Person3" ,"Fem" ,"-ito"],
+      ["Plural" ,"Person1" ,"Common" ,"-ino"],
+      ["Plural" ,"Person2" ,"Common" ,"-ino"],
+      ["Plural" ,"Person3" ,"Common" ,"-ino"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjSuffFormSet1IndefiniteAffirmative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Indefinite",
+      "conjClass": "FormSet1",
+      "polarity": "Affirmative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-a"],
+      ["Singular" ,"Person2" ,"Common" ,"-it"],
+      ["Singular" ,"Person3" ,"Masc" ,"-ei"],
+      ["Singular" ,"Person3" ,"Fem" ,"-it"],
+      ["Plural" ,"Person1" ,"Common" ,"-in"],
+      ["Plural" ,"Person1" ,"Common" ,"-ino"],
+      ["Plural" ,"Person2" ,"Common" ,"-an"],
+      ["Plural" ,"Person3" ,"Common" ,"-can"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjSuffFormSet2DefiniteAffirmative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Definite",
+      "conjClass": "FormSet2",
+      "polarity": "Affirmative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-i"],
+      ["Singular" ,"Person2" ,"Common" ,"-ti"],
+      ["Singular" ,"Person3" ,"Masc" ,"-i"],
+      ["Singular" ,"Person3" ,"Fem" ,"-ti"],
+      ["Plural" ,"Person1" ,"Common" ,"-in"],
+      ["Plural" ,"Person2" ,"Common" ,"-tin"],
+      ["Plural" ,"Person3" ,"Common" ,"-in"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjSuffFormSet2IndefiniteAffirmative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Indefinite",
+      "conjClass": "FormSet2",
+      "polarity": "Affirmative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-a"],
+      ["Singular" ,"Person2" ,"Common" ,"-u(t)"],
+      ["Singular" ,"Person3" ,"Masc" ,"-ui"],
+      ["Singular" ,"Person3" ,"Fem" ,"-u(t)"],
+      ["Plural" ,"Person1" ,"Common" ,"-un"],
+      ["Plural" ,"Person2" ,"Common" ,"-tan"],
+      ["Plural" ,"Person3" ,"Common" ,"-can"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjSuffFormSet3DefiniteAffirmative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Definite",
+      "conjClass": "FormSet3",
+      "polarity": "Affirmative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-e’"],
+      ["Singular" ,"Person2" ,"Common" ,"-e’"],
+      ["Singular" ,"Person3" ,"Masc" ,"-e’"],
+      ["Singular" ,"Person3" ,"Fem" ,"-ot"],
+      ["Plural" ,"Person1" ,"Common" ,"-on"],
+      ["Plural" ,"Person2" ,"Common" ,"-otin"],
+      ["Plural" ,"Person3" ,"Common" ,"-on"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjSuffFormSet3IndefiniteAffirmative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Indefinite",
+      "conjClass": "FormSet3",
+      "polarity": "Affirmative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-a"],
+      ["Singular" ,"Person2" ,"Common" ,"-ot"],
+      ["Singular" ,"Person3" ,"Masc" ,"-oi"],
+      ["Singular" ,"Person3" ,"Fem" ,"-ot"],
+      ["Plural" ,"Person1" ,"Common" ,"-on"],
+      ["Plural" ,"Person2" ,"Common" ,"-otan"],
+      ["Plural" ,"Person3" ,"Common" ,"-can"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjSuffFormSet4DefiniteAffirmative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Definite",
+      "conjClass": "FormSet4",
+      "polarity": "Affirmative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-I’"],
+      ["Singular" ,"Person2" ,"Common" ,"-it"],
+      ["Singular" ,"Person3" ,"Masc" ,"-I’"],
+      ["Singular" ,"Person3" ,"Fem" ,"-i(t)"],
+      ["Plural" ,"Person1" ,"Common" ,"-in"],
+      ["Plural" ,"Person2" ,"Common" ,"-in"],
+      ["Plural" ,"Person3" ,"Common" ,"-in"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjSuffFormSet4IndefiniteAffirmative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Indefinite",
+      "conjClass": "FormSet4",
+      "polarity": "Affirmative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-a"],
+      ["Singular" ,"Person2" ,"Common" ,"-i(t)"],
+      ["Singular" ,"Person3" ,"Masc" ,"-ei"],
+      ["Singular" ,"Person3" ,"Fem" ,"-i(t)"],
+      ["Plural" ,"Person1" ,"Common" ,"-in"],
+      ["Plural" ,"Person2" ,"Common" ,"-an"],
+      ["Plural" ,"Person3" ,"Common" ,"-can"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjSuffFormSet5DefiniteAffirmative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Definite",
+      "conjClass": "FormSet5",
+      "polarity": "Affirmative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-e’"],
+      ["Singular" ,"Person2" ,"Common" ,"-at"],
+      ["Singular" ,"Person3" ,"Masc" ,"-e’"],
+      ["Singular" ,"Person3" ,"Fem" ,"-at"],
+      ["Plural" ,"Person1" ,"Common" ,"-an"],
+      ["Plural" ,"Person2" ,"Common" ,"-tin"],
+      ["Plural" ,"Person3" ,"Common" ,"-an"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjSuffFormSet5IndefiniteAffirmative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Indefinite",
+      "conjClass": "FormSet5",
+      "polarity": "Affirmative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-a"],
+      ["Singular" ,"Person2" ,"Common" ,"-a(t)"],
+      ["Singular" ,"Person3" ,"Masc" ,"-ai’"],
+      ["Singular" ,"Person3" ,"Fem" ,"-a(t)"],
+      ["Plural" ,"Person1" ,"Common" ,"-an"],
+      ["Plural" ,"Person2" ,"Common" ,"-tan"],
+      ["Plural" ,"Person3" ,"Common" ,"-an"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-SubjSuffIndefiniteNegative",
+    "note": "BH75pp.45;48 :: On formSets:“It seems hardly possible to generalize on the token of these suffixes as almost every verb as a set of its own.” These are not distinguished in the negative.",
+    "common": {
+      "pos": "Verb",
+      "aspect": "Indefinite",
+      "polarity": "Negative",
+      "morphClass": "SubjSuff"
+    },
+    "terms": [
+      ["number" ,"person" ,"gender" ,"token"],
+      ["Singular" ,"Person1" ,"Common" ,"-e"],
+      ["Singular" ,"Person2" ,"Common" ,"-(t)e"],
+      ["Singular" ,"Person3" ,"Masc" ,"-e"],
+      ["Singular" ,"Person3" ,"Fem" ,"-(t)e"],
+      ["Plural" ,"Person1" ,"Common" ,"-ni"],
+      ["Plural" ,"Person2" ,"Common" ,"-ten"],
+      ["Plural" ,"Person3" ,"Common" ,"-en"]
+    ]
+  },
+  {
+    "label": "yak-morphVerb-TenseAspectMoodPref",
+    "note": "BH75p.46,49 :: General structure is:NEG/TAM+Subj(+Obj) Verb+Subj (Obj). NEG is n’ala in perfect,otherwise ŋe-",
     "common": {
       "pos": "Verb",
       "morphClass": "TenseAspectMoodPref"
     },
     "terms": [
-      ["aspect" ,"polarity" ,"tam" ,"token"],
-      ["Definite" ,"Affirmative" ,"Past" ,"aa-"],
-      ["Definite" ,"Affirmative" ,"PastProgressive" ,"maa-"],
-      ["Definite" ,"Affirmative" ,"Perfect" ,"na-"],
-      ["Definite" ,"Affirmative" ,"Present" ,"⊤"],
-      ["Definite" ,"Negative" ,"Past" ,"a-"],
-      ["Definite" ,"Negative" ,"Perfect" ,"⊤"],
-      ["Definite" ,"Negative" ,"Present" ,"ne-"],
-      ["Indefinite" ,"Affirmative" ,"Future" ,"ke-"],
-      ["Indefinite" ,"Affirmative" ,"Present" ,"⊤"],
-      ["Indefinite" ,"Negative" ,"Present" ,"⊤"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-have-FutureIndefiniteAffirmative",
-    "note": "He75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
-    "common": {
-      "aspect": "Indefinite",
-      "gender": "Common",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Future",
-      "morphClass": "have"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"kén-l’ó’o’ w’aa’"],
-      ["Singular" ,"Person2" ,"ká-l’ó’o’ w’aa’"],
-      ["Singular" ,"Person3" ,"ké-l’ó’o’ w’aa’"],
-      ["Plural" ,"Person1" ,"kén-ló’óni’ w’aa’"],
-      ["Plural" ,"Person2" ,"ká-l’ó’óni’ w’aa’"],
-      ["Plural" ,"Person3" ,"ké’ló’óni’"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-have-PastDefiniteAffirmative",
-    "note": "He75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
-    "common": {
-      "aspect": "Definite",
-      "gender": "Common",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Past",
-      "morphClass": "have"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"eén-ló’o’ w’aa’"],
-      ["Singular" ,"Person2" ,"aá-ló’o’ w’aa’"],
-      ["Singular" ,"Person3" ,"eé-ló’o’ w’aa’"],
-      ["Plural" ,"Person1" ,"eén-ló’óní’ w’aa’"],
-      ["Plural" ,"Person2" ,"aá-ló’oni’ w’aa’"],
-      ["Plural" ,"Person3" ,"eé-ló’oni’ w’aa’"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-have-PerfectDefiniteAffirmative",
-    "note": "He75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
-    "common": {
-      "aspect": "Definite",
-      "gender": "Common",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Perfect",
-      "morphClass": "have"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"enén-ló’o’ w’aa’"],
-      ["Singular" ,"Person2" ,"aná-ló’o’ w’aa’"],
-      ["Singular" ,"Person3" ,"ené-ló’o’ w’aa’"],
-      ["Plural" ,"Person1" ,"enén-lóni’ w’aa’"],
-      ["Plural" ,"Person2" ,"aná-ló’o’ w’aa’"],
-      ["Plural" ,"Person3" ,"ené-ló’o’ w’aa’"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-have-PresentDefiniteAffirmative",
-    "note": "He75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
-    "common": {
-      "aspect": "Definite",
-      "gender": "Common",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Present",
-      "morphClass": "have"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"na-lo’o’ w’aa’"],
-      ["Singular" ,"Person2" ,"a-lo’o’ w’aa’"],
-      ["Singular" ,"Person3" ,"a-lo’o’ w’aa’"],
-      ["Plural" ,"Person1" ,"na-lo’oni’ w’aa’"],
-      ["Plural" ,"Person2" ,"a-lo’oni’ w’aa’"],
-      ["Plural" ,"Person3" ,"a-lo’oni’ w’aa’"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-have-PresentIndefiniteAffirmative",
-    "note": "He75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
-    "common": {
-      "aspect": "Indefinite",
-      "gender": "Common",
-      "polarity": "Affirmative",
-      "pos": "Verb",
-      "tam": "Present",
-      "morphClass": "have"
-    },
-    "terms": [
-      ["number" ,"person" ,"token"],
-      ["Singular" ,"Person1" ,"n-l’óo’ w’aa’"],
-      ["Singular" ,"Person2" ,"-al’óo’ w’aa’"],
-      ["Singular" ,"Person3" ,"l’ó’o’ w’aa’"],
-      ["Plural" ,"Person1" ,"n-lo’oni’ w’aa’"],
-      ["Plural" ,"Person2" ,"a-lo’oni’ w’aa’"],
-      ["Plural" ,"Person3" ,"lo’oni’ w’aa’"]
-    ]
-  },
-  {
-    "label": "yak-Verbmorph-have-PresentIndefiniteNegative",
-    "note": "He75pp.57f :: –lo’o “differs from other verbs in that it does not distinguish personal suffices. The prlural suffx is for both indefinite and definite aspect –ni. Past and Perfect markers are ee- and ene- rather than aa- and na-,respectively",
-    "common": {
-      "aspect": "Indefinite",
-      "polarity": "Negative",
-      "pos": "Verb",
-      "tam": "Present",
-      "morphClass": "have"
-    },
-    "terms": [
-      ["number" ,"person" ,"gender" ,"token"],
-      ["Singular" ,"Person1" ,"Common" ,"‘iíce’ kélói w’aa’"],
-      ["Singular" ,"Person1" ,"Common" ,"n-t’eet’a w’aa’"],
-      ["Singular" ,"Person2" ,"Common" ,"a-t’eet’e w’aa’"],
-      ["Singular" ,"Person3" ,"Masc" ,"t’eet’ei w’aa’"],
-      ["Singular" ,"Person3" ,"Fem" ,"t’eet’e w’aa’"],
-      ["Plural" ,"Person1" ,"Common" ,"n-t’eet’in w’aa’"],
-      ["Plural" ,"Person2" ,"Common" ,"a-t’eé’tán w’aa’"],
-      ["Plural" ,"Person3" ,"Common" ,"t’eé-an w’aa’"]
+      ["polarity" ,"aspect" ,"tam" ,"token"],
+      ["Affirmative" ,"Definite" ,"Past" ,"aa-"],
+      ["Affirmative" ,"Definite" ,"PastProgressive" ,"maa-"],
+      ["Affirmative" ,"Definite" ,"Perfect" ,"na-"],
+      ["Affirmative" ,"Definite" ,"Present" ,"a"],
+      ["Affirmative" ,"Indefinite" ,"Future" ,"ke-"],
+      ["Affirmative" ,"Indefinite" ,"Present" ,"∅-"],
+      ["Negative" ,"_NA" ,"Past" ,"a-"],
+      ["Negative" ,"_NA" ,"Perfect" ,"a"],
+      ["Negative" ,"_NA" ,"Present" ,"ne-"],
+      ["Negative" ,"_NA" ,"Present" ,"∅-"]
     ]
   }
 ]}
